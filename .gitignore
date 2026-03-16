@@ -1,7 +1,6 @@
 .DS_Store
-*.png
-*.jpg
-*.jpeg
-*.gif
+Screen Shot*
+!**/charts/*.png
+!**/screenshots/*.png
 !assets/*.png
 !assets/*.jpg
