@@ -4,3 +4,7 @@ Screen Shot*
 !**/screenshots/*.png
 !assets/*.png
 !assets/*.jpg
+**/FRIEND_POWERBI_GUIDE.md
+**/STEP_BY_STEP_GUIDE.md
+**/powerbi_guide/
+**/tableau_guide/
