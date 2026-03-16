@@ -22,13 +22,20 @@ This project analyzes 500+ transactions across five product categories to identi
 
 ## Visualizations
 
-The analysis produces the following charts:
+### Top 15 Vendors by Spend
+![Top Vendors](analysis/charts/01_top_vendors_spend.png)
 
-1. **Top 15 Vendors by Total Spend** -- Horizontal bar chart revealing spend concentration (top 5 vendors account for 62% of spend)
-2. **Spend by Product Category** -- Pie chart showing Raw Materials and Chemical Compounds dominate at 58% combined
-3. **Monthly Spend Trend** -- Line chart exposing Q4 spending spikes (seasonal procurement pattern)
-4. **Duplicate Vendor Price Comparison** -- Grouped bar chart comparing unit prices for the same product across duplicate vendors
-5. **Savings Waterfall** -- Horizontal bar chart breaking down optimization opportunities by category
+### Spend Distribution by Category
+![Category Spend](analysis/charts/02_spend_by_category.png)
+
+### Monthly Spend Trend
+![Monthly Trend](analysis/charts/03_monthly_trend.png)
+
+### Price Comparison Across Vendors
+![Price Comparison](analysis/charts/04_price_comparison.png)
+
+### Cost Optimization Opportunities
+![Savings Breakdown](analysis/charts/05_savings_breakdown.png)
 
 ## How to Run
 
