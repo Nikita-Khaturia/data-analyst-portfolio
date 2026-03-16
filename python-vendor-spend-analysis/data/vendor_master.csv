@@ -1,0 +1,21 @@
+vendor_id,vendor_name,category,location,contract_start,contract_end,preferred_status,credit_rating
+V001,PharmaCorp Inc,Raw Materials,"New Jersey, USA",2022-01-15,2025-01-14,Yes,A
+V002,Pharma Corp International,Raw Materials,"New Jersey, USA",2022-06-01,2025-05-31,No,A
+V003,ChemSource LLC,Chemical Compounds,"Delaware, USA",2021-03-01,2024-02-28,Yes,A+
+V004,Chemical Source Labs,Chemical Compounds,"Pennsylvania, USA",2022-09-15,2025-09-14,No,B+
+V005,MedPack Solutions,Packaging,"Ohio, USA",2021-07-01,2024-06-30,Yes,A
+V006,MedPack Global,Packaging,"Ohio, USA",2023-01-01,2025-12-31,No,A-
+V007,LabTech Instruments,Lab Equipment,"California, USA",2020-11-01,2023-10-31,Yes,A+
+V008,Lab Technologies Inc,Lab Equipment,"California, USA",2022-04-01,2025-03-31,No,B+
+V009,GlobalFreight Partners,Logistics,"Texas, USA",2021-01-15,2024-01-14,Yes,A
+V010,SwiftShip Logistics,Logistics,"Georgia, USA",2022-02-01,2025-01-31,Yes,A-
+V011,BioReagent Supply Co,Chemical Compounds,"Massachusetts, USA",2021-05-01,2024-04-30,Yes,A
+V012,PrecisionLab Corp,Lab Equipment,"Illinois, USA",2022-08-01,2025-07-31,Yes,A
+V013,EcoPack Industries,Packaging,"Michigan, USA",2021-10-01,2024-09-30,No,B
+V014,RawChem Distributors,Raw Materials,"Louisiana, USA",2022-03-15,2025-03-14,Yes,A-
+V015,TransGlobal Freight,Logistics,"Florida, USA",2023-01-01,2025-12-31,No,B+
+V016,NovaSynth Materials,Raw Materials,"North Carolina, USA",2021-09-01,2024-08-31,Yes,A
+V017,ApexChem Solutions,Chemical Compounds,"Maryland, USA",2022-07-01,2025-06-30,No,A-
+V018,PharmaGrade Packaging,Packaging,"Indiana, USA",2021-12-01,2024-11-30,Yes,B+
+V019,Quantum Lab Systems,Lab Equipment,"Colorado, USA",2022-05-01,2025-04-30,No,A
+V020,National Freight Co,Logistics,"Tennessee, USA",2023-03-01,2026-02-28,Yes,A

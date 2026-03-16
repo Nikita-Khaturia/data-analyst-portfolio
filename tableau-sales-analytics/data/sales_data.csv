@@ -1,0 +1,1001 @@
+order_id,order_date,customer_name,customer_segment,region,state,city,product_category,product_subcategory,product_name,quantity,unit_price,discount,sales_amount,profit,shipping_cost,ship_mode
+ORD-100001,2025-11-03,Charles Miller,Home Office,West,Nevada,Las Vegas,Furniture,Bookcases,IKEA KALLAX,3,79.55,0.4,143.19,-45.83,6.95,Standard Class
+ORD-100002,2024-05-16,Linda Taylor,Home Office,North,Massachusetts,Boston,Furniture,Bookcases,Sauder Select Bookcase,3,1217.96,0.5,1826.94,-664.1,77.94,Standard Class
+ORD-100003,2023-10-25,Donald Perez,Corporate,South,Florida,Miami,Technology,Copiers,Canon imageRUNNER,1,1672.34,0.0,1672.34,359.68,128.03,Standard Class
+ORD-100004,2023-04-06,Jennifer Thomas,Consumer,West,Oregon,Portland,Technology,Copiers,HP LaserJet Pro,1,1662.39,0.1,1496.15,404.77,102.5,Same Day
+ORD-100005,2024-06-05,Donald Jackson,Home Office,North,Minnesota,Minneapolis,Technology,Copiers,HP LaserJet Pro,4,386.07,0.15,1312.64,349.08,88.66,Standard Class
+ORD-100006,2025-03-22,Sandra Taylor,Consumer,East,District of Columbia,Washington,Office Supplies,Paper,HP Printer Paper,1,20.46,0.2,16.37,2.12,0.72,Standard Class
+ORD-100007,2024-08-16,Nancy Williams,Consumer,East,New Jersey,Newark,Furniture,Bookcases,Bush Furniture Cabot,7,1011.41,0.0,7079.87,1168.42,193.4,Second Class
+ORD-100008,2024-04-12,Anthony Jones,Consumer,South,Florida,Orlando,Furniture,Tables,FlexiSpot E7,1,1439.6,0.1,1295.64,66.3,137.49,Standard Class
+ORD-100009,2023-12-13,Jennifer Garcia,Corporate,West,California,Los Angeles,Technology,Computers,MacBook Pro 14,2,751.41,0.4,901.69,-129.17,77.32,Standard Class
+ORD-100010,2023-11-24,James Brown,Consumer,East,Maine,Portland,Office Supplies,Art,Crayola Colored Pencils,4,65.25,0.0,261.0,53.9,27.38,Same Day
+ORD-100011,2024-02-10,Barbara Rodriguez,Corporate,North,Ohio,Columbus,Furniture,Bookcases,IKEA KALLAX,4,226.83,0.0,907.32,94.48,228.43,Same Day
+ORD-100012,2024-11-25,Karen Garcia,Corporate,North,Minnesota,Minneapolis,Office Supplies,Paper,Staples Multipurpose,2,19.05,0.15,32.38,6.86,2.26,Second Class
+ORD-100013,2024-10-02,Michelle Thomas,Consumer,North,Michigan,Detroit,Technology,Phones,Apple iPhone 15,1,902.99,0.0,902.99,204.1,108.11,Standard Class
+ORD-100014,2025-11-06,Susan Gonzalez,Home Office,East,Maryland,Baltimore,Office Supplies,Paper,Staples Multipurpose,5,60.89,0.1,274.0,50.54,19.9,Standard Class
+ORD-100015,2023-12-06,Joseph Ramirez,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Art,Prismacolor Premier Set,2,71.41,0.15,121.4,24.6,29.42,Same Day
+ORD-100016,2024-07-17,Paul Williams,Corporate,South,Texas,Austin,Technology,Computers,MacBook Pro 14,3,1564.39,0.0,4693.17,1001.37,471.56,Second Class
+ORD-100017,2024-11-13,Sandra Hernandez,Corporate,North,New York,Buffalo,Furniture,Chairs,Herman Miller Aeron,1,1310.57,0.0,1310.57,86.83,45.42,Standard Class
+ORD-100018,2023-05-27,Sandra Perez,Corporate,North,Wisconsin,Milwaukee,Technology,Phones,Samsung Galaxy S24,1,936.73,0.0,936.73,212.93,69.53,Standard Class
+ORD-100019,2024-06-02,Thomas Garcia,Consumer,West,Washington,Seattle,Office Supplies,Storage,IRIS Stacking Bin,8,49.49,0.15,336.53,93.98,44.46,First Class
+ORD-100020,2023-09-12,Matthew Taylor,Consumer,North,Minnesota,Minneapolis,Technology,Accessories,"Samsung Monitor 27""",1,108.74,0.5,54.37,-11.78,3.5,Second Class
+ORD-100021,2025-06-07,Patricia Wilson,Consumer,North,New York,Buffalo,Furniture,Furnishings,Rubbermaid Shelving,2,980.22,0.4,1176.26,-354.24,250.22,First Class
+ORD-100022,2024-02-22,James Gonzalez,Home Office,South,Florida,Tampa,Furniture,Chairs,Secretlab Titan,10,450.4,0.3,3152.8,-755.94,590.96,First Class
+ORD-100023,2023-10-26,Matthew Hernandez,Corporate,East,Maryland,Baltimore,Technology,Computers,HP Spectre x360,2,1895.22,0.0,3790.44,1041.19,262.28,Standard Class
+ORD-100024,2024-02-10,Karen Brown,Corporate,West,California,San Diego,Furniture,Chairs,Secretlab Titan,3,237.0,0.15,604.35,108.05,57.8,Second Class
+ORD-100025,2023-01-07,Ashley Garcia,Consumer,East,Vermont,Burlington,Furniture,Chairs,Steelcase Leap V2,4,930.35,0.0,3721.4,469.07,121.16,Standard Class
+ORD-100026,2025-11-15,Donald Perez,Home Office,North,New York,New York,Technology,Phones,Samsung Galaxy S24,3,2143.88,0.4,3858.98,-637.74,298.64,Standard Class
+ORD-100027,2025-03-02,Michelle Perez,Corporate,South,Florida,Miami,Office Supplies,Art,Expo Dry Erase Kit,2,39.85,0.0,79.7,22.0,4.77,Second Class
+ORD-100028,2024-07-18,Betty Harris,Corporate,North,Pennsylvania,Pittsburgh,Technology,Phones,Samsung Galaxy S24,2,672.61,0.0,1345.22,254.26,145.85,Standard Class
+ORD-100029,2024-03-05,Lisa Jones,Consumer,North,Ohio,Columbus,Furniture,Tables,Autonomous SmartDesk,3,1051.57,0.0,3154.71,283.42,144.91,Second Class
+ORD-100030,2025-04-04,Paul Rodriguez,Consumer,South,Georgia,Atlanta,Furniture,Bookcases,Bush Furniture Cabot,4,179.77,0.5,359.54,-110.08,27.42,Second Class
+ORD-100031,2025-10-08,Anthony Anderson,Consumer,North,New York,New York,Technology,Copiers,Xerox VersaLink,1,2443.42,0.1,2199.08,452.67,468.62,Same Day
+ORD-100032,2025-07-28,Betty Clark,Consumer,North,Massachusetts,Boston,Furniture,Tables,FlexiSpot E7,3,1052.1,0.0,3156.3,323.59,120.98,Standard Class
+ORD-100033,2025-07-20,Thomas Moore,Corporate,East,Connecticut,Hartford,Furniture,Furnishings,Flash Furniture Rug,1,760.25,0.1,684.23,111.74,17.78,Standard Class
+ORD-100034,2023-11-04,Lisa Jones,Consumer,East,New Jersey,Newark,Technology,Computers,MacBook Pro 14,8,1962.79,0.0,15702.32,2856.07,4546.52,Same Day
+ORD-100035,2025-01-08,Christopher Wilson,Home Office,North,New York,New York,Technology,Accessories,Anker USB-C Hub,2,119.52,0.4,143.42,-27.16,12.13,Standard Class
+ORD-100036,2023-09-02,Karen Perez,Corporate,South,Florida,Orlando,Office Supplies,Art,Crayola Colored Pencils,1,55.09,0.0,55.09,11.86,6.07,Second Class
+ORD-100037,2023-01-18,Christopher Wilson,Consumer,North,New York,New York,Office Supplies,Art,Sharpie Markers Set,1,30.64,0.15,26.04,7.06,7.28,Same Day
+ORD-100038,2025-12-09,Donna Clark,Consumer,West,Oregon,Portland,Office Supplies,Paper,Hammermill Copy Paper,3,8.55,0.0,25.65,5.14,2.72,Standard Class
+ORD-100039,2025-11-02,Jessica Jones,Corporate,West,Arizona,Phoenix,Technology,Phones,Google Pixel 8,2,1036.05,0.1,1864.89,464.35,169.73,Standard Class
+ORD-100040,2025-09-22,Karen Lopez,Consumer,South,Florida,Tampa,Furniture,Chairs,Steelcase Leap V2,1,563.21,0.0,563.21,43.51,25.25,Standard Class
+ORD-100041,2024-02-20,Charles Sanchez,Home Office,North,Wisconsin,Milwaukee,Office Supplies,Art,Prismacolor Premier Set,2,13.76,0.15,23.39,7.41,1.26,Second Class
+ORD-100042,2024-08-09,Anthony Davis,Home Office,West,Nevada,Las Vegas,Office Supplies,Art,Sharpie Markers Set,4,70.35,0.5,140.7,-22.83,10.6,Standard Class
+ORD-100043,2025-03-07,Ashley Lee,Home Office,South,Texas,Dallas,Technology,Phones,Samsung Galaxy S24,1,325.12,0.0,325.12,77.54,58.36,First Class
+ORD-100044,2025-11-06,Barbara Taylor,Consumer,North,Massachusetts,Boston,Furniture,Furnishings,AmazonBasics Lamp,7,563.99,0.15,3355.74,432.57,81.45,Standard Class
+ORD-100045,2023-04-17,Thomas Brown,Consumer,East,West Virginia,Charleston,Furniture,Bookcases,Walker Edison Bookshelf,4,229.51,0.0,918.04,138.17,45.67,Second Class
+ORD-100046,2023-09-27,Matthew Garcia,Corporate,West,Oregon,Portland,Technology,Computers,MacBook Pro 14,5,1954.51,0.1,8795.3,2036.5,710.89,Standard Class
+ORD-100047,2024-10-09,Nancy White,Consumer,East,Vermont,Burlington,Furniture,Furnishings,Flash Furniture Rug,4,931.44,0.0,3725.76,187.3,564.95,First Class
+ORD-100048,2023-04-28,Patricia Jones,Consumer,East,Rhode Island,Providence,Office Supplies,Art,Prismacolor Premier Set,1,30.82,0.4,18.49,-3.55,2.29,Second Class
+ORD-100049,2025-06-05,Jennifer Thomas,Corporate,South,North Carolina,Charlotte,Office Supplies,Art,Crayola Colored Pencils,3,19.15,0.0,57.45,11.68,1.73,Standard Class
+ORD-100050,2025-10-05,Barbara Ramirez,Consumer,North,Massachusetts,Boston,Technology,Accessories,Logitech MX Master 3,2,94.92,0.3,132.89,-20.98,31.68,Same Day
+ORD-100051,2024-05-03,Susan Lewis,Consumer,East,West Virginia,Charleston,Furniture,Bookcases,Bush Furniture Cabot,1,85.19,0.1,76.67,7.84,6.32,Second Class
+ORD-100052,2025-12-13,Jessica Jackson,Home Office,West,California,Los Angeles,Furniture,Furnishings,AmazonBasics Lamp,1,519.56,0.15,441.63,14.89,109.32,Same Day
+ORD-100053,2025-10-19,Jennifer Jones,Corporate,East,New Jersey,Newark,Technology,Copiers,Xerox VersaLink,5,2298.63,0.2,9194.52,621.98,260.75,Standard Class
+ORD-100054,2023-07-20,Susan Rodriguez,Consumer,South,Florida,Orlando,Office Supplies,Paper,Hammermill Copy Paper,5,63.43,0.0,317.15,93.27,15.35,First Class
+ORD-100055,2023-05-07,Christopher Garcia,Corporate,South,Georgia,Atlanta,Office Supplies,Art,Expo Dry Erase Kit,2,60.23,0.0,120.46,28.87,6.91,Standard Class
+ORD-100056,2024-02-17,Mark White,Consumer,East,District of Columbia,Washington,Technology,Copiers,Canon imageRUNNER,3,2349.67,0.1,6344.11,1646.36,138.6,Standard Class
+ORD-100057,2023-04-21,Donna Clark,Consumer,East,New Hampshire,Manchester,Furniture,Bookcases,IKEA KALLAX,3,880.08,0.1,2376.22,340.25,143.49,Standard Class
+ORD-100058,2025-10-01,Robert Johnson,Corporate,North,Illinois,Chicago,Technology,Copiers,Brother MFC-L8900CDW,2,1616.97,0.1,2910.55,721.74,428.71,Second Class
+ORD-100059,2023-11-19,Patricia Hernandez,Consumer,West,Colorado,Denver,Furniture,Bookcases,Walker Edison Bookshelf,1,1221.14,0.0,1221.14,70.73,246.33,First Class
+ORD-100060,2024-01-22,Anthony Clark,Corporate,East,West Virginia,Charleston,Office Supplies,Paper,HP Printer Paper,3,9.72,0.1,26.24,5.31,2.3,Second Class
+ORD-100061,2023-08-15,Thomas Wilson,Home Office,West,California,San Diego,Technology,Computers,Lenovo ThinkPad X1,1,680.84,0.3,476.59,-24.66,13.7,Second Class
+ORD-100062,2023-07-07,Margaret Miller,Consumer,West,Oregon,Portland,Technology,Copiers,Canon imageRUNNER,3,682.91,0.2,1638.98,134.16,145.73,Standard Class
+ORD-100063,2024-01-17,John Taylor,Corporate,West,Arizona,Phoenix,Office Supplies,Art,Expo Dry Erase Kit,4,8.18,0.15,27.81,5.41,4.82,First Class
+ORD-100064,2025-08-13,Sarah Rodriguez,Consumer,West,Oregon,Portland,Technology,Phones,Samsung Galaxy S24,3,823.12,0.1,2222.42,493.79,67.92,Standard Class
+ORD-100065,2024-12-15,Barbara Davis,Consumer,North,Illinois,Chicago,Office Supplies,Art,Crayola Colored Pencils,6,36.1,0.0,216.6,63.89,14.96,Standard Class
+ORD-100066,2023-09-18,Jessica Jackson,Consumer,West,Nevada,Las Vegas,Office Supplies,Paper,Hammermill Copy Paper,1,6.06,0.3,4.24,-0.29,0.18,Standard Class
+ORD-100067,2024-10-13,Donald Robinson,Consumer,South,Florida,Tampa,Technology,Copiers,Canon imageRUNNER,1,1533.92,0.0,1533.92,257.76,77.36,Standard Class
+ORD-100068,2023-03-02,Sarah Anderson,Consumer,West,Colorado,Denver,Furniture,Tables,Uplift V2 Standing Desk,1,673.37,0.0,673.37,25.07,67.64,Standard Class
+ORD-100069,2024-12-15,Robert Rodriguez,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Samsill View Binder,6,21.0,0.3,88.2,-6.13,8.25,Standard Class
+ORD-100070,2023-10-02,Jennifer Rodriguez,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Binders,Samsill View Binder,2,47.74,0.0,95.48,22.0,5.57,Standard Class
+ORD-100071,2025-05-16,Christopher Wilson,Corporate,North,Ohio,Columbus,Office Supplies,Binders,Samsill View Binder,1,59.22,0.15,50.34,15.11,8.05,Same Day
+ORD-100072,2023-11-12,David Lopez,Consumer,South,Florida,Orlando,Technology,Copiers,HP LaserJet Pro,4,2189.16,0.3,6129.65,-612.12,727.09,Standard Class
+ORD-100073,2024-04-01,Christopher Garcia,Consumer,East,West Virginia,Charleston,Technology,Phones,Apple iPhone 15,2,1377.77,0.15,2342.21,389.31,278.99,Standard Class
+ORD-100074,2024-06-04,Jessica Gonzalez,Consumer,West,Washington,Seattle,Furniture,Chairs,Steelcase Leap V2,3,1298.67,0.1,3506.41,479.97,173.91,Standard Class
+ORD-100075,2025-10-01,David Jackson,Consumer,North,Pennsylvania,Philadelphia,Furniture,Bookcases,Walker Edison Bookshelf,6,1339.53,0.15,6831.6,537.18,741.23,Standard Class
+ORD-100076,2023-06-04,Donald Moore,Corporate,South,Virginia,Richmond,Office Supplies,Art,Expo Dry Erase Kit,1,75.2,0.1,67.68,12.17,4.55,Standard Class
+ORD-100077,2024-09-14,Nancy Williams,Corporate,North,New York,Buffalo,Furniture,Tables,FlexiSpot E7,5,477.16,0.2,1908.64,-10.69,40.9,Standard Class
+ORD-100078,2025-01-03,Sandra Hernandez,Consumer,South,Florida,Orlando,Furniture,Furnishings,Safco Coat Rack,2,260.71,0.2,417.14,-2.96,13.83,Standard Class
+ORD-100079,2023-07-09,Sarah Rodriguez,Home Office,North,Massachusetts,Boston,Technology,Phones,Google Pixel 8,1,2263.86,0.15,1924.28,441.21,268.23,Second Class
+ORD-100080,2023-04-01,Karen Lopez,Consumer,East,New Hampshire,Manchester,Furniture,Chairs,HON Ignition 2.0,2,1032.22,0.0,2064.44,92.01,96.88,Standard Class
+ORD-100081,2023-02-25,Michelle Harris,Consumer,West,Colorado,Denver,Office Supplies,Paper,HP Printer Paper,2,46.91,0.1,84.44,15.08,17.02,Same Day
+ORD-100082,2025-10-27,Patricia Jones,Corporate,East,West Virginia,Charleston,Technology,Phones,Samsung Galaxy S24,2,822.11,0.2,1315.38,75.06,112.71,Standard Class
+ORD-100083,2025-12-22,Lisa Jones,Consumer,North,Minnesota,Minneapolis,Office Supplies,Binders,Cardinal Economy Binder,2,57.38,0.0,114.76,29.12,15.21,First Class
+ORD-100084,2024-03-05,Steven Martinez,Consumer,South,Tennessee,Nashville,Office Supplies,Binders,Samsill View Binder,2,3.45,0.0,6.9,1.94,0.72,Second Class
+ORD-100085,2024-07-17,Michael Ramirez,Consumer,West,Oregon,Portland,Technology,Phones,Apple iPhone 15,3,230.6,0.0,691.8,122.83,36.54,Second Class
+ORD-100086,2024-07-02,Elizabeth Martinez,Corporate,South,Florida,Miami,Furniture,Tables,FlexiSpot E7,2,654.64,0.3,916.5,-143.55,171.14,First Class
+ORD-100087,2023-01-10,Jennifer Lewis,Corporate,West,Oregon,Portland,Technology,Computers,HP Spectre x360,7,1945.6,0.15,11576.32,2766.59,899.81,Second Class
+ORD-100088,2025-02-28,David Lopez,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Storage,Bankers Box,5,18.86,0.1,84.87,20.22,3.15,Standard Class
+ORD-100089,2024-10-15,Anthony Anderson,Consumer,East,Delaware,Wilmington,Furniture,Furnishings,Safco Coat Rack,1,826.17,0.0,826.17,32.94,36.61,Second Class
+ORD-100090,2025-09-25,Betty Clark,Consumer,West,California,Los Angeles,Technology,Computers,MacBook Pro 14,1,247.35,0.1,222.62,58.65,13.87,Standard Class
+ORD-100091,2025-11-07,Donna Johnson,Corporate,East,Rhode Island,Providence,Office Supplies,Paper,Hammermill Copy Paper,1,37.19,0.1,33.47,9.35,3.11,Standard Class
+ORD-100092,2025-09-01,Betty Clark,Home Office,South,Georgia,Atlanta,Technology,Accessories,Logitech MX Master 3,4,145.96,0.0,583.84,104.93,29.78,Standard Class
+ORD-100093,2024-12-13,Susan Gonzalez,Home Office,South,North Carolina,Charlotte,Technology,Copiers,Xerox VersaLink,5,1415.1,0.0,7075.5,1417.99,320.54,Second Class
+ORD-100094,2025-10-11,Karen Brown,Consumer,West,California,San Francisco,Furniture,Chairs,Herman Miller Aeron,5,1346.68,0.5,3366.7,-1278.46,286.49,Second Class
+ORD-100095,2024-09-25,Thomas Moore,Consumer,East,Maryland,Baltimore,Office Supplies,Paper,Staples Multipurpose,2,11.48,0.0,22.96,3.93,2.04,Standard Class
+ORD-100096,2023-10-03,Mary Brown,Consumer,South,Virginia,Richmond,Office Supplies,Binders,Samsill View Binder,3,63.33,0.15,161.49,33.81,33.21,First Class
+ORD-100097,2023-11-26,Mary Brown,Home Office,East,Maryland,Baltimore,Technology,Phones,Samsung Galaxy S24,1,218.17,0.0,218.17,54.01,6.2,Standard Class
+ORD-100098,2023-01-04,Emily Robinson,Home Office,West,Washington,Seattle,Office Supplies,Binders,Cardinal Economy Binder,2,3.82,0.1,6.88,2.19,1.85,Same Day
+ORD-100099,2024-12-20,Karen Martin,Corporate,West,California,San Francisco,Furniture,Bookcases,Bush Furniture Cabot,6,1147.3,0.0,6883.8,652.57,347.63,Second Class
+ORD-100100,2023-12-03,Donald Moore,Home Office,North,Minnesota,Minneapolis,Furniture,Bookcases,Sauder Select Bookcase,3,911.32,0.3,1913.77,-452.64,75.52,Standard Class
+ORD-100101,2025-06-18,Elizabeth Martinez,Corporate,North,Pennsylvania,Philadelphia,Furniture,Furnishings,AmazonBasics Lamp,2,533.46,0.1,960.23,66.09,179.22,Same Day
+ORD-100102,2025-04-07,Barbara Davis,Consumer,East,Maine,Portland,Technology,Accessories,Anker USB-C Hub,5,140.65,0.2,562.6,54.54,24.36,Standard Class
+ORD-100103,2024-11-12,Emily Lee,Home Office,West,Oregon,Portland,Office Supplies,Art,Expo Dry Erase Kit,1,14.19,0.3,9.93,0.22,0.74,Standard Class
+ORD-100104,2024-10-15,Anthony Jones,Home Office,East,Rhode Island,Providence,Technology,Phones,OnePlus 12,3,2371.76,0.1,6403.75,1594.91,408.25,Standard Class
+ORD-100105,2024-12-04,Michelle Thomas,Consumer,North,Minnesota,Minneapolis,Office Supplies,Art,Crayola Colored Pencils,7,21.32,0.4,89.54,-4.58,7.12,Second Class
+ORD-100106,2025-11-28,Richard Wilson,Home Office,South,Tennessee,Nashville,Office Supplies,Binders,Avery Durable Binder,1,63.33,0.3,44.33,-3.21,2.77,Standard Class
+ORD-100107,2023-05-07,Karen Williams,Consumer,East,West Virginia,Charleston,Furniture,Chairs,HON Ignition 2.0,5,856.33,0.0,4281.65,387.01,378.21,Standard Class
+ORD-100108,2023-02-15,Kimberly White,Corporate,East,Rhode Island,Providence,Office Supplies,Storage,IRIS Stacking Bin,2,35.76,0.0,71.52,17.11,7.2,Standard Class
+ORD-100109,2023-09-12,Thomas Moore,Home Office,South,Texas,Austin,Technology,Copiers,Xerox VersaLink,6,233.28,0.0,1399.68,205.7,202.83,Second Class
+ORD-100110,2024-10-13,Daniel Perez,Home Office,South,Virginia,Richmond,Office Supplies,Art,Sharpie Markers Set,3,39.27,0.2,94.25,9.96,3.87,Standard Class
+ORD-100111,2023-09-24,Michelle Garcia,Consumer,South,Florida,Orlando,Technology,Computers,Lenovo ThinkPad X1,3,500.12,0.0,1500.36,373.11,144.05,Standard Class
+ORD-100112,2023-09-21,Mark Martin,Corporate,East,Delaware,Wilmington,Furniture,Bookcases,Bush Furniture Cabot,3,649.05,0.1,1752.43,104.6,173.3,Second Class
+ORD-100113,2023-01-01,Daniel Perez,Consumer,North,Wisconsin,Milwaukee,Furniture,Chairs,Herman Miller Aeron,1,142.05,0.15,120.74,14.76,13.13,Standard Class
+ORD-100114,2025-11-11,Donna Clark,Corporate,East,Maine,Portland,Furniture,Chairs,Herman Miller Aeron,1,863.16,0.15,733.69,85.08,166.12,Same Day
+ORD-100115,2024-11-20,Susan Gonzalez,Consumer,North,Wisconsin,Milwaukee,Technology,Computers,Lenovo ThinkPad X1,2,1475.33,0.0,2950.66,541.97,280.9,Standard Class
+ORD-100116,2023-01-27,Nancy Garcia,Home Office,North,Wisconsin,Milwaukee,Furniture,Bookcases,Sauder Select Bookcase,2,817.31,0.15,1389.43,135.56,199.86,Second Class
+ORD-100117,2023-12-23,Jennifer Thomas,Consumer,East,New Jersey,Newark,Furniture,Chairs,Secretlab Titan,2,1067.39,0.0,2134.78,138.54,281.0,Second Class
+ORD-100118,2025-10-13,Christopher Wilson,Home Office,South,Florida,Tampa,Office Supplies,Paper,Staples Multipurpose,3,69.26,0.2,166.22,28.57,21.4,Second Class
+ORD-100119,2024-08-25,Susan Lewis,Corporate,East,New Jersey,Newark,Office Supplies,Binders,Wilson Jones Binder,5,6.08,0.0,30.4,6.19,0.76,Standard Class
+ORD-100120,2023-07-03,John Taylor,Consumer,North,Massachusetts,Boston,Furniture,Chairs,HON Ignition 2.0,7,154.75,0.5,541.62,-162.67,64.12,Standard Class
+ORD-100121,2025-09-13,Betty Harris,Consumer,North,New York,New York,Office Supplies,Binders,Avery Durable Binder,8,72.97,0.4,350.26,-48.2,30.52,Standard Class
+ORD-100122,2023-11-15,Patricia Lee,Consumer,West,California,Los Angeles,Office Supplies,Art,Expo Dry Erase Kit,3,29.82,0.0,89.46,16.11,7.26,Standard Class
+ORD-100123,2023-06-28,Karen Perez,Consumer,East,New Jersey,Newark,Technology,Copiers,Canon imageRUNNER,6,326.13,0.2,1565.42,172.87,101.96,Standard Class
+ORD-100124,2025-12-03,Susan Anderson,Corporate,North,Massachusetts,Boston,Furniture,Furnishings,Flash Furniture Rug,4,340.44,0.0,1361.76,49.5,138.21,Standard Class
+ORD-100125,2025-11-09,Donna Jackson,Corporate,West,Arizona,Phoenix,Office Supplies,Art,Expo Dry Erase Kit,6,70.83,0.1,382.48,92.9,36.95,Standard Class
+ORD-100126,2024-06-07,Michelle Jackson,Corporate,South,Texas,Austin,Technology,Accessories,Apple AirPods Pro,10,139.42,0.1,1254.78,163.3,147.04,Standard Class
+ORD-100127,2023-08-21,Elizabeth Martin,Consumer,West,Utah,Salt Lake City,Furniture,Chairs,Herman Miller Aeron,5,1085.76,0.0,5428.8,230.51,564.82,Standard Class
+ORD-100128,2023-11-11,William Taylor,Corporate,West,Colorado,Denver,Furniture,Furnishings,AmazonBasics Lamp,5,1104.38,0.3,3865.33,-834.31,232.13,Standard Class
+ORD-100129,2025-08-05,Betty Hernandez,Home Office,East,Connecticut,Hartford,Technology,Copiers,Canon imageRUNNER,6,296.8,0.15,1513.68,295.73,320.48,Same Day
+ORD-100130,2024-12-21,Charles Gonzalez,Home Office,West,California,Los Angeles,Technology,Copiers,Brother MFC-L8900CDW,4,707.53,0.0,2830.12,751.25,248.85,Same Day
+ORD-100131,2023-11-17,Daniel Ramirez,Home Office,West,Oregon,Portland,Technology,Computers,HP Spectre x360,3,551.26,0.3,1157.65,-46.77,255.82,Same Day
+ORD-100132,2024-05-19,James Jackson,Consumer,West,Colorado,Denver,Office Supplies,Paper,Georgia-Pacific Paper,7,38.19,0.0,267.33,84.96,6.51,Standard Class
+ORD-100133,2024-10-22,Emily Lee,Consumer,East,Connecticut,Hartford,Office Supplies,Binders,Cardinal Economy Binder,6,30.13,0.3,126.55,-7.86,10.52,Standard Class
+ORD-100134,2024-04-26,Kimberly White,Consumer,South,North Carolina,Charlotte,Furniture,Furnishings,Rubbermaid Shelving,3,991.37,0.3,2081.88,-520.74,129.57,Second Class
+ORD-100135,2024-10-20,Steven Lee,Consumer,South,Florida,Orlando,Office Supplies,Storage,Sterilite Drawer Unit,1,31.4,0.0,31.4,9.41,0.81,Standard Class
+ORD-100136,2024-12-16,Linda Smith,Consumer,North,Massachusetts,Boston,Furniture,Furnishings,Rubbermaid Shelving,1,1069.61,0.4,641.77,-218.15,166.0,Same Day
+ORD-100137,2025-06-06,Thomas Wilson,Corporate,West,Washington,Seattle,Furniture,Bookcases,Sauder Select Bookcase,8,884.56,0.3,4953.54,-613.2,494.42,Second Class
+ORD-100138,2025-04-23,Joshua Ramirez,Consumer,West,Washington,Seattle,Furniture,Bookcases,Walker Edison Bookshelf,2,1313.81,0.1,2364.86,363.02,281.14,Standard Class
+ORD-100139,2025-12-05,Thomas Wilson,Corporate,West,Oregon,Portland,Office Supplies,Paper,Hammermill Copy Paper,2,58.57,0.1,105.43,20.88,10.39,Standard Class
+ORD-100140,2024-10-20,Charles Gonzalez,Corporate,East,West Virginia,Charleston,Office Supplies,Paper,HP Printer Paper,2,42.92,0.15,72.96,17.81,14.23,Same Day
+ORD-100141,2025-07-28,Sandra Johnson,Consumer,North,New York,New York,Furniture,Tables,FlexiSpot E7,3,397.69,0.0,1193.07,155.42,126.8,Second Class
+ORD-100142,2023-03-06,Daniel Perez,Consumer,West,Colorado,Denver,Furniture,Tables,Autonomous SmartDesk,5,226.4,0.15,962.2,48.16,145.25,Second Class
+ORD-100143,2024-03-10,Mark Davis,Home Office,North,New York,Buffalo,Furniture,Bookcases,IKEA KALLAX,7,1023.88,0.4,4300.3,-1173.22,538.02,Same Day
+ORD-100144,2023-08-04,Mark Wilson,Corporate,South,North Carolina,Charlotte,Technology,Phones,OnePlus 12,5,1965.47,0.2,7861.88,1012.48,784.9,Second Class
+ORD-100145,2025-11-10,Michelle Perez,Consumer,South,Florida,Tampa,Technology,Computers,Dell XPS 15,3,1657.27,0.1,4474.63,811.48,165.01,Standard Class
+ORD-100146,2024-09-14,Robert Rodriguez,Consumer,East,West Virginia,Charleston,Furniture,Tables,FlexiSpot E7,2,471.42,0.0,942.84,105.62,51.21,Second Class
+ORD-100147,2025-11-19,David Jackson,Consumer,North,New York,New York,Furniture,Tables,IKEA BEKANT Desk,2,94.28,0.0,188.56,26.47,34.36,First Class
+ORD-100148,2024-06-28,Donald Moore,Consumer,East,Vermont,Burlington,Furniture,Bookcases,Sauder Select Bookcase,2,270.31,0.3,378.43,-92.02,11.51,Second Class
+ORD-100149,2025-07-10,Paul Miller,Consumer,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Avery Durable Binder,3,41.63,0.3,87.42,1.52,4.89,Standard Class
+ORD-100150,2025-05-19,Steven Lee,Corporate,South,Florida,Miami,Furniture,Furnishings,Flash Furniture Rug,2,1203.58,0.0,2407.16,309.31,131.91,Standard Class
+ORD-100151,2023-04-21,Thomas Moore,Corporate,North,Minnesota,Minneapolis,Furniture,Chairs,Steelcase Leap V2,2,104.41,0.0,208.82,13.33,19.91,Standard Class
+ORD-100152,2024-11-24,Sandra Taylor,Consumer,South,Texas,Houston,Furniture,Furnishings,Safco Coat Rack,3,811.96,0.0,2435.88,91.58,243.41,Second Class
+ORD-100153,2023-04-13,Karen Perez,Consumer,West,Oregon,Portland,Office Supplies,Paper,Staples Multipurpose,4,79.83,0.0,319.32,76.05,32.9,Second Class
+ORD-100154,2023-09-14,Betty Gonzalez,Home Office,East,Connecticut,Hartford,Technology,Computers,Dell XPS 15,3,883.61,0.1,2385.75,395.77,161.32,Standard Class
+ORD-100155,2024-10-04,David Robinson,Consumer,West,Washington,Seattle,Technology,Phones,Apple iPhone 15,2,1113.07,0.1,2003.53,508.36,121.28,Standard Class
+ORD-100156,2023-09-09,Daniel Lee,Consumer,East,Rhode Island,Providence,Furniture,Bookcases,Sauder Select Bookcase,2,140.92,0.1,253.66,30.72,9.1,Standard Class
+ORD-100157,2025-10-18,Barbara Lopez,Home Office,North,Minnesota,Minneapolis,Technology,Phones,Google Pixel 8,2,1127.96,0.15,1917.53,442.47,50.23,Standard Class
+ORD-100158,2025-10-24,Steven Lee,Consumer,West,Washington,Seattle,Furniture,Tables,FlexiSpot E7,1,1120.15,0.2,896.12,-0.24,107.34,Second Class
+ORD-100159,2024-04-21,Paul Rodriguez,Corporate,West,Hawaii,Honolulu,Furniture,Tables,Autonomous SmartDesk,2,1441.16,0.2,2305.86,-76.57,129.93,Standard Class
+ORD-100160,2024-10-09,Susan Anderson,Home Office,East,District of Columbia,Washington,Technology,Copiers,Brother MFC-L8900CDW,4,648.08,0.1,2333.09,395.94,53.4,Standard Class
+ORD-100161,2023-06-11,Lisa Jones,Consumer,West,Colorado,Denver,Office Supplies,Art,Prismacolor Premier Set,7,30.07,0.0,210.49,60.54,17.27,Standard Class
+ORD-100162,2024-08-08,Sandra Taylor,Corporate,East,New Hampshire,Manchester,Technology,Accessories,Anker USB-C Hub,4,193.24,0.15,657.02,113.27,54.99,First Class
+ORD-100163,2023-04-02,Barbara Ramirez,Home Office,East,Delaware,Wilmington,Furniture,Bookcases,Bush Furniture Cabot,2,888.8,0.0,1777.6,178.52,228.47,First Class
+ORD-100164,2024-01-13,Michelle Garcia,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Binders,Cardinal Economy Binder,3,15.93,0.0,47.79,14.86,4.24,Standard Class
+ORD-100165,2023-11-15,Kimberly White,Corporate,East,Vermont,Burlington,Furniture,Furnishings,Flash Furniture Rug,3,1387.6,0.15,3538.38,168.47,408.8,Second Class
+ORD-100166,2024-05-17,Mark Miller,Consumer,South,North Carolina,Charlotte,Technology,Copiers,Brother MFC-L8900CDW,1,164.72,0.1,148.25,23.21,21.33,Second Class
+ORD-100167,2024-12-19,Michael Sanchez,Home Office,South,Texas,Dallas,Office Supplies,Binders,Cardinal Economy Binder,4,52.27,0.0,209.08,56.24,24.05,Same Day
+ORD-100168,2025-11-06,Anthony Anderson,Home Office,North,New York,New York,Technology,Accessories,Anker USB-C Hub,4,222.78,0.0,891.12,151.54,24.56,Standard Class
+ORD-100169,2023-06-24,Nancy Garcia,Consumer,West,Hawaii,Honolulu,Office Supplies,Binders,Cardinal Economy Binder,1,24.17,0.2,19.34,2.74,0.88,Standard Class
+ORD-100170,2025-10-27,Nancy Robinson,Consumer,North,Pennsylvania,Philadelphia,Technology,Accessories,"Samsung Monitor 27""",1,288.43,0.2,230.74,23.25,27.58,Standard Class
+ORD-100171,2025-06-28,Susan Anderson,Consumer,East,Connecticut,Hartford,Office Supplies,Binders,Wilson Jones Binder,2,40.02,0.5,40.02,-10.31,3.83,Standard Class
+ORD-100172,2025-03-11,Thomas Garcia,Consumer,North,New York,New York,Office Supplies,Storage,Sterilite Drawer Unit,1,49.31,0.1,44.38,10.77,6.91,First Class
+ORD-100173,2025-12-01,Betty Smith,Corporate,South,Texas,Austin,Technology,Computers,HP Spectre x360,1,766.2,0.0,766.2,100.92,82.46,Second Class
+ORD-100174,2024-08-12,David Lewis,Corporate,West,Utah,Salt Lake City,Office Supplies,Storage,Bankers Box,1,10.34,0.15,8.79,2.53,0.95,Standard Class
+ORD-100175,2024-04-24,Thomas Moore,Consumer,East,West Virginia,Charleston,Furniture,Furnishings,Safco Coat Rack,1,1354.26,0.1,1218.83,127.79,33.24,Standard Class
+ORD-100176,2024-01-20,Daniel Perez,Home Office,South,Florida,Miami,Technology,Phones,Apple iPhone 15,2,1939.27,0.0,3878.54,797.89,241.03,Standard Class
+ORD-100177,2025-12-23,Emily Taylor,Home Office,South,Florida,Orlando,Technology,Computers,HP Spectre x360,10,1971.94,0.3,13803.58,-2183.81,998.8,First Class
+ORD-100178,2023-02-19,Joseph Moore,Corporate,South,Florida,Miami,Office Supplies,Storage,Sterilite Drawer Unit,1,58.71,0.4,35.23,-2.02,1.6,Second Class
+ORD-100179,2023-05-23,Daniel Ramirez,Corporate,East,Maryland,Baltimore,Technology,Copiers,Canon imageRUNNER,4,1418.0,0.3,3970.4,-40.9,224.69,Standard Class
+ORD-100180,2023-02-23,Charles Gonzalez,Corporate,South,Florida,Miami,Office Supplies,Storage,Bankers Box,1,56.12,0.15,47.7,12.5,1.54,Standard Class
+ORD-100181,2024-10-19,Susan Lewis,Home Office,West,Arizona,Phoenix,Office Supplies,Storage,Fellowes Storage Box,1,30.87,0.15,26.24,4.55,2.67,Standard Class
+ORD-100182,2023-10-11,James Brown,Corporate,South,Texas,Austin,Furniture,Chairs,HON Ignition 2.0,1,274.63,0.0,274.63,26.01,30.59,Standard Class
+ORD-100183,2024-06-08,Karen Ramirez,Consumer,South,Texas,Austin,Technology,Computers,MacBook Pro 14,2,1857.07,0.0,3714.14,693.1,407.15,Standard Class
+ORD-100184,2023-11-22,Christopher Gonzalez,Consumer,West,Nevada,Las Vegas,Technology,Computers,Lenovo ThinkPad X1,6,1539.45,0.1,8313.03,1443.29,1632.64,First Class
+ORD-100185,2024-04-08,Susan Anderson,Consumer,East,Delaware,Wilmington,Furniture,Bookcases,Sauder Select Bookcase,3,482.26,0.1,1302.1,115.87,101.88,Second Class
+ORD-100186,2025-07-06,Michelle Garcia,Corporate,West,Washington,Seattle,Office Supplies,Storage,Fellowes Storage Box,1,69.89,0.1,62.9,11.08,1.95,Standard Class
+ORD-100187,2025-02-20,Richard Lopez,Corporate,North,Ohio,Columbus,Furniture,Tables,IKEA BEKANT Desk,5,1156.55,0.0,5782.75,1038.98,467.17,Standard Class
+ORD-100188,2024-10-28,James Perez,Corporate,West,Oregon,Portland,Furniture,Bookcases,Sauder Select Bookcase,1,924.11,0.0,924.11,151.84,85.47,Standard Class
+ORD-100189,2023-11-04,Linda Jones,Consumer,South,North Carolina,Charlotte,Office Supplies,Storage,Fellowes Storage Box,1,77.11,0.0,77.11,18.66,10.89,Second Class
+ORD-100190,2024-07-07,Jennifer Garcia,Home Office,East,New Jersey,Newark,Technology,Accessories,Logitech MX Master 3,4,28.7,0.15,97.58,15.23,5.25,Standard Class
+ORD-100191,2024-08-10,Matthew Garcia,Home Office,North,Minnesota,Minneapolis,Office Supplies,Art,Crayola Colored Pencils,2,14.44,0.0,28.88,8.86,3.71,First Class
+ORD-100192,2024-08-09,Jennifer Lewis,Consumer,South,Florida,Tampa,Office Supplies,Binders,Wilson Jones Binder,1,76.52,0.1,68.87,14.89,7.87,Standard Class
+ORD-100193,2024-05-09,Charles Miller,Consumer,South,Texas,Dallas,Office Supplies,Paper,HP Printer Paper,4,63.39,0.2,202.85,20.09,4.09,Standard Class
+ORD-100194,2023-03-13,Sarah Anderson,Consumer,West,California,San Francisco,Furniture,Furnishings,AmazonBasics Lamp,4,1384.84,0.0,5539.36,488.18,206.1,Standard Class
+ORD-100195,2023-04-14,Emily Robinson,Home Office,East,Vermont,Burlington,Office Supplies,Binders,Wilson Jones Binder,3,77.11,0.15,196.63,46.39,14.81,First Class
+ORD-100196,2024-05-10,Paul Williams,Consumer,East,Maine,Portland,Office Supplies,Storage,Fellowes Storage Box,1,23.77,0.5,11.88,-2.82,0.83,Standard Class
+ORD-100197,2024-08-23,Anthony White,Consumer,West,California,San Francisco,Furniture,Bookcases,Bush Furniture Cabot,1,288.36,0.0,288.36,36.41,37.73,Second Class
+ORD-100198,2024-03-05,Mark Wilson,Corporate,East,Delaware,Wilmington,Furniture,Tables,Autonomous SmartDesk,2,645.24,0.1,1161.43,163.1,67.25,Standard Class
+ORD-100199,2025-12-28,Paul Rodriguez,Consumer,West,California,San Francisco,Office Supplies,Paper,Staples Multipurpose,1,56.66,0.2,45.33,5.25,1.72,Standard Class
+ORD-100200,2024-08-19,Susan Lewis,Home Office,South,Texas,Houston,Office Supplies,Binders,Samsill View Binder,3,12.87,0.4,23.17,-4.62,1.84,First Class
+ORD-100201,2025-02-18,Christopher Garcia,Consumer,West,Arizona,Phoenix,Office Supplies,Storage,IRIS Stacking Bin,3,32.07,0.0,96.21,29.4,6.29,Standard Class
+ORD-100202,2023-04-07,James Gonzalez,Consumer,East,New Jersey,Newark,Furniture,Tables,Autonomous SmartDesk,1,255.31,0.0,255.31,14.93,10.53,Second Class
+ORD-100203,2023-03-11,Matthew Robinson,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Binders,Avery Durable Binder,1,63.54,0.15,54.01,10.81,5.31,Standard Class
+ORD-100204,2024-06-12,Mark White,Consumer,West,Arizona,Phoenix,Technology,Phones,Samsung Galaxy S24,1,767.66,0.0,767.66,115.52,87.0,Standard Class
+ORD-100205,2025-05-07,Kimberly White,Corporate,North,Massachusetts,Boston,Office Supplies,Storage,Sterilite Drawer Unit,3,19.71,0.0,59.13,12.93,3.11,Standard Class
+ORD-100206,2025-11-14,Thomas Brown,Consumer,West,Utah,Salt Lake City,Office Supplies,Paper,Hammermill Copy Paper,1,58.7,0.0,58.7,12.52,7.82,Same Day
+ORD-100207,2023-06-28,Barbara Davis,Corporate,West,Utah,Salt Lake City,Technology,Phones,Google Pixel 8,3,210.57,0.2,505.37,34.29,39.4,Second Class
+ORD-100208,2025-09-15,Matthew Wilson,Consumer,West,Hawaii,Honolulu,Technology,Accessories,"Samsung Monitor 27""",5,69.06,0.0,345.3,58.93,22.36,Standard Class
+ORD-100209,2025-05-25,Jennifer Rodriguez,Consumer,South,North Carolina,Charlotte,Technology,Accessories,Apple AirPods Pro,4,288.74,0.5,577.48,-144.48,35.81,Standard Class
+ORD-100210,2025-05-22,Joseph Martin,Home Office,West,California,San Diego,Office Supplies,Paper,HP Printer Paper,4,24.72,0.0,98.88,25.94,3.59,Second Class
+ORD-100211,2024-06-06,Matthew Hernandez,Home Office,West,Nevada,Las Vegas,Office Supplies,Binders,Samsill View Binder,3,31.68,0.15,80.78,23.99,15.55,Same Day
+ORD-100212,2025-08-13,Joshua Harris,Home Office,East,Rhode Island,Providence,Office Supplies,Art,Sharpie Markers Set,6,47.55,0.1,256.77,54.06,19.06,Standard Class
+ORD-100213,2023-12-27,Daniel Lee,Consumer,East,New Jersey,Newark,Office Supplies,Art,Crayola Colored Pencils,3,75.36,0.1,203.47,63.68,10.47,Standard Class
+ORD-100214,2024-12-12,Emily Smith,Home Office,West,Nevada,Las Vegas,Technology,Accessories,Anker USB-C Hub,2,130.6,0.15,222.02,32.28,20.96,Standard Class
+ORD-100215,2023-09-09,Susan Lewis,Corporate,North,Michigan,Detroit,Furniture,Tables,FlexiSpot E7,1,549.83,0.1,494.85,60.16,20.36,Standard Class
+ORD-100216,2024-08-15,Lisa Jones,Consumer,North,Ohio,Columbus,Office Supplies,Art,Crayola Colored Pencils,1,67.33,0.15,57.23,12.56,1.42,Standard Class
+ORD-100217,2023-11-27,Susan Jones,Home Office,West,Colorado,Denver,Technology,Copiers,HP LaserJet Pro,6,257.55,0.1,1390.77,325.82,63.42,Standard Class
+ORD-100218,2024-12-19,Barbara Davis,Consumer,West,California,San Francisco,Technology,Copiers,Xerox VersaLink,1,902.92,0.0,902.92,177.49,244.0,Same Day
+ORD-100219,2024-04-15,Jessica Jackson,Home Office,West,California,Los Angeles,Furniture,Bookcases,Bush Furniture Cabot,3,818.04,0.0,2454.12,318.33,52.22,Standard Class
+ORD-100220,2024-04-20,Betty Smith,Corporate,East,Rhode Island,Providence,Office Supplies,Art,Expo Dry Erase Kit,1,49.72,0.0,49.72,12.86,1.69,Standard Class
+ORD-100221,2023-04-24,Daniel Ramirez,Corporate,West,California,San Francisco,Technology,Phones,Google Pixel 8,5,2476.49,0.0,12382.45,1770.31,747.14,Standard Class
+ORD-100222,2023-02-20,Christopher Miller,Consumer,North,Massachusetts,Boston,Office Supplies,Art,Sharpie Markers Set,3,30.99,0.2,74.38,7.44,2.14,Standard Class
+ORD-100223,2024-05-11,Daniel Lee,Consumer,West,California,San Diego,Office Supplies,Paper,Hammermill Copy Paper,2,60.72,0.1,109.3,31.77,5.6,Standard Class
+ORD-100224,2023-06-07,Patricia Lee,Consumer,North,Wisconsin,Milwaukee,Technology,Accessories,Logitech MX Master 3,9,279.98,0.0,2519.82,634.1,127.89,Standard Class
+ORD-100225,2024-08-04,Barbara Rodriguez,Home Office,East,Delaware,Wilmington,Technology,Accessories,Apple AirPods Pro,2,269.0,0.15,457.3,101.66,46.54,Standard Class
+ORD-100226,2025-09-12,Betty Hernandez,Consumer,East,Vermont,Burlington,Office Supplies,Art,Expo Dry Erase Kit,4,32.79,0.2,104.93,10.2,6.3,Second Class
+ORD-100227,2023-12-07,David Jackson,Corporate,East,Delaware,Wilmington,Technology,Computers,Dell XPS 15,4,2047.92,0.2,6553.34,777.67,442.33,Standard Class
+ORD-100228,2024-04-07,Lisa Jones,Consumer,North,Massachusetts,Boston,Office Supplies,Art,Prismacolor Premier Set,2,17.55,0.0,35.1,7.86,3.35,Same Day
+ORD-100229,2025-09-17,Betty Harris,Consumer,West,Nevada,Las Vegas,Technology,Phones,Samsung Galaxy S24,2,944.35,0.2,1510.96,223.52,108.0,Second Class
+ORD-100230,2023-06-25,Susan Robinson,Consumer,North,New York,Buffalo,Technology,Accessories,Apple AirPods Pro,1,127.3,0.15,108.2,17.75,6.0,Standard Class
+ORD-100231,2023-09-04,Robert Johnson,Consumer,South,Virginia,Richmond,Furniture,Bookcases,IKEA KALLAX,1,556.36,0.15,472.91,58.89,44.73,Second Class
+ORD-100232,2025-09-11,Karen Ramirez,Consumer,South,Florida,Miami,Office Supplies,Storage,Bankers Box,6,19.43,0.4,69.95,-12.93,3.69,Standard Class
+ORD-100233,2023-07-08,David Jackson,Consumer,North,Minnesota,Minneapolis,Technology,Computers,HP Spectre x360,1,1768.74,0.0,1768.74,338.18,142.38,Second Class
+ORD-100234,2024-06-05,Jennifer Rodriguez,Home Office,West,Nevada,Las Vegas,Furniture,Furnishings,Flash Furniture Rug,6,80.02,0.0,480.12,80.66,27.52,Second Class
+ORD-100235,2025-09-10,Lisa Lee,Corporate,East,Delaware,Wilmington,Technology,Phones,OnePlus 12,2,1638.77,0.4,1966.52,-336.22,221.68,Standard Class
+ORD-100236,2023-06-17,Emily Garcia,Consumer,West,California,San Francisco,Furniture,Tables,Autonomous SmartDesk,2,1496.04,0.0,2992.08,358.79,79.35,Second Class
+ORD-100237,2023-06-26,Emily Hernandez,Consumer,West,Nevada,Las Vegas,Office Supplies,Binders,Cardinal Economy Binder,3,46.33,0.4,83.39,-13.24,8.11,Standard Class
+ORD-100238,2025-01-11,Sandra Taylor,Consumer,East,New Hampshire,Manchester,Furniture,Bookcases,IKEA KALLAX,2,237.65,0.0,475.3,17.6,44.84,First Class
+ORD-100239,2024-11-01,Sarah Anderson,Consumer,East,Rhode Island,Providence,Technology,Accessories,Anker USB-C Hub,2,106.14,0.0,212.28,57.75,15.85,Standard Class
+ORD-100240,2025-11-18,Linda Smith,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Art,Sharpie Markers Set,1,72.54,0.15,61.66,19.09,2.86,Second Class
+ORD-100241,2025-02-08,Linda Jones,Home Office,East,Vermont,Burlington,Furniture,Bookcases,Sauder Select Bookcase,2,1044.43,0.0,2088.86,270.66,188.81,Standard Class
+ORD-100242,2023-07-21,Karen Brown,Consumer,East,Connecticut,Hartford,Office Supplies,Binders,Samsill View Binder,1,22.73,0.0,22.73,4.12,2.72,Second Class
+ORD-100243,2023-03-17,Karen Garcia,Consumer,East,Rhode Island,Providence,Office Supplies,Art,Expo Dry Erase Kit,5,17.8,0.2,71.2,12.14,4.76,Standard Class
+ORD-100244,2025-09-14,William Thomas,Home Office,North,Massachusetts,Boston,Technology,Phones,Google Pixel 8,1,490.87,0.3,343.61,-14.27,21.44,Second Class
+ORD-100245,2023-11-09,David Lewis,Corporate,North,Ohio,Columbus,Furniture,Chairs,Secretlab Titan,6,1032.99,0.1,5578.15,671.16,468.06,Standard Class
+ORD-100246,2023-02-26,Donald Robinson,Home Office,East,New Jersey,Newark,Furniture,Furnishings,Safco Coat Rack,5,965.34,0.1,4344.03,278.08,349.89,Standard Class
+ORD-100247,2023-04-26,Susan Lewis,Consumer,West,Hawaii,Honolulu,Furniture,Chairs,Secretlab Titan,2,734.64,0.3,1028.5,-202.55,91.98,Standard Class
+ORD-100248,2025-11-07,Jennifer Jones,Consumer,South,Georgia,Atlanta,Technology,Phones,Apple iPhone 15,1,1487.06,0.0,1487.06,283.88,45.41,Standard Class
+ORD-100249,2024-06-01,Emily Robinson,Consumer,North,Illinois,Chicago,Office Supplies,Binders,Cardinal Economy Binder,3,34.83,0.2,83.59,8.87,5.24,First Class
+ORD-100250,2025-08-21,David Jackson,Consumer,South,Virginia,Richmond,Office Supplies,Storage,Sterilite Drawer Unit,1,78.58,0.1,70.72,15.04,4.88,Standard Class
+ORD-100251,2024-05-10,Betty Clark,Consumer,West,California,San Francisco,Technology,Computers,MacBook Pro 14,1,802.08,0.0,802.08,133.71,66.5,Standard Class
+ORD-100252,2025-03-27,Matthew Hernandez,Consumer,North,Wisconsin,Milwaukee,Furniture,Bookcases,IKEA KALLAX,2,1163.19,0.15,1977.42,85.86,152.88,Standard Class
+ORD-100253,2025-08-11,Susan Rodriguez,Consumer,South,Florida,Orlando,Office Supplies,Binders,Wilson Jones Binder,1,16.44,0.2,13.15,2.43,0.38,Standard Class
+ORD-100254,2023-01-20,Karen Williams,Consumer,East,Connecticut,Hartford,Technology,Accessories,Anker USB-C Hub,2,256.16,0.5,256.16,-74.69,5.63,Standard Class
+ORD-100255,2025-05-21,Susan Jones,Home Office,North,Ohio,Columbus,Technology,Phones,Apple iPhone 15,2,900.09,0.15,1530.15,218.44,75.98,Second Class
+ORD-100256,2024-07-19,David Jones,Corporate,West,California,San Diego,Technology,Copiers,Canon imageRUNNER,2,2289.59,0.1,4121.26,1036.71,394.05,Standard Class
+ORD-100257,2025-07-14,Susan Lewis,Corporate,West,California,Los Angeles,Furniture,Bookcases,Walker Edison Bookshelf,1,549.8,0.1,494.82,32.5,22.91,Standard Class
+ORD-100258,2024-11-21,Robert Rodriguez,Consumer,West,Utah,Salt Lake City,Furniture,Tables,FlexiSpot E7,2,1309.27,0.0,2618.54,283.11,203.08,Same Day
+ORD-100259,2024-12-17,Susan Anderson,Consumer,East,New Jersey,Newark,Technology,Phones,Google Pixel 8,3,2290.16,0.15,5839.91,1274.06,295.02,Second Class
+ORD-100260,2025-10-13,Barbara Rodriguez,Corporate,South,Tennessee,Nashville,Office Supplies,Storage,Bankers Box,1,13.11,0.0,13.11,3.74,0.68,Standard Class
+ORD-100261,2024-10-12,Karen Lopez,Consumer,West,Utah,Salt Lake City,Furniture,Chairs,Herman Miller Aeron,2,1343.64,0.3,1881.1,-235.97,210.22,Second Class
+ORD-100262,2023-12-16,Mark White,Corporate,North,New York,Buffalo,Office Supplies,Binders,Samsill View Binder,3,68.92,0.2,165.41,25.93,4.06,Standard Class
+ORD-100263,2023-02-20,Lisa Jones,Corporate,East,Vermont,Burlington,Technology,Computers,HP Spectre x360,5,781.72,0.2,3126.88,428.5,880.35,Same Day
+ORD-100264,2025-09-20,Susan Lewis,Consumer,North,Michigan,Detroit,Technology,Computers,Lenovo ThinkPad X1,5,2221.02,0.0,11105.1,2461.54,733.23,First Class
+ORD-100265,2025-07-26,Christopher Miller,Consumer,North,Minnesota,Minneapolis,Technology,Phones,Samsung Galaxy S24,1,1707.65,0.3,1195.36,-50.13,104.11,Standard Class
+ORD-100266,2025-12-12,Emily Hernandez,Consumer,South,Georgia,Atlanta,Technology,Accessories,"Samsung Monitor 27""",2,65.54,0.0,131.08,26.64,11.89,Standard Class
+ORD-100267,2024-12-01,Donna Johnson,Corporate,North,Pennsylvania,Pittsburgh,Technology,Computers,Dell XPS 15,1,1193.32,0.0,1193.32,183.91,152.08,First Class
+ORD-100268,2024-03-01,David Jackson,Consumer,East,Maine,Portland,Office Supplies,Paper,HP Printer Paper,2,57.39,0.15,97.56,19.92,10.8,Standard Class
+ORD-100269,2025-04-17,Michelle Perez,Corporate,West,Nevada,Las Vegas,Office Supplies,Art,Crayola Colored Pencils,3,34.94,0.0,104.82,23.55,8.68,Standard Class
+ORD-100270,2025-09-28,Michael Sanchez,Home Office,South,Florida,Miami,Office Supplies,Binders,Cardinal Economy Binder,2,4.58,0.2,7.33,0.95,1.1,Second Class
+ORD-100271,2024-04-20,Ashley Lee,Home Office,West,Colorado,Denver,Furniture,Chairs,HON Ignition 2.0,1,464.81,0.1,418.33,44.44,15.17,Standard Class
+ORD-100272,2025-11-23,Christopher Smith,Corporate,West,California,San Diego,Office Supplies,Storage,IRIS Stacking Bin,1,5.26,0.4,3.16,-0.37,0.36,Second Class
+ORD-100273,2024-03-16,Joseph Lee,Consumer,North,New York,New York,Technology,Phones,OnePlus 12,2,1909.67,0.2,3055.47,304.96,328.91,Standard Class
+ORD-100274,2023-10-21,Charles Wilson,Consumer,South,Florida,Orlando,Technology,Copiers,Canon imageRUNNER,5,1837.7,0.2,7350.8,758.61,226.93,Standard Class
+ORD-100275,2024-01-21,Matthew Taylor,Consumer,North,Ohio,Columbus,Office Supplies,Binders,Wilson Jones Binder,2,30.45,0.0,60.9,17.13,18.12,Same Day
+ORD-100276,2025-08-14,Anthony White,Corporate,South,Texas,Dallas,Technology,Computers,Lenovo ThinkPad X1,1,902.11,0.0,902.11,201.26,26.43,Standard Class
+ORD-100277,2023-05-17,Thomas Wilson,Corporate,East,Rhode Island,Providence,Office Supplies,Binders,Wilson Jones Binder,5,29.66,0.3,103.81,-6.61,9.05,Standard Class
+ORD-100278,2024-02-24,Thomas Moore,Consumer,East,Maine,Portland,Office Supplies,Paper,Georgia-Pacific Paper,1,9.35,0.0,9.35,2.06,0.72,Standard Class
+ORD-100279,2025-04-21,Joshua Ramirez,Corporate,South,Florida,Tampa,Technology,Accessories,Apple AirPods Pro,1,262.21,0.0,262.21,61.18,40.17,Second Class
+ORD-100280,2025-07-15,Barbara Lopez,Corporate,South,Virginia,Richmond,Technology,Computers,HP Spectre x360,5,785.56,0.0,3927.8,816.76,318.53,Standard Class
+ORD-100281,2024-03-22,John Taylor,Consumer,West,Utah,Salt Lake City,Furniture,Tables,Uplift V2 Standing Desk,2,1022.95,0.15,1739.02,91.85,46.23,Standard Class
+ORD-100282,2024-12-22,Mark Miller,Corporate,West,California,San Francisco,Furniture,Chairs,Secretlab Titan,2,559.0,0.0,1118.0,80.48,102.64,Standard Class
+ORD-100283,2023-09-23,Michael Brown,Consumer,North,Illinois,Chicago,Technology,Phones,Apple iPhone 15,3,1547.82,0.0,4643.46,1079.48,338.62,First Class
+ORD-100284,2024-05-01,Matthew Wilson,Consumer,East,Maryland,Baltimore,Technology,Computers,MacBook Pro 14,3,2117.02,0.0,6351.06,1590.1,1065.01,First Class
+ORD-100285,2024-10-04,Betty Hernandez,Corporate,West,Nevada,Las Vegas,Technology,Phones,OnePlus 12,7,1830.24,0.0,12811.68,2211.98,1103.81,Standard Class
+ORD-100286,2023-04-21,Thomas Brown,Corporate,West,Oregon,Portland,Office Supplies,Binders,Avery Durable Binder,8,62.63,0.2,400.83,57.03,42.87,Standard Class
+ORD-100287,2024-03-15,Mark Robinson,Home Office,South,Florida,Tampa,Technology,Computers,Dell XPS 15,1,744.42,0.0,744.42,159.31,54.99,Standard Class
+ORD-100288,2024-07-26,Thomas Wilson,Consumer,East,Maryland,Baltimore,Technology,Phones,Google Pixel 8,1,1729.67,0.4,1037.8,-110.85,57.72,Second Class
+ORD-100289,2023-02-05,Anthony Brown,Home Office,South,Florida,Miami,Technology,Phones,Samsung Galaxy S24,1,1511.85,0.0,1511.85,211.63,161.65,Same Day
+ORD-100290,2024-06-19,Mark Ramirez,Consumer,South,Georgia,Atlanta,Furniture,Furnishings,Flash Furniture Rug,2,1258.5,0.0,2517.0,280.66,219.1,Standard Class
+ORD-100291,2023-09-03,Richard Lewis,Corporate,South,Tennessee,Nashville,Office Supplies,Binders,Cardinal Economy Binder,7,44.59,0.1,280.92,88.23,34.33,Same Day
+ORD-100292,2025-11-28,Donald Perez,Consumer,East,New Hampshire,Manchester,Office Supplies,Paper,HP Printer Paper,5,37.62,0.4,112.86,-13.37,5.01,Standard Class
+ORD-100293,2025-07-08,Linda Smith,Consumer,South,Georgia,Atlanta,Furniture,Furnishings,Safco Coat Rack,1,1061.12,0.15,901.95,134.17,94.03,Standard Class
+ORD-100294,2024-09-17,Sandra Hernandez,Consumer,North,Michigan,Detroit,Office Supplies,Storage,Bankers Box,1,21.41,0.2,17.13,2.59,0.45,Standard Class
+ORD-100295,2025-12-19,Daniel Ramirez,Corporate,South,Georgia,Atlanta,Furniture,Furnishings,Rubbermaid Shelving,5,935.82,0.1,4211.19,157.58,347.56,Second Class
+ORD-100296,2023-02-27,Charles Miller,Corporate,West,Hawaii,Honolulu,Technology,Computers,Lenovo ThinkPad X1,1,1115.48,0.0,1115.48,294.87,53.8,Standard Class
+ORD-100297,2024-04-15,Nancy Moore,Consumer,South,Tennessee,Nashville,Furniture,Bookcases,Bush Furniture Cabot,2,478.52,0.0,957.04,74.12,109.49,Standard Class
+ORD-100298,2024-05-22,William Thomas,Consumer,East,Connecticut,Hartford,Office Supplies,Art,Sharpie Markers Set,3,29.97,0.0,89.91,21.78,7.66,Standard Class
+ORD-100299,2023-12-22,Sandra Taylor,Home Office,South,Florida,Orlando,Technology,Accessories,Apple AirPods Pro,1,112.63,0.2,90.1,7.04,4.99,Standard Class
+ORD-100300,2023-11-04,Donna Clark,Consumer,East,West Virginia,Charleston,Technology,Phones,Apple iPhone 15,2,453.34,0.2,725.34,97.4,24.42,Standard Class
+ORD-100301,2025-12-11,Kimberly White,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Binders,Avery Durable Binder,1,7.5,0.2,6.0,0.55,0.69,Second Class
+ORD-100302,2024-05-12,Joseph Martin,Consumer,East,New Hampshire,Manchester,Technology,Computers,Dell XPS 15,3,586.06,0.4,1054.91,-147.35,71.31,Standard Class
+ORD-100303,2023-12-12,Joseph Lee,Consumer,South,Florida,Miami,Furniture,Chairs,HON Ignition 2.0,3,501.14,0.0,1503.42,169.26,142.55,Second Class
+ORD-100304,2024-11-04,Mark Martin,Consumer,South,North Carolina,Charlotte,Technology,Accessories,Anker USB-C Hub,5,223.89,0.0,1119.45,234.45,57.08,Standard Class
+ORD-100305,2024-02-15,Thomas Miller,Consumer,East,New Hampshire,Manchester,Office Supplies,Storage,Bankers Box,2,67.12,0.15,114.1,29.93,8.94,Standard Class
+ORD-100306,2025-10-01,David Lewis,Home Office,North,Minnesota,Minneapolis,Furniture,Tables,IKEA BEKANT Desk,1,998.39,0.15,848.63,39.78,60.45,Standard Class
+ORD-100307,2025-04-26,Charles Sanchez,Home Office,South,Florida,Miami,Office Supplies,Storage,Bankers Box,3,20.28,0.1,54.76,17.32,6.52,Standard Class
+ORD-100308,2024-03-10,Charles Wilson,Corporate,West,Nevada,Las Vegas,Furniture,Chairs,Secretlab Titan,3,137.28,0.1,370.66,50.21,39.79,Standard Class
+ORD-100309,2025-06-16,William Taylor,Corporate,West,Washington,Seattle,Office Supplies,Binders,Avery Durable Binder,2,32.35,0.15,54.99,15.02,5.57,Standard Class
+ORD-100310,2023-03-10,James Jackson,Corporate,South,Florida,Tampa,Furniture,Furnishings,Safco Coat Rack,4,436.65,0.1,1571.94,183.46,49.04,Second Class
+ORD-100311,2023-01-21,Daniel Thompson,Home Office,North,Michigan,Detroit,Office Supplies,Storage,IRIS Stacking Bin,1,26.34,0.0,26.34,6.6,1.07,Standard Class
+ORD-100312,2023-11-20,Daniel Ramirez,Consumer,South,Virginia,Richmond,Technology,Copiers,Brother MFC-L8900CDW,3,2311.45,0.0,6934.35,975.3,517.76,Second Class
+ORD-100313,2025-10-27,William Sanchez,Corporate,North,Minnesota,Minneapolis,Technology,Copiers,Brother MFC-L8900CDW,3,1662.47,0.0,4987.41,686.09,566.71,First Class
+ORD-100314,2023-10-16,Ashley Williams,Consumer,East,West Virginia,Charleston,Technology,Computers,HP Spectre x360,4,647.95,0.0,2591.8,338.08,177.26,Standard Class
+ORD-100315,2024-12-16,Betty Gonzalez,Consumer,West,Arizona,Phoenix,Technology,Accessories,Logitech MX Master 3,8,115.22,0.1,829.58,207.63,78.05,Standard Class
+ORD-100316,2025-01-01,Kimberly Gonzalez,Consumer,South,Texas,Austin,Office Supplies,Binders,Samsill View Binder,3,67.47,0.1,182.17,52.08,10.7,Standard Class
+ORD-100317,2025-06-26,Jennifer Jones,Home Office,South,North Carolina,Charlotte,Office Supplies,Art,Crayola Colored Pencils,2,42.91,0.15,72.95,16.94,9.91,Second Class
+ORD-100318,2024-07-15,Linda Taylor,Consumer,South,Virginia,Richmond,Technology,Copiers,Xerox VersaLink,7,1665.76,0.0,11660.32,2617.93,1395.96,Standard Class
+ORD-100319,2024-10-05,Michael Sanchez,Consumer,West,California,San Diego,Technology,Copiers,Brother MFC-L8900CDW,1,2222.83,0.15,1889.41,285.53,213.04,Second Class
+ORD-100320,2025-02-16,Michelle Thomas,Consumer,East,New Jersey,Newark,Technology,Phones,Samsung Galaxy S24,1,1562.93,0.0,1562.93,323.09,172.68,Second Class
+ORD-100321,2025-07-11,Sandra Johnson,Corporate,East,New Jersey,Newark,Furniture,Furnishings,Flash Furniture Rug,1,623.75,0.2,499.0,8.92,50.71,Standard Class
+ORD-100322,2025-06-14,Michael Ramirez,Corporate,West,Utah,Salt Lake City,Furniture,Chairs,Steelcase Leap V2,1,1256.88,0.0,1256.88,62.17,66.48,Standard Class
+ORD-100323,2023-05-24,Nancy Robinson,Consumer,South,Florida,Tampa,Technology,Computers,Lenovo ThinkPad X1,3,1291.32,0.0,3873.96,791.41,739.58,First Class
+ORD-100324,2024-03-10,William Taylor,Corporate,East,West Virginia,Charleston,Technology,Phones,Google Pixel 8,3,1041.14,0.0,3123.42,495.72,110.44,Second Class
+ORD-100325,2024-08-01,Christopher Smith,Home Office,North,New York,New York,Technology,Accessories,Logitech MX Master 3,5,101.52,0.0,507.6,79.87,103.81,First Class
+ORD-100326,2024-07-25,Susan Lewis,Home Office,North,New York,Buffalo,Office Supplies,Storage,Sterilite Drawer Unit,4,20.79,0.2,66.53,11.42,5.32,Standard Class
+ORD-100327,2023-11-08,Mark Robinson,Consumer,East,Maryland,Baltimore,Office Supplies,Art,Expo Dry Erase Kit,2,15.11,0.5,15.11,-2.31,1.45,Standard Class
+ORD-100328,2024-02-08,Barbara Rodriguez,Corporate,North,New York,New York,Technology,Computers,HP Spectre x360,2,183.69,0.15,312.27,85.58,35.28,Standard Class
+ORD-100329,2025-08-11,Donna Clark,Consumer,North,Massachusetts,Boston,Technology,Phones,Samsung Galaxy S24,4,547.9,0.0,2191.6,334.9,181.31,First Class
+ORD-100330,2025-09-05,Michelle Jackson,Consumer,West,Oregon,Portland,Furniture,Tables,Autonomous SmartDesk,2,694.69,0.4,833.63,-250.56,58.29,Standard Class
+ORD-100331,2024-06-04,Mark Miller,Home Office,West,Hawaii,Honolulu,Technology,Phones,Samsung Galaxy S24,1,1566.69,0.1,1410.02,321.27,167.25,Second Class
+ORD-100332,2024-02-02,Donna Johnson,Consumer,South,North Carolina,Charlotte,Furniture,Bookcases,Bush Furniture Cabot,1,60.97,0.3,42.68,-5.45,5.06,Standard Class
+ORD-100333,2024-10-21,Karen Lopez,Home Office,East,Maine,Portland,Office Supplies,Art,Crayola Colored Pencils,7,24.97,0.0,174.79,32.03,23.8,Second Class
+ORD-100334,2024-01-13,Christopher Anderson,Consumer,East,Rhode Island,Providence,Office Supplies,Art,Prismacolor Premier Set,1,6.22,0.4,3.73,-0.33,0.17,Standard Class
+ORD-100335,2025-10-19,Nancy Williams,Consumer,North,Ohio,Columbus,Technology,Copiers,Brother MFC-L8900CDW,8,725.81,0.2,4645.18,651.81,179.75,Standard Class
+ORD-100336,2025-05-10,Jennifer Rodriguez,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Art,Prismacolor Premier Set,1,68.53,0.1,61.68,11.48,12.15,First Class
+ORD-100337,2025-01-10,Michael Brown,Corporate,North,Pennsylvania,Pittsburgh,Furniture,Tables,IKEA BEKANT Desk,4,116.0,0.1,417.6,33.0,41.88,Standard Class
+ORD-100338,2025-06-06,Lisa Taylor,Corporate,East,Connecticut,Hartford,Office Supplies,Paper,HP Printer Paper,3,29.9,0.0,89.7,19.88,6.25,Standard Class
+ORD-100339,2024-10-05,Barbara Garcia,Consumer,North,Minnesota,Minneapolis,Furniture,Chairs,Secretlab Titan,5,202.7,0.0,1013.5,86.52,37.55,Standard Class
+ORD-100340,2025-05-19,Charles Wilson,Consumer,North,Wisconsin,Milwaukee,Technology,Phones,Apple iPhone 15,4,1831.11,0.3,5127.11,-660.44,397.61,Second Class
+ORD-100341,2023-05-10,Mark Johnson,Consumer,North,Illinois,Chicago,Technology,Computers,MacBook Pro 14,2,1218.58,0.0,2437.16,631.71,103.03,Standard Class
+ORD-100342,2024-08-13,Christopher Smith,Corporate,East,Maine,Portland,Technology,Phones,Apple iPhone 15,1,203.27,0.15,172.78,37.59,31.28,First Class
+ORD-100343,2023-12-25,Daniel Perez,Consumer,East,Maryland,Baltimore,Furniture,Tables,FlexiSpot E7,3,1372.18,0.5,2058.27,-628.6,320.24,Second Class
+ORD-100344,2023-07-09,Daniel Ramirez,Home Office,South,Texas,Dallas,Technology,Computers,Dell XPS 15,3,1787.71,0.15,4558.66,634.3,205.03,Standard Class
+ORD-100345,2024-11-04,Thomas Miller,Consumer,East,New Jersey,Newark,Office Supplies,Paper,Staples Multipurpose,4,3.2,0.0,12.8,2.62,2.88,Same Day
+ORD-100346,2023-07-14,Linda Taylor,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Art,Expo Dry Erase Kit,3,78.77,0.1,212.68,61.17,10.81,Standard Class
+ORD-100347,2023-08-14,Paul Miller,Corporate,South,Florida,Tampa,Technology,Computers,MacBook Pro 14,2,2001.54,0.3,2802.16,-411.41,600.08,First Class
+ORD-100348,2023-01-18,Nancy Clark,Home Office,South,Texas,Austin,Technology,Accessories,"Samsung Monitor 27""",2,284.12,0.3,397.77,-54.96,60.84,Second Class
+ORD-100349,2025-01-19,Paul Williams,Corporate,North,New York,Buffalo,Office Supplies,Binders,Cardinal Economy Binder,8,3.8,0.3,21.28,-0.56,2.49,Standard Class
+ORD-100350,2024-02-06,Patricia Gonzalez,Corporate,East,Vermont,Burlington,Technology,Computers,Dell XPS 15,3,1448.58,0.3,3042.02,-89.82,288.59,Second Class
+ORD-100351,2023-04-28,Nancy Moore,Consumer,North,Minnesota,Minneapolis,Office Supplies,Paper,Hammermill Copy Paper,2,46.24,0.2,73.98,13.37,19.4,Same Day
+ORD-100352,2023-04-20,Christopher Anderson,Home Office,West,California,Los Angeles,Office Supplies,Art,Sharpie Markers Set,2,57.11,0.0,114.22,26.05,6.53,Standard Class
+ORD-100353,2024-03-18,Jennifer Thomas,Consumer,West,Arizona,Phoenix,Furniture,Bookcases,Sauder Select Bookcase,1,305.57,0.0,305.57,15.52,15.61,Standard Class
+ORD-100354,2025-11-14,Patricia Lewis,Consumer,North,Illinois,Chicago,Technology,Accessories,Anker USB-C Hub,3,92.25,0.1,249.08,55.96,15.12,First Class
+ORD-100355,2024-12-11,Jessica Jones,Consumer,East,New Hampshire,Manchester,Furniture,Chairs,Herman Miller Aeron,3,577.42,0.0,1732.26,167.04,35.56,Standard Class
+ORD-100356,2025-06-09,Anthony Williams,Home Office,West,California,San Francisco,Technology,Accessories,"Samsung Monitor 27""",3,171.19,0.2,410.86,38.16,25.37,Standard Class
+ORD-100357,2025-11-08,Anthony Clark,Consumer,West,Utah,Salt Lake City,Furniture,Tables,FlexiSpot E7,2,540.98,0.15,919.67,105.43,50.73,Standard Class
+ORD-100358,2025-03-06,Linda Jones,Corporate,West,Arizona,Phoenix,Furniture,Tables,IKEA BEKANT Desk,6,721.89,0.2,3465.07,-116.86,309.56,Standard Class
+ORD-100359,2023-11-10,Jennifer Jones,Corporate,East,Delaware,Wilmington,Office Supplies,Art,Prismacolor Premier Set,2,19.88,0.0,39.76,10.76,3.6,Standard Class
+ORD-100360,2025-07-25,Susan Lewis,Consumer,West,Nevada,Las Vegas,Furniture,Bookcases,Bush Furniture Cabot,2,238.69,0.0,477.38,73.9,20.1,Standard Class
+ORD-100361,2023-09-11,Sandra Taylor,Consumer,South,Texas,Houston,Furniture,Chairs,Secretlab Titan,2,1042.68,0.0,2085.36,242.65,74.05,Standard Class
+ORD-100362,2024-05-03,Donald Robinson,Corporate,North,Wisconsin,Milwaukee,Technology,Accessories,Anker USB-C Hub,1,121.28,0.1,109.15,25.34,28.08,Same Day
+ORD-100363,2024-04-13,Robert Harris,Corporate,East,West Virginia,Charleston,Furniture,Bookcases,Sauder Select Bookcase,2,1452.3,0.15,2468.91,96.65,67.57,Second Class
+ORD-100364,2025-09-28,Ashley Williams,Corporate,West,Utah,Salt Lake City,Furniture,Bookcases,IKEA KALLAX,1,616.84,0.0,616.84,68.69,93.24,Second Class
+ORD-100365,2024-11-18,Sandra Johnson,Consumer,West,Nevada,Las Vegas,Technology,Computers,HP Spectre x360,2,1885.86,0.15,3205.96,826.82,89.06,Second Class
+ORD-100366,2024-11-05,Kimberly Gonzalez,Consumer,North,New York,Buffalo,Furniture,Bookcases,Walker Edison Bookshelf,1,299.84,0.1,269.86,39.2,11.93,Second Class
+ORD-100367,2025-04-17,Robert Robinson,Consumer,East,Vermont,Burlington,Furniture,Furnishings,Flash Furniture Rug,4,911.36,0.15,3098.62,427.41,217.73,Standard Class
+ORD-100368,2023-11-15,Sandra Perez,Home Office,East,West Virginia,Charleston,Technology,Copiers,Brother MFC-L8900CDW,6,1772.65,0.0,10635.9,2524.48,1300.57,Second Class
+ORD-100369,2025-07-23,Donald Jackson,Consumer,South,Virginia,Richmond,Office Supplies,Storage,IRIS Stacking Bin,1,4.45,0.0,4.45,0.96,0.35,Standard Class
+ORD-100370,2024-10-02,Mark Ramirez,Home Office,South,Florida,Miami,Office Supplies,Art,Expo Dry Erase Kit,2,27.74,0.1,49.93,13.79,4.57,Standard Class
+ORD-100371,2025-08-15,Richard Lewis,Consumer,South,Texas,Houston,Furniture,Bookcases,Bush Furniture Cabot,1,530.29,0.1,477.26,30.25,42.55,Standard Class
+ORD-100372,2024-07-16,Joseph Wilson,Consumer,West,Hawaii,Honolulu,Technology,Copiers,Xerox VersaLink,4,1465.55,0.1,5275.98,1322.08,446.41,Standard Class
+ORD-100373,2023-10-08,James Gonzalez,Corporate,East,West Virginia,Charleston,Furniture,Tables,Uplift V2 Standing Desk,1,905.83,0.15,769.96,78.54,111.76,First Class
+ORD-100374,2025-01-18,Michelle Garcia,Home Office,West,Oregon,Portland,Office Supplies,Art,Crayola Colored Pencils,3,37.94,0.5,56.91,-13.59,2.78,Second Class
+ORD-100375,2025-10-20,Susan Robinson,Consumer,West,Oregon,Portland,Furniture,Furnishings,Flash Furniture Rug,1,240.1,0.1,216.09,31.78,5.09,Standard Class
+ORD-100376,2023-11-19,Charles Gonzalez,Consumer,East,Delaware,Wilmington,Technology,Copiers,Brother MFC-L8900CDW,5,605.16,0.5,1512.9,-305.26,101.81,First Class
+ORD-100377,2024-06-11,Paul Rodriguez,Home Office,North,Minnesota,Minneapolis,Furniture,Bookcases,Sauder Select Bookcase,1,505.57,0.0,505.57,90.54,84.88,Same Day
+ORD-100378,2023-03-03,Nancy Williams,Home Office,East,Rhode Island,Providence,Furniture,Chairs,Herman Miller Aeron,7,1348.25,0.15,8022.09,397.55,477.01,Standard Class
+ORD-100379,2023-09-11,Christopher Wilson,Home Office,West,California,San Diego,Technology,Phones,Google Pixel 8,2,1598.24,0.1,2876.83,484.35,122.28,Standard Class
+ORD-100380,2025-12-10,Jessica Gonzalez,Home Office,North,Minnesota,Minneapolis,Technology,Phones,Samsung Galaxy S24,2,1373.66,0.4,1648.39,-226.81,331.97,Same Day
+ORD-100381,2025-12-16,Jennifer Garcia,Consumer,North,Michigan,Detroit,Technology,Accessories,Anker USB-C Hub,2,171.74,0.1,309.13,43.03,21.78,Standard Class
+ORD-100382,2024-09-07,Matthew Ramirez,Home Office,North,Wisconsin,Milwaukee,Technology,Computers,MacBook Pro 14,3,402.13,0.1,1085.75,245.47,30.29,Second Class
+ORD-100383,2023-07-11,Steven Lee,Home Office,West,California,Los Angeles,Technology,Copiers,HP LaserJet Pro,2,497.9,0.5,497.9,-142.38,31.63,First Class
+ORD-100384,2025-06-15,Donna Jackson,Consumer,West,California,Los Angeles,Furniture,Tables,FlexiSpot E7,4,1143.47,0.1,4116.49,355.36,207.64,Standard Class
+ORD-100385,2024-12-10,Susan Jones,Corporate,West,California,San Francisco,Office Supplies,Paper,Hammermill Copy Paper,1,8.35,0.0,8.35,2.23,0.31,Second Class
+ORD-100386,2025-05-09,David Jackson,Consumer,South,Florida,Miami,Technology,Computers,Dell XPS 15,4,1512.14,0.4,3629.14,-640.81,109.55,Standard Class
+ORD-100387,2024-08-07,James Taylor,Home Office,North,Ohio,Columbus,Furniture,Chairs,Steelcase Leap V2,9,922.72,0.5,4152.24,-1419.35,407.03,Standard Class
+ORD-100388,2025-12-18,Kimberly Perez,Home Office,South,Virginia,Richmond,Office Supplies,Paper,Staples Multipurpose,1,21.25,0.0,21.25,5.04,1.74,Standard Class
+ORD-100389,2024-12-19,Daniel Lee,Consumer,North,Pennsylvania,Philadelphia,Furniture,Tables,Autonomous SmartDesk,1,1247.46,0.4,748.48,-150.97,70.35,Standard Class
+ORD-100390,2023-08-28,Jennifer Jones,Corporate,East,District of Columbia,Washington,Furniture,Tables,FlexiSpot E7,4,92.83,0.3,259.92,-63.47,53.3,First Class
+ORD-100391,2023-02-25,Betty Clark,Consumer,West,California,San Francisco,Office Supplies,Binders,Cardinal Economy Binder,2,8.67,0.2,13.87,1.69,0.6,Standard Class
+ORD-100392,2024-11-27,Lisa Taylor,Consumer,West,California,San Francisco,Office Supplies,Binders,Wilson Jones Binder,4,51.71,0.0,206.84,42.49,9.15,Standard Class
+ORD-100393,2024-11-03,Christopher Gonzalez,Consumer,East,Rhode Island,Providence,Technology,Accessories,"Samsung Monitor 27""",8,230.91,0.0,1847.28,409.36,196.33,First Class
+ORD-100394,2023-09-08,Mark Ramirez,Corporate,North,Ohio,Columbus,Technology,Phones,OnePlus 12,4,1458.94,0.2,4668.61,545.45,484.71,Standard Class
+ORD-100395,2024-01-11,Andrew Hernandez,Home Office,East,New Hampshire,Manchester,Technology,Phones,Apple iPhone 15,1,690.48,0.2,552.38,51.46,18.66,Second Class
+ORD-100396,2023-05-25,Emily Taylor,Consumer,North,New York,New York,Office Supplies,Art,Crayola Colored Pencils,10,48.92,0.0,489.2,148.61,20.85,Second Class
+ORD-100397,2025-11-18,Mark Ramirez,Corporate,West,Nevada,Las Vegas,Technology,Computers,MacBook Pro 14,1,1897.38,0.5,948.69,-300.02,28.86,Standard Class
+ORD-100398,2025-02-06,David Lopez,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Art,Crayola Colored Pencils,3,54.5,0.0,163.5,28.16,5.28,Second Class
+ORD-100399,2024-02-14,Christopher Ramirez,Corporate,South,Florida,Tampa,Office Supplies,Binders,Cardinal Economy Binder,2,65.8,0.1,118.44,27.43,12.86,Standard Class
+ORD-100400,2025-03-11,Margaret Lee,Consumer,West,Oregon,Portland,Technology,Phones,OnePlus 12,7,1927.74,0.0,13494.18,3143.13,1120.86,Second Class
+ORD-100401,2025-07-16,Mark Robinson,Corporate,North,Massachusetts,Boston,Furniture,Tables,IKEA BEKANT Desk,3,395.16,0.2,948.38,-34.66,145.0,Second Class
+ORD-100402,2025-09-20,Michael Brown,Consumer,North,New York,Buffalo,Furniture,Tables,Uplift V2 Standing Desk,7,1019.31,0.0,7135.17,658.8,155.65,Standard Class
+ORD-100403,2023-11-09,Nancy Moore,Consumer,East,New Jersey,Newark,Furniture,Chairs,Herman Miller Aeron,5,603.74,0.15,2565.89,313.99,274.27,Standard Class
+ORD-100404,2024-12-20,John Taylor,Consumer,West,California,Los Angeles,Office Supplies,Art,Expo Dry Erase Kit,1,68.25,0.3,47.77,-5.11,4.49,Standard Class
+ORD-100405,2024-07-22,Thomas Wilson,Consumer,South,Tennessee,Nashville,Technology,Copiers,Canon imageRUNNER,5,2498.51,0.5,6246.28,-1370.02,997.11,First Class
+ORD-100406,2024-11-25,Jennifer Rodriguez,Consumer,West,Colorado,Denver,Technology,Copiers,Xerox VersaLink,1,618.03,0.0,618.03,135.51,56.63,Standard Class
+ORD-100407,2023-05-02,Charles Miller,Home Office,South,Georgia,Atlanta,Office Supplies,Art,Expo Dry Erase Kit,1,73.11,0.0,73.11,18.88,8.28,Standard Class
+ORD-100408,2025-01-25,James Brown,Consumer,North,Ohio,Columbus,Technology,Copiers,HP LaserJet Pro,1,2208.86,0.1,1987.97,408.18,204.93,Standard Class
+ORD-100409,2023-12-09,Matthew Wilson,Consumer,West,California,San Francisco,Furniture,Chairs,Steelcase Leap V2,4,529.52,0.3,1482.66,-219.62,29.96,Standard Class
+ORD-100410,2025-09-13,Barbara Rodriguez,Consumer,East,Vermont,Burlington,Office Supplies,Paper,Staples Multipurpose,4,74.89,0.1,269.6,82.0,8.48,Standard Class
+ORD-100411,2025-09-27,Karen Lopez,Corporate,West,Oregon,Portland,Furniture,Furnishings,Flash Furniture Rug,2,1195.24,0.1,2151.43,282.44,229.24,Standard Class
+ORD-100412,2025-09-01,Christopher Garcia,Corporate,North,Minnesota,Minneapolis,Furniture,Tables,FlexiSpot E7,6,722.93,0.15,3686.94,633.13,340.95,Standard Class
+ORD-100413,2025-01-06,James Jackson,Consumer,West,California,San Francisco,Office Supplies,Art,Sharpie Markers Set,2,10.29,0.5,10.29,-1.69,0.72,Standard Class
+ORD-100414,2025-07-07,Lisa Lee,Corporate,West,Utah,Salt Lake City,Furniture,Chairs,Steelcase Leap V2,1,285.67,0.2,228.54,-4.69,23.73,Standard Class
+ORD-100415,2023-05-15,Nancy White,Corporate,East,Rhode Island,Providence,Office Supplies,Paper,HP Printer Paper,3,6.56,0.0,19.68,5.42,2.54,Second Class
+ORD-100416,2024-04-17,Linda Jones,Home Office,West,Washington,Seattle,Technology,Computers,Lenovo ThinkPad X1,2,372.48,0.0,744.96,166.43,134.7,Same Day
+ORD-100417,2023-09-13,Matthew Hernandez,Corporate,North,New York,New York,Furniture,Chairs,Herman Miller Aeron,1,1101.07,0.4,660.64,-131.71,60.63,Standard Class
+ORD-100418,2025-05-03,Richard Lewis,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Binders,Wilson Jones Binder,1,14.5,0.1,13.05,2.41,0.62,Standard Class
+ORD-100419,2025-10-18,Joshua Harris,Consumer,North,New York,New York,Technology,Accessories,"Samsung Monitor 27""",1,38.33,0.1,34.5,8.22,2.55,Standard Class
+ORD-100420,2025-10-28,David Lopez,Corporate,North,Pennsylvania,Pittsburgh,Office Supplies,Storage,Fellowes Storage Box,1,24.0,0.0,24.0,6.83,1.68,Second Class
+ORD-100421,2024-09-07,Thomas Moore,Corporate,North,Ohio,Columbus,Office Supplies,Binders,Samsill View Binder,3,19.43,0.0,58.29,12.21,3.0,Second Class
+ORD-100422,2024-08-23,Matthew Garcia,Home Office,North,Massachusetts,Boston,Technology,Phones,OnePlus 12,1,1694.77,0.15,1440.55,320.82,47.35,Second Class
+ORD-100423,2023-10-08,Donald Jackson,Consumer,East,Maine,Portland,Technology,Copiers,Xerox VersaLink,5,1748.29,0.2,6993.16,891.99,346.91,Standard Class
+ORD-100424,2025-11-03,Emily Taylor,Consumer,West,Washington,Seattle,Technology,Copiers,Brother MFC-L8900CDW,3,2385.15,0.0,7155.45,1572.33,854.62,Standard Class
+ORD-100425,2024-10-15,Michael Sanchez,Corporate,East,District of Columbia,Washington,Furniture,Furnishings,Flash Furniture Rug,4,955.3,0.3,2674.84,-423.78,373.28,First Class
+ORD-100426,2023-07-25,Michael Ramirez,Consumer,East,Connecticut,Hartford,Furniture,Tables,Uplift V2 Standing Desk,3,131.89,0.0,395.67,45.13,12.1,Standard Class
+ORD-100427,2025-03-21,Ashley Lee,Corporate,South,Virginia,Richmond,Furniture,Tables,Autonomous SmartDesk,2,1365.47,0.3,1911.66,-235.31,146.98,Standard Class
+ORD-100428,2024-06-17,Charles Miller,Consumer,West,Colorado,Denver,Furniture,Furnishings,Flash Furniture Rug,7,187.88,0.0,1315.16,176.52,162.97,Same Day
+ORD-100429,2023-11-12,Matthew Garcia,Home Office,North,Minnesota,Minneapolis,Technology,Copiers,Canon imageRUNNER,6,1642.56,0.1,8869.82,2070.75,361.78,Second Class
+ORD-100430,2025-02-21,Matthew Wilson,Corporate,West,Colorado,Denver,Technology,Phones,Google Pixel 8,2,2069.3,0.5,2069.3,-571.11,348.03,Same Day
+ORD-100431,2025-02-23,Jennifer Garcia,Corporate,East,New Hampshire,Manchester,Furniture,Chairs,Steelcase Leap V2,3,318.91,0.3,669.71,-156.76,71.59,Second Class
+ORD-100432,2023-11-05,Betty Gonzalez,Consumer,North,Illinois,Chicago,Office Supplies,Storage,Bankers Box,3,30.76,0.1,83.05,17.39,9.2,Standard Class
+ORD-100433,2024-12-08,Susan Lewis,Consumer,East,Maryland,Baltimore,Office Supplies,Art,Prismacolor Premier Set,3,70.83,0.1,191.24,56.23,12.55,Standard Class
+ORD-100434,2025-07-01,Mark Robinson,Home Office,West,Washington,Seattle,Office Supplies,Storage,IRIS Stacking Bin,5,58.95,0.0,294.75,59.76,22.22,Standard Class
+ORD-100435,2024-03-27,Jessica Jones,Corporate,North,Pennsylvania,Philadelphia,Technology,Phones,Apple iPhone 15,4,911.8,0.0,3647.2,749.99,287.89,Standard Class
+ORD-100436,2023-12-06,Mark Martin,Consumer,West,California,Los Angeles,Technology,Computers,HP Spectre x360,2,255.49,0.1,459.88,83.49,22.63,Second Class
+ORD-100437,2024-11-08,Donald Moore,Consumer,South,Florida,Tampa,Office Supplies,Paper,Hammermill Copy Paper,1,14.08,0.15,11.97,3.06,1.14,Standard Class
+ORD-100438,2024-08-04,Jennifer Thompson,Consumer,West,Washington,Seattle,Furniture,Chairs,Herman Miller Aeron,4,997.01,0.15,3389.83,352.68,93.4,Standard Class
+ORD-100439,2025-07-11,Kimberly Gonzalez,Consumer,West,Hawaii,Honolulu,Technology,Computers,Lenovo ThinkPad X1,1,984.33,0.0,984.33,157.28,38.01,Second Class
+ORD-100440,2024-07-26,Patricia Jones,Corporate,North,Pennsylvania,Philadelphia,Technology,Copiers,Brother MFC-L8900CDW,6,890.66,0.1,4809.56,1229.41,207.27,Standard Class
+ORD-100441,2024-11-13,Matthew Hernandez,Corporate,East,West Virginia,Charleston,Technology,Phones,Google Pixel 8,1,1716.03,0.2,1372.82,151.0,294.83,Same Day
+ORD-100442,2024-05-15,Michelle Perez,Consumer,East,New Jersey,Newark,Furniture,Furnishings,Flash Furniture Rug,3,631.06,0.15,1609.2,70.41,221.65,Second Class
+ORD-100443,2024-07-22,Emily Hernandez,Corporate,West,Oregon,Portland,Technology,Copiers,HP LaserJet Pro,2,230.55,0.1,414.99,74.25,63.71,Second Class
+ORD-100444,2025-12-05,Michelle Jackson,Corporate,East,New Hampshire,Manchester,Furniture,Tables,Uplift V2 Standing Desk,4,1440.04,0.15,4896.14,681.16,733.1,Same Day
+ORD-100445,2023-01-22,Andrew Hernandez,Consumer,East,Maine,Portland,Technology,Computers,HP Spectre x360,1,2018.98,0.1,1817.08,327.76,119.37,Standard Class
+ORD-100446,2024-04-26,Barbara Johnson,Corporate,West,Oregon,Portland,Technology,Accessories,Apple AirPods Pro,2,233.92,0.1,421.06,102.68,22.55,Same Day
+ORD-100447,2025-10-24,James Gonzalez,Consumer,South,Texas,Dallas,Office Supplies,Paper,Georgia-Pacific Paper,3,71.63,0.3,150.42,-8.71,9.33,Standard Class
+ORD-100448,2025-03-27,Barbara Davis,Home Office,South,Texas,Austin,Technology,Copiers,HP LaserJet Pro,2,1519.63,0.1,2735.33,655.12,160.38,Same Day
+ORD-100449,2023-12-12,Matthew Garcia,Consumer,West,Hawaii,Honolulu,Technology,Phones,Samsung Galaxy S24,3,1920.95,0.4,3457.71,-642.52,289.94,Standard Class
+ORD-100450,2023-07-09,Mark Miller,Consumer,West,Washington,Seattle,Technology,Phones,Apple iPhone 15,5,582.86,0.2,2331.44,283.75,273.65,Same Day
+ORD-100451,2024-10-04,Jennifer Lewis,Consumer,West,Arizona,Phoenix,Furniture,Bookcases,Sauder Select Bookcase,5,1010.93,0.4,3032.79,-787.53,543.8,First Class
+ORD-100452,2024-09-08,Charles Gonzalez,Corporate,North,Pennsylvania,Pittsburgh,Technology,Computers,HP Spectre x360,2,517.7,0.0,1035.4,193.17,130.4,Second Class
+ORD-100453,2023-03-27,Lisa Lee,Home Office,West,Arizona,Phoenix,Office Supplies,Binders,Samsill View Binder,2,62.77,0.0,125.54,29.05,3.01,Standard Class
+ORD-100454,2025-12-07,Karen Perez,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Art,Crayola Colored Pencils,2,50.4,0.0,100.8,20.41,3.64,First Class
+ORD-100455,2025-03-14,Betty Smith,Consumer,North,Minnesota,Minneapolis,Technology,Phones,Apple iPhone 15,5,2469.69,0.2,9878.76,565.19,865.76,Standard Class
+ORD-100456,2023-06-09,Joseph Lee,Consumer,West,California,San Diego,Technology,Computers,HP Spectre x360,1,1174.23,0.15,998.1,233.18,24.13,Standard Class
+ORD-100457,2023-02-06,Robert Harris,Consumer,West,California,San Francisco,Technology,Accessories,Apple AirPods Pro,2,299.08,0.3,418.71,-38.29,29.41,Second Class
+ORD-100458,2025-07-05,Betty Smith,Consumer,East,District of Columbia,Washington,Technology,Phones,OnePlus 12,5,1852.31,0.4,5556.93,-1076.89,453.41,Standard Class
+ORD-100459,2023-08-05,Emily Taylor,Consumer,East,District of Columbia,Washington,Furniture,Bookcases,Bush Furniture Cabot,5,1448.52,0.0,7242.6,807.32,775.42,Standard Class
+ORD-100460,2023-01-03,Christopher Gonzalez,Corporate,North,Illinois,Chicago,Office Supplies,Art,Sharpie Markers Set,2,6.18,0.15,10.51,2.16,1.18,Standard Class
+ORD-100461,2024-09-06,Donald Jackson,Home Office,South,Texas,Houston,Furniture,Tables,Autonomous SmartDesk,3,631.45,0.4,1136.61,-315.43,112.13,Standard Class
+ORD-100462,2024-02-21,James Perez,Corporate,East,Connecticut,Hartford,Furniture,Bookcases,Sauder Select Bookcase,4,1402.09,0.0,5608.36,959.71,472.29,Standard Class
+ORD-100463,2024-01-19,Mark Robinson,Corporate,West,California,San Diego,Technology,Phones,Apple iPhone 15,9,2115.22,0.0,19036.98,3530.84,1157.38,Same Day
+ORD-100464,2024-07-21,Jennifer Lewis,Consumer,North,Minnesota,Minneapolis,Furniture,Furnishings,Rubbermaid Shelving,2,1495.84,0.0,2991.68,195.6,82.63,Standard Class
+ORD-100465,2023-11-16,Richard Wilson,Consumer,East,West Virginia,Charleston,Office Supplies,Storage,Fellowes Storage Box,1,16.14,0.4,9.68,-1.55,0.79,Standard Class
+ORD-100466,2023-01-26,Jennifer Rodriguez,Consumer,North,Ohio,Columbus,Office Supplies,Art,Sharpie Markers Set,1,71.49,0.1,64.34,17.03,4.38,Standard Class
+ORD-100467,2025-06-06,Karen Ramirez,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Storage,Bankers Box,1,39.26,0.4,23.56,-3.52,0.72,Standard Class
+ORD-100468,2023-03-11,Patricia Lewis,Consumer,West,California,San Diego,Office Supplies,Storage,Bankers Box,1,38.92,0.2,31.14,5.5,2.22,Standard Class
+ORD-100469,2025-05-27,Charles Miller,Consumer,West,Hawaii,Honolulu,Furniture,Chairs,Steelcase Leap V2,5,1022.74,0.1,4602.33,145.05,356.36,Standard Class
+ORD-100470,2024-01-24,Andrew Ramirez,Home Office,West,Arizona,Phoenix,Technology,Phones,Google Pixel 8,1,1290.07,0.3,903.05,-60.73,36.16,Standard Class
+ORD-100471,2023-07-04,Daniel Thompson,Consumer,West,Oregon,Portland,Technology,Copiers,HP LaserJet Pro,4,1310.0,0.1,4716.0,1296.54,425.93,Second Class
+ORD-100472,2023-05-25,Anthony Davis,Corporate,West,Colorado,Denver,Office Supplies,Binders,Cardinal Economy Binder,7,17.82,0.2,99.79,11.07,3.75,Standard Class
+ORD-100473,2024-11-27,Jessica Gonzalez,Consumer,South,Florida,Miami,Office Supplies,Art,Prismacolor Premier Set,3,68.08,0.3,142.97,3.45,13.95,Second Class
+ORD-100474,2025-01-07,Ashley Garcia,Home Office,West,Arizona,Phoenix,Furniture,Bookcases,IKEA KALLAX,9,198.29,0.2,1427.69,-33.1,92.04,Standard Class
+ORD-100475,2024-03-15,Robert Johnson,Consumer,North,Massachusetts,Boston,Office Supplies,Binders,Samsill View Binder,2,40.78,0.4,48.94,-3.76,4.64,First Class
+ORD-100476,2023-09-07,Michael Brown,Corporate,North,Illinois,Chicago,Furniture,Furnishings,Flash Furniture Rug,4,400.52,0.1,1441.87,183.91,177.18,Second Class
+ORD-100477,2023-03-17,Ashley Garcia,Corporate,West,Washington,Seattle,Technology,Phones,OnePlus 12,3,2211.78,0.0,6635.34,1606.72,911.0,First Class
+ORD-100478,2023-11-27,William Williams,Consumer,East,New Hampshire,Manchester,Technology,Accessories,"Samsung Monitor 27""",6,140.93,0.0,845.58,116.08,55.78,Standard Class
+ORD-100479,2025-05-26,Anthony Jones,Consumer,North,Illinois,Chicago,Furniture,Furnishings,Safco Coat Rack,5,941.02,0.1,4234.59,695.94,100.45,Standard Class
+ORD-100480,2025-12-09,Anthony Clark,Corporate,West,California,Los Angeles,Office Supplies,Storage,IRIS Stacking Bin,1,12.08,0.15,10.27,2.82,2.4,Same Day
+ORD-100481,2024-03-26,Karen Garcia,Home Office,West,Oregon,Portland,Technology,Copiers,Brother MFC-L8900CDW,1,156.79,0.0,156.79,26.07,31.45,First Class
+ORD-100482,2023-09-24,Susan Lewis,Consumer,West,Arizona,Phoenix,Office Supplies,Paper,Staples Multipurpose,1,51.0,0.0,51.0,10.71,4.6,Standard Class
+ORD-100483,2024-02-07,Nancy White,Corporate,North,New York,New York,Technology,Copiers,Brother MFC-L8900CDW,1,2105.31,0.0,2105.31,299.21,314.72,Second Class
+ORD-100484,2025-03-01,Jessica Jones,Corporate,North,Ohio,Columbus,Office Supplies,Binders,Cardinal Economy Binder,9,68.48,0.1,554.69,150.96,40.76,Standard Class
+ORD-100485,2023-08-07,Kimberly Gonzalez,Home Office,South,Texas,Houston,Office Supplies,Storage,Fellowes Storage Box,1,27.68,0.0,27.68,4.92,2.96,Second Class
+ORD-100486,2023-11-14,Betty Harris,Consumer,East,New Jersey,Newark,Office Supplies,Storage,Bankers Box,2,45.89,0.15,78.01,15.26,6.95,Standard Class
+ORD-100487,2024-12-09,Paul Rodriguez,Corporate,North,Michigan,Detroit,Furniture,Bookcases,Walker Edison Bookshelf,4,819.18,0.15,2785.21,174.71,330.16,Standard Class
+ORD-100488,2025-05-18,Linda Smith,Corporate,West,California,San Francisco,Technology,Computers,Lenovo ThinkPad X1,2,1502.43,0.0,3004.86,702.02,246.24,Standard Class
+ORD-100489,2023-08-01,Barbara Taylor,Consumer,North,Michigan,Detroit,Technology,Phones,OnePlus 12,1,1109.08,0.0,1109.08,145.77,44.97,Standard Class
+ORD-100490,2025-12-28,William Taylor,Corporate,South,Virginia,Richmond,Office Supplies,Paper,Hammermill Copy Paper,3,66.29,0.0,198.87,56.71,6.34,Second Class
+ORD-100491,2023-09-18,William Taylor,Home Office,North,New York,New York,Furniture,Bookcases,Sauder Select Bookcase,5,121.86,0.4,365.58,-88.73,52.73,Same Day
+ORD-100492,2025-09-13,Thomas Garcia,Home Office,North,Illinois,Chicago,Technology,Copiers,HP LaserJet Pro,2,858.63,0.0,1717.26,281.38,140.3,Second Class
+ORD-100493,2023-03-08,Donald Jackson,Corporate,West,Washington,Seattle,Technology,Copiers,Brother MFC-L8900CDW,1,1076.74,0.1,969.07,175.93,145.16,Second Class
+ORD-100494,2023-07-21,Robert Harris,Consumer,West,California,San Francisco,Furniture,Furnishings,Flash Furniture Rug,1,1163.82,0.0,1163.82,198.25,119.05,Standard Class
+ORD-100495,2024-11-19,Linda Taylor,Consumer,North,Ohio,Columbus,Technology,Computers,Dell XPS 15,1,897.24,0.1,807.52,121.16,34.9,Standard Class
+ORD-100496,2023-09-12,Christopher Miller,Home Office,North,Pennsylvania,Pittsburgh,Furniture,Tables,IKEA BEKANT Desk,1,1200.56,0.0,1200.56,145.33,32.24,Second Class
+ORD-100497,2025-11-20,Mark Miller,Home Office,North,Minnesota,Minneapolis,Furniture,Bookcases,Bush Furniture Cabot,2,1152.3,0.5,1152.3,-324.93,23.31,Standard Class
+ORD-100498,2024-08-15,Daniel Ramirez,Consumer,North,Michigan,Detroit,Office Supplies,Art,Expo Dry Erase Kit,4,4.03,0.3,11.28,-0.4,0.32,Standard Class
+ORD-100499,2024-11-13,Susan Anderson,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Paper,Georgia-Pacific Paper,7,79.74,0.0,558.18,146.08,52.29,Second Class
+ORD-100500,2024-03-24,William Williams,Consumer,East,West Virginia,Charleston,Office Supplies,Paper,HP Printer Paper,4,16.65,0.0,66.6,14.47,8.73,Same Day
+ORD-100501,2024-12-27,Sandra Taylor,Home Office,South,Florida,Miami,Technology,Accessories,Apple AirPods Pro,1,66.97,0.15,56.92,9.48,5.85,Second Class
+ORD-100502,2025-11-24,Betty Clark,Consumer,West,California,San Diego,Office Supplies,Binders,Wilson Jones Binder,8,31.66,0.0,253.28,53.53,43.02,First Class
+ORD-100503,2024-09-09,Matthew Robinson,Corporate,West,Nevada,Las Vegas,Furniture,Bookcases,IKEA KALLAX,3,1467.58,0.2,3522.19,72.63,81.83,Standard Class
+ORD-100504,2023-10-17,Lisa Harris,Consumer,South,Texas,Austin,Furniture,Furnishings,Rubbermaid Shelving,1,796.51,0.0,796.51,133.2,57.85,Standard Class
+ORD-100505,2024-08-14,Christopher Anderson,Corporate,East,Vermont,Burlington,Office Supplies,Storage,Bankers Box,6,23.56,0.5,70.68,-17.93,4.8,Same Day
+ORD-100506,2024-12-18,Richard Harris,Consumer,South,Virginia,Richmond,Office Supplies,Paper,Hammermill Copy Paper,1,28.2,0.15,23.97,4.82,5.3,Same Day
+ORD-100507,2024-12-07,Ashley Lee,Corporate,North,Massachusetts,Boston,Furniture,Furnishings,Rubbermaid Shelving,2,815.06,0.1,1467.11,163.13,50.1,Standard Class
+ORD-100508,2024-11-18,Joseph Moore,Consumer,East,Connecticut,Hartford,Office Supplies,Binders,Avery Durable Binder,3,42.05,0.3,88.3,2.35,8.47,Standard Class
+ORD-100509,2025-10-19,Emily Smith,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Binders,Samsill View Binder,10,40.08,0.3,280.56,4.93,14.04,Standard Class
+ORD-100510,2025-09-22,Daniel Perez,Consumer,East,West Virginia,Charleston,Office Supplies,Art,Crayola Colored Pencils,5,17.77,0.0,88.85,15.45,9.67,Standard Class
+ORD-100511,2023-08-07,James Perez,Home Office,West,Hawaii,Honolulu,Technology,Accessories,Anker USB-C Hub,1,94.46,0.2,75.57,10.83,11.61,Second Class
+ORD-100512,2025-04-13,Charles Miller,Corporate,South,Florida,Miami,Technology,Phones,Apple iPhone 15,4,988.45,0.0,3953.8,872.91,265.98,Standard Class
+ORD-100513,2024-10-08,Joseph Wilson,Consumer,West,Nevada,Las Vegas,Technology,Phones,OnePlus 12,1,421.1,0.15,357.94,89.99,39.25,Standard Class
+ORD-100514,2025-03-11,Michelle Perez,Home Office,West,California,San Diego,Furniture,Bookcases,Sauder Select Bookcase,1,327.07,0.0,327.07,17.03,11.0,Standard Class
+ORD-100515,2024-11-04,Thomas Miller,Corporate,North,Illinois,Chicago,Furniture,Furnishings,AmazonBasics Lamp,2,1024.54,0.1,1844.17,128.55,73.67,Standard Class
+ORD-100516,2024-12-11,Jessica Jackson,Consumer,South,North Carolina,Charlotte,Furniture,Tables,IKEA BEKANT Desk,1,1024.41,0.1,921.97,76.19,108.73,Standard Class
+ORD-100517,2025-04-05,Karen Garcia,Home Office,North,Minnesota,Minneapolis,Furniture,Tables,IKEA BEKANT Desk,2,1417.86,0.5,1417.86,-586.5,105.21,Standard Class
+ORD-100518,2023-05-03,David Lopez,Consumer,East,Vermont,Burlington,Furniture,Furnishings,Safco Coat Rack,2,1470.5,0.0,2941.0,403.06,363.73,Same Day
+ORD-100519,2025-12-03,Linda Smith,Corporate,East,Rhode Island,Providence,Technology,Phones,Google Pixel 8,1,2362.72,0.15,2008.31,302.81,59.42,Standard Class
+ORD-100520,2025-06-28,Mark Ramirez,Consumer,West,Utah,Salt Lake City,Furniture,Furnishings,Rubbermaid Shelving,2,833.72,0.15,1417.32,106.78,141.84,Standard Class
+ORD-100521,2023-09-21,Donald Robinson,Consumer,North,Wisconsin,Milwaukee,Furniture,Tables,IKEA BEKANT Desk,1,521.58,0.0,521.58,93.32,44.76,Second Class
+ORD-100522,2025-02-14,Barbara Taylor,Corporate,West,Arizona,Phoenix,Furniture,Furnishings,AmazonBasics Lamp,1,870.38,0.1,783.34,59.08,92.97,Standard Class
+ORD-100523,2023-02-02,Betty Harris,Corporate,East,Vermont,Burlington,Technology,Accessories,Apple AirPods Pro,1,180.78,0.0,180.78,39.31,14.14,Standard Class
+ORD-100524,2023-11-16,Emily Robinson,Home Office,North,New York,New York,Technology,Accessories,Anker USB-C Hub,5,39.99,0.15,169.96,39.92,16.94,Standard Class
+ORD-100525,2025-02-11,Daniel Lee,Corporate,East,Maryland,Baltimore,Office Supplies,Binders,Cardinal Economy Binder,2,22.47,0.1,40.45,12.08,3.1,Standard Class
+ORD-100526,2025-03-14,Paul Davis,Corporate,West,California,San Francisco,Technology,Accessories,Anker USB-C Hub,4,26.05,0.5,52.1,-13.99,2.42,Second Class
+ORD-100527,2025-02-18,Christopher Ramirez,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Paper,Staples Multipurpose,1,56.06,0.1,50.45,15.85,3.42,Standard Class
+ORD-100528,2024-06-26,Barbara Rodriguez,Consumer,South,Texas,Houston,Office Supplies,Storage,Sterilite Drawer Unit,2,73.81,0.0,147.62,32.11,20.27,First Class
+ORD-100529,2024-11-04,David Robinson,Home Office,East,Maine,Portland,Office Supplies,Binders,Wilson Jones Binder,6,32.2,0.2,154.56,24.79,5.99,Standard Class
+ORD-100530,2023-11-10,Daniel Thompson,Consumer,South,Florida,Orlando,Office Supplies,Binders,Cardinal Economy Binder,2,19.17,0.1,34.51,9.51,2.25,Standard Class
+ORD-100531,2023-07-22,Mark Martin,Consumer,West,Utah,Salt Lake City,Office Supplies,Storage,Bankers Box,3,30.75,0.1,83.03,24.04,3.89,First Class
+ORD-100532,2024-12-02,Michelle Thomas,Corporate,South,Texas,Houston,Furniture,Bookcases,IKEA KALLAX,2,522.27,0.15,887.86,123.98,40.09,Standard Class
+ORD-100533,2024-10-21,Christopher Ramirez,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Binders,Samsill View Binder,4,42.87,0.1,154.33,47.55,13.55,Second Class
+ORD-100534,2023-04-06,Karen Perez,Consumer,East,New Jersey,Newark,Office Supplies,Art,Expo Dry Erase Kit,1,40.47,0.5,20.23,-3.8,1.42,First Class
+ORD-100535,2023-09-22,Ashley Williams,Consumer,South,Georgia,Atlanta,Furniture,Chairs,Herman Miller Aeron,5,269.43,0.1,1212.44,53.09,83.51,Standard Class
+ORD-100536,2024-09-05,Matthew Wilson,Consumer,North,New York,Buffalo,Technology,Computers,HP Spectre x360,6,1686.23,0.15,8599.77,1824.91,407.86,Standard Class
+ORD-100537,2024-06-27,Betty Hernandez,Consumer,West,California,San Diego,Technology,Phones,Google Pixel 8,3,1044.89,0.2,2507.74,195.61,247.54,Standard Class
+ORD-100538,2025-05-09,Anthony Brown,Corporate,East,Vermont,Burlington,Furniture,Furnishings,Rubbermaid Shelving,8,237.05,0.15,1611.94,234.64,146.84,Standard Class
+ORD-100539,2025-12-06,Jennifer Thompson,Corporate,East,Rhode Island,Providence,Office Supplies,Paper,Georgia-Pacific Paper,4,43.74,0.2,139.97,17.07,25.35,Same Day
+ORD-100540,2023-05-28,Betty Gonzalez,Corporate,West,Colorado,Denver,Office Supplies,Binders,Wilson Jones Binder,4,68.75,0.3,192.5,3.54,20.83,Second Class
+ORD-100541,2024-07-02,Donald Jackson,Home Office,South,Texas,Austin,Office Supplies,Paper,Staples Multipurpose,7,59.88,0.1,377.24,66.22,15.39,Standard Class
+ORD-100542,2024-12-24,Paul Williams,Consumer,East,Maine,Portland,Furniture,Tables,FlexiSpot E7,1,1390.79,0.1,1251.71,116.28,111.23,Standard Class
+ORD-100543,2023-02-28,Thomas Perez,Corporate,West,Nevada,Las Vegas,Technology,Copiers,Xerox VersaLink,3,1897.02,0.0,5691.06,1032.3,487.73,Second Class
+ORD-100544,2023-07-09,Anthony Anderson,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Art,Expo Dry Erase Kit,8,41.08,0.0,328.64,103.49,36.88,Standard Class
+ORD-100545,2023-10-17,Joseph Moore,Corporate,West,Colorado,Denver,Furniture,Chairs,Steelcase Leap V2,3,182.21,0.0,546.63,97.82,30.07,Standard Class
+ORD-100546,2025-09-09,Linda White,Corporate,West,California,San Diego,Technology,Computers,MacBook Pro 14,4,1868.98,0.0,7475.92,2086.65,1036.89,First Class
+ORD-100547,2024-12-11,Betty Gonzalez,Consumer,North,New York,Buffalo,Furniture,Chairs,Herman Miller Aeron,2,776.06,0.0,1552.12,255.58,148.32,Standard Class
+ORD-100548,2023-06-05,Nancy Moore,Consumer,South,Tennessee,Nashville,Technology,Accessories,Anker USB-C Hub,3,216.83,0.5,325.25,-91.05,19.37,Standard Class
+ORD-100549,2025-08-19,William Williams,Corporate,East,Maryland,Baltimore,Technology,Accessories,Logitech MX Master 3,3,150.28,0.4,270.5,-46.53,10.91,Standard Class
+ORD-100550,2024-12-07,Emily Lee,Consumer,East,Maine,Portland,Office Supplies,Paper,Georgia-Pacific Paper,5,7.85,0.0,39.25,11.83,1.13,Second Class
+ORD-100551,2024-04-10,David Robinson,Consumer,East,New Hampshire,Manchester,Furniture,Chairs,Steelcase Leap V2,5,613.67,0.15,2608.1,329.4,78.23,Standard Class
+ORD-100552,2025-07-19,Richard Brown,Consumer,North,Michigan,Detroit,Office Supplies,Storage,Fellowes Storage Box,1,47.12,0.3,32.98,-2.86,2.59,Second Class
+ORD-100553,2023-04-13,Patricia Gonzalez,Corporate,South,North Carolina,Charlotte,Technology,Computers,HP Spectre x360,2,1911.64,0.1,3440.95,550.29,335.88,Standard Class
+ORD-100554,2024-09-20,Mark Johnson,Consumer,West,Hawaii,Honolulu,Furniture,Bookcases,Sauder Select Bookcase,2,118.4,0.0,236.8,10.72,14.12,Standard Class
+ORD-100555,2024-08-19,William Thomas,Home Office,North,Minnesota,Minneapolis,Furniture,Chairs,Secretlab Titan,8,1239.91,0.15,8431.39,693.04,1834.77,Same Day
+ORD-100556,2025-01-28,Daniel Jones,Corporate,North,Ohio,Columbus,Furniture,Tables,IKEA BEKANT Desk,4,1083.51,0.3,3033.83,-452.41,284.71,Standard Class
+ORD-100557,2024-11-17,Emily Lee,Home Office,West,Arizona,Phoenix,Technology,Copiers,HP LaserJet Pro,2,1516.58,0.3,2123.21,-317.75,79.46,Standard Class
+ORD-100558,2025-03-19,Mark Martin,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Paper,Georgia-Pacific Paper,1,73.96,0.2,59.17,8.17,3.03,Standard Class
+ORD-100559,2025-03-13,Barbara Davis,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Storage,IRIS Stacking Bin,1,49.38,0.1,44.44,11.95,9.6,Same Day
+ORD-100560,2024-08-24,Susan Robinson,Home Office,East,Rhode Island,Providence,Furniture,Chairs,Steelcase Leap V2,1,1068.03,0.0,1068.03,65.2,120.41,Second Class
+ORD-100561,2024-10-20,Susan Rodriguez,Home Office,South,North Carolina,Charlotte,Office Supplies,Binders,Wilson Jones Binder,2,7.21,0.1,12.98,2.99,0.54,Standard Class
+ORD-100562,2025-08-04,Robert Harris,Corporate,West,Oregon,Portland,Office Supplies,Storage,Bankers Box,1,76.87,0.0,76.87,21.77,6.76,Second Class
+ORD-100563,2023-07-15,Lisa Jones,Corporate,North,Minnesota,Minneapolis,Technology,Phones,Samsung Galaxy S24,5,1528.52,0.3,5349.82,-685.09,1137.08,First Class
+ORD-100564,2025-03-08,Robert Harris,Corporate,South,Florida,Tampa,Technology,Phones,OnePlus 12,2,922.25,0.0,1844.5,397.85,203.69,First Class
+ORD-100565,2025-08-08,Joseph Moore,Consumer,West,Colorado,Denver,Office Supplies,Storage,Bankers Box,1,56.85,0.3,39.8,-3.74,7.95,Same Day
+ORD-100566,2023-07-16,Barbara Davis,Consumer,West,Arizona,Phoenix,Office Supplies,Binders,Wilson Jones Binder,1,43.86,0.1,39.47,8.51,2.59,Standard Class
+ORD-100567,2023-12-25,Mark White,Home Office,North,New York,New York,Office Supplies,Art,Crayola Colored Pencils,1,62.09,0.0,62.09,15.13,4.16,First Class
+ORD-100568,2025-12-08,Karen Ramirez,Consumer,North,Ohio,Columbus,Office Supplies,Binders,Wilson Jones Binder,4,28.5,0.0,114.0,29.18,8.17,Standard Class
+ORD-100569,2025-10-23,Joseph Lee,Corporate,East,District of Columbia,Washington,Furniture,Bookcases,Walker Edison Bookshelf,1,1150.15,0.15,977.63,85.88,98.45,Standard Class
+ORD-100570,2024-04-03,David Jackson,Home Office,East,District of Columbia,Washington,Office Supplies,Binders,Wilson Jones Binder,1,78.99,0.4,47.39,-4.86,6.71,Second Class
+ORD-100571,2025-08-19,Patricia Jones,Consumer,South,Texas,Houston,Furniture,Furnishings,AmazonBasics Lamp,6,1337.08,0.15,6819.11,950.13,298.78,Second Class
+ORD-100572,2025-08-01,Charles Sanchez,Home Office,West,Nevada,Las Vegas,Office Supplies,Art,Crayola Colored Pencils,6,13.53,0.1,73.06,21.07,7.59,Second Class
+ORD-100573,2024-11-03,Matthew Robinson,Consumer,North,Massachusetts,Boston,Technology,Accessories,Anker USB-C Hub,1,277.52,0.2,222.02,26.03,25.97,Standard Class
+ORD-100574,2023-08-26,James Jackson,Corporate,North,Michigan,Detroit,Furniture,Chairs,HON Ignition 2.0,8,1324.08,0.2,8474.11,160.61,1631.2,Same Day
+ORD-100575,2023-10-04,William Taylor,Consumer,East,Delaware,Wilmington,Office Supplies,Binders,Cardinal Economy Binder,1,3.3,0.1,2.97,0.59,0.09,Standard Class
+ORD-100576,2025-09-28,David Robinson,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Storage,Bankers Box,1,27.88,0.0,27.88,6.48,1.25,Standard Class
+ORD-100577,2023-01-24,Karen Ramirez,Corporate,North,Michigan,Detroit,Office Supplies,Art,Expo Dry Erase Kit,5,75.86,0.2,303.44,30.21,11.82,Standard Class
+ORD-100578,2024-12-09,Daniel Lee,Corporate,South,Florida,Tampa,Furniture,Furnishings,AmazonBasics Lamp,1,1382.52,0.0,1382.52,167.25,48.65,Standard Class
+ORD-100579,2024-09-25,Barbara Garcia,Corporate,North,Michigan,Detroit,Office Supplies,Storage,IRIS Stacking Bin,1,30.67,0.3,21.47,-1.56,2.37,Standard Class
+ORD-100580,2025-12-27,Emily Smith,Consumer,West,Hawaii,Honolulu,Technology,Accessories,"Samsung Monitor 27""",5,207.93,0.1,935.69,252.05,209.27,Same Day
+ORD-100581,2025-05-20,Jennifer Garcia,Consumer,East,Delaware,Wilmington,Technology,Phones,Google Pixel 8,2,2410.32,0.0,4820.64,646.78,481.03,Standard Class
+ORD-100582,2024-08-26,Michelle Harris,Consumer,West,Oregon,Portland,Office Supplies,Storage,Sterilite Drawer Unit,6,51.19,0.15,261.07,80.36,7.86,Standard Class
+ORD-100583,2025-08-03,Christopher Wilson,Home Office,West,Washington,Seattle,Technology,Computers,MacBook Pro 14,1,251.91,0.0,251.91,65.99,17.14,Standard Class
+ORD-100584,2024-10-10,Anthony White,Consumer,North,Illinois,Chicago,Technology,Accessories,Logitech MX Master 3,3,86.2,0.1,232.74,58.59,50.25,Same Day
+ORD-100585,2025-11-13,Mark Robinson,Consumer,South,Georgia,Atlanta,Furniture,Tables,Uplift V2 Standing Desk,3,769.65,0.3,1616.26,-353.05,142.48,Standard Class
+ORD-100586,2025-07-22,David Clark,Consumer,East,Maine,Portland,Office Supplies,Binders,Avery Durable Binder,3,10.11,0.0,30.33,6.55,2.33,Second Class
+ORD-100587,2025-12-17,David Clark,Home Office,South,Tennessee,Nashville,Office Supplies,Storage,Sterilite Drawer Unit,6,67.7,0.0,406.2,127.38,29.13,Standard Class
+ORD-100588,2024-11-16,Mark White,Corporate,North,Michigan,Detroit,Office Supplies,Paper,Hammermill Copy Paper,5,79.73,0.1,358.79,113.94,30.0,Standard Class
+ORD-100589,2025-04-19,Donna Johnson,Corporate,North,Massachusetts,Boston,Technology,Phones,OnePlus 12,2,971.17,0.2,1553.87,100.15,200.32,Second Class
+ORD-100590,2024-09-20,Kimberly Gonzalez,Home Office,East,Maryland,Baltimore,Office Supplies,Art,Sharpie Markers Set,3,31.04,0.0,93.12,17.92,7.09,Second Class
+ORD-100591,2025-02-02,Anthony Anderson,Home Office,North,New York,Buffalo,Office Supplies,Paper,Georgia-Pacific Paper,2,75.45,0.4,90.54,-10.55,4.51,Standard Class
+ORD-100592,2025-03-24,Mark Ramirez,Consumer,East,West Virginia,Charleston,Technology,Copiers,HP LaserJet Pro,3,1323.96,0.2,3177.5,342.43,250.29,Standard Class
+ORD-100593,2024-11-27,Sarah Anderson,Corporate,North,Massachusetts,Boston,Office Supplies,Storage,Fellowes Storage Box,3,13.45,0.5,20.17,-3.78,0.43,Standard Class
+ORD-100594,2023-04-23,William Williams,Consumer,West,Colorado,Denver,Technology,Computers,Lenovo ThinkPad X1,2,832.9,0.0,1665.8,294.2,181.57,Standard Class
+ORD-100595,2024-12-11,Mark Martin,Consumer,East,Rhode Island,Providence,Furniture,Bookcases,Bush Furniture Cabot,4,1017.45,0.0,4069.8,436.94,303.69,Second Class
+ORD-100596,2025-09-03,Matthew Ramirez,Consumer,East,Maine,Portland,Office Supplies,Art,Sharpie Markers Set,2,35.12,0.4,42.14,-4.17,2.21,Standard Class
+ORD-100597,2023-08-04,Donald Moore,Consumer,North,New York,Buffalo,Technology,Accessories,Logitech MX Master 3,1,178.0,0.3,124.6,-12.19,9.59,First Class
+ORD-100598,2023-03-11,Karen Brown,Consumer,West,Utah,Salt Lake City,Technology,Phones,Apple iPhone 15,1,758.58,0.1,682.72,178.84,48.32,Second Class
+ORD-100599,2025-05-28,Andrew Ramirez,Home Office,East,Rhode Island,Providence,Office Supplies,Art,Crayola Colored Pencils,6,23.48,0.0,140.88,42.31,29.75,Same Day
+ORD-100600,2023-09-27,Christopher Smith,Home Office,West,Washington,Seattle,Furniture,Chairs,Steelcase Leap V2,2,399.55,0.0,799.1,54.77,77.53,Same Day
+ORD-100601,2023-08-18,Paul Miller,Consumer,East,New Jersey,Newark,Technology,Computers,HP Spectre x360,2,594.13,0.1,1069.43,145.16,85.82,First Class
+ORD-100602,2023-07-09,Matthew Wilson,Corporate,West,Utah,Salt Lake City,Technology,Computers,Dell XPS 15,2,1074.12,0.0,2148.24,411.66,183.32,Standard Class
+ORD-100603,2023-11-19,James Jackson,Consumer,West,Arizona,Phoenix,Technology,Computers,Dell XPS 15,1,1448.92,0.0,1448.92,307.8,141.19,Standard Class
+ORD-100604,2024-11-12,Betty Harris,Consumer,West,Arizona,Phoenix,Furniture,Bookcases,Bush Furniture Cabot,2,632.73,0.0,1265.46,46.36,46.16,Standard Class
+ORD-100605,2025-08-06,Barbara Lopez,Consumer,West,Nevada,Las Vegas,Furniture,Bookcases,Bush Furniture Cabot,7,512.03,0.1,3225.79,320.42,322.56,Standard Class
+ORD-100606,2023-12-28,Donald Robinson,Home Office,North,Minnesota,Minneapolis,Office Supplies,Storage,IRIS Stacking Bin,1,32.64,0.3,22.85,-2.24,2.05,Second Class
+ORD-100607,2025-03-26,Nancy White,Consumer,South,Georgia,Atlanta,Office Supplies,Paper,Georgia-Pacific Paper,1,66.12,0.3,46.28,0.04,4.96,Standard Class
+ORD-100608,2025-03-28,Michelle Jackson,Home Office,North,New York,Buffalo,Furniture,Chairs,Secretlab Titan,3,678.5,0.0,2035.5,215.08,49.63,Standard Class
+ORD-100609,2024-10-12,Karen Brown,Corporate,East,Connecticut,Hartford,Furniture,Tables,IKEA BEKANT Desk,5,838.71,0.2,3354.84,-93.64,297.72,Standard Class
+ORD-100610,2023-12-26,Mark Davis,Home Office,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Cardinal Economy Binder,2,19.89,0.1,35.8,7.84,5.38,First Class
+ORD-100611,2024-04-08,Charles Sanchez,Home Office,North,New York,Buffalo,Furniture,Chairs,HON Ignition 2.0,2,467.9,0.3,655.06,-105.11,49.62,Standard Class
+ORD-100612,2024-08-26,David Lewis,Corporate,East,District of Columbia,Washington,Technology,Phones,OnePlus 12,2,356.08,0.15,605.34,112.66,44.5,Standard Class
+ORD-100613,2023-11-03,Christopher Anderson,Corporate,East,Maine,Portland,Technology,Phones,Apple iPhone 15,5,1019.17,0.2,4076.68,249.0,470.46,Second Class
+ORD-100614,2024-11-16,Thomas Garcia,Consumer,South,Texas,Houston,Technology,Computers,Lenovo ThinkPad X1,2,1013.95,0.0,2027.9,362.66,86.35,Standard Class
+ORD-100615,2025-09-09,Donna Clark,Consumer,West,California,San Francisco,Furniture,Furnishings,Rubbermaid Shelving,3,1421.41,0.2,3411.38,96.43,192.67,First Class
+ORD-100616,2023-06-24,Joshua Harris,Consumer,South,Georgia,Atlanta,Furniture,Tables,Autonomous SmartDesk,6,479.4,0.1,2588.76,201.23,237.61,Standard Class
+ORD-100617,2025-08-28,Jennifer Rodriguez,Home Office,South,Texas,Dallas,Technology,Copiers,Brother MFC-L8900CDW,2,1252.25,0.1,2254.05,299.34,226.23,Standard Class
+ORD-100618,2025-12-04,Barbara Rodriguez,Corporate,East,West Virginia,Charleston,Office Supplies,Binders,Wilson Jones Binder,1,62.54,0.0,62.54,11.55,6.24,Standard Class
+ORD-100619,2024-07-10,Emily Hernandez,Consumer,South,Texas,Houston,Furniture,Tables,IKEA BEKANT Desk,1,1400.29,0.2,1120.23,2.25,91.48,First Class
+ORD-100620,2024-06-20,Sandra Johnson,Corporate,North,Illinois,Chicago,Technology,Computers,Dell XPS 15,5,2152.05,0.0,10760.25,2076.66,1245.8,Second Class
+ORD-100621,2024-05-08,Margaret Miller,Home Office,North,Pennsylvania,Philadelphia,Technology,Accessories,Anker USB-C Hub,1,109.82,0.0,109.82,21.77,5.3,Standard Class
+ORD-100622,2024-08-16,Michael Ramirez,Consumer,West,Arizona,Phoenix,Office Supplies,Storage,IRIS Stacking Bin,9,36.33,0.0,326.97,68.22,67.45,First Class
+ORD-100623,2024-07-17,Joseph Martin,Consumer,West,Utah,Salt Lake City,Technology,Copiers,HP LaserJet Pro,3,2424.9,0.0,7274.7,1716.12,829.84,Standard Class
+ORD-100624,2024-09-12,Barbara Davis,Consumer,South,Florida,Miami,Technology,Computers,Dell XPS 15,3,1019.28,0.5,1528.92,-283.87,51.22,Standard Class
+ORD-100625,2024-01-16,Emily Hernandez,Home Office,East,New Jersey,Newark,Office Supplies,Storage,Fellowes Storage Box,2,16.78,0.2,26.85,3.37,3.9,Second Class
+ORD-100626,2023-11-26,Joseph Ramirez,Consumer,East,West Virginia,Charleston,Office Supplies,Paper,Hammermill Copy Paper,9,76.23,0.1,617.46,115.81,45.03,Standard Class
+ORD-100627,2024-10-06,James Gonzalez,Consumer,West,Arizona,Phoenix,Furniture,Bookcases,Sauder Select Bookcase,2,168.55,0.0,337.1,37.18,32.85,First Class
+ORD-100628,2025-07-11,Patricia Lewis,Home Office,West,California,San Francisco,Office Supplies,Art,Sharpie Markers Set,5,11.54,0.3,40.39,-0.76,6.98,First Class
+ORD-100629,2023-05-08,Jennifer Thompson,Home Office,South,Texas,Houston,Office Supplies,Paper,Staples Multipurpose,5,8.88,0.0,44.4,10.38,4.93,Standard Class
+ORD-100630,2024-08-01,Daniel Ramirez,Consumer,North,Ohio,Columbus,Office Supplies,Paper,HP Printer Paper,3,51.44,0.0,154.32,45.29,11.73,Standard Class
+ORD-100631,2023-08-14,David Clark,Consumer,West,California,San Diego,Office Supplies,Storage,IRIS Stacking Bin,3,39.69,0.0,119.07,21.02,16.81,Second Class
+ORD-100632,2024-10-10,Robert Robinson,Corporate,West,Washington,Seattle,Office Supplies,Binders,Cardinal Economy Binder,1,34.83,0.3,24.38,-1.49,4.34,First Class
+ORD-100633,2023-10-16,Lisa Jones,Home Office,East,Delaware,Wilmington,Technology,Computers,HP Spectre x360,2,1543.4,0.1,2778.12,724.05,269.39,Standard Class
+ORD-100634,2024-09-28,Barbara Taylor,Consumer,West,California,San Diego,Furniture,Tables,Autonomous SmartDesk,4,973.03,0.0,3892.12,482.62,582.57,Second Class
+ORD-100635,2025-08-22,Barbara Taylor,Home Office,East,Maryland,Baltimore,Office Supplies,Paper,HP Printer Paper,5,65.32,0.15,277.61,53.92,14.48,Second Class
+ORD-100636,2025-12-13,Christopher Gonzalez,Consumer,East,Vermont,Burlington,Furniture,Chairs,HON Ignition 2.0,2,584.39,0.15,993.46,93.32,88.79,First Class
+ORD-100637,2023-04-21,Anthony Williams,Consumer,West,Colorado,Denver,Technology,Copiers,Brother MFC-L8900CDW,4,2182.01,0.15,7418.83,1449.71,895.01,First Class
+ORD-100638,2024-02-27,Ashley Sanchez,Consumer,West,Nevada,Las Vegas,Furniture,Tables,Autonomous SmartDesk,5,594.58,0.0,2972.9,237.63,339.4,Same Day
+ORD-100639,2024-12-28,Lisa Jones,Corporate,South,Florida,Miami,Furniture,Chairs,HON Ignition 2.0,2,917.91,0.4,1101.49,-228.3,114.0,Standard Class
+ORD-100640,2023-07-09,Emily Garcia,Corporate,South,Georgia,Atlanta,Furniture,Chairs,Steelcase Leap V2,3,164.68,0.15,419.93,30.87,43.29,Standard Class
+ORD-100641,2024-11-10,Donna Clark,Consumer,South,Florida,Tampa,Technology,Accessories,"Samsung Monitor 27""",1,193.21,0.2,154.57,22.04,11.69,Standard Class
+ORD-100642,2025-11-24,Donald Perez,Corporate,West,California,San Diego,Office Supplies,Art,Crayola Colored Pencils,1,48.87,0.2,39.1,5.92,6.23,Same Day
+ORD-100643,2023-11-13,Elizabeth Martinez,Consumer,North,Wisconsin,Milwaukee,Furniture,Bookcases,Bush Furniture Cabot,5,876.11,0.0,4380.55,710.96,743.95,Same Day
+ORD-100644,2024-04-18,Patricia Jones,Corporate,North,Illinois,Chicago,Office Supplies,Paper,HP Printer Paper,4,70.59,0.0,282.36,49.73,16.7,Standard Class
+ORD-100645,2025-09-09,Daniel Thompson,Consumer,West,Hawaii,Honolulu,Furniture,Bookcases,Sauder Select Bookcase,1,220.24,0.0,220.24,31.44,24.67,Second Class
+ORD-100646,2024-05-04,Emily Robinson,Corporate,West,Hawaii,Honolulu,Furniture,Chairs,Steelcase Leap V2,4,681.62,0.15,2317.51,175.03,338.22,Same Day
+ORD-100647,2023-02-13,Ashley Lee,Consumer,East,Connecticut,Hartford,Technology,Accessories,"Samsung Monitor 27""",1,80.35,0.15,68.3,19.12,7.57,Second Class
+ORD-100648,2024-11-26,Christopher Wilson,Consumer,North,New York,Buffalo,Office Supplies,Paper,Staples Multipurpose,6,71.32,0.1,385.13,88.58,35.68,Standard Class
+ORD-100649,2025-06-20,Thomas Garcia,Consumer,South,Texas,Houston,Furniture,Tables,FlexiSpot E7,4,66.04,0.0,264.16,15.8,26.82,Standard Class
+ORD-100650,2023-02-22,Daniel Thompson,Corporate,West,California,San Diego,Office Supplies,Binders,Avery Durable Binder,1,70.48,0.15,59.91,17.3,1.64,Standard Class
+ORD-100651,2024-07-23,Thomas Miller,Corporate,East,Maine,Portland,Office Supplies,Storage,Sterilite Drawer Unit,1,27.34,0.0,27.34,6.44,4.08,Second Class
+ORD-100652,2023-05-16,Barbara Rodriguez,Consumer,West,Oregon,Portland,Technology,Phones,Google Pixel 8,1,301.38,0.15,256.17,36.38,7.23,Standard Class
+ORD-100653,2024-11-19,Paul Miller,Corporate,North,New York,New York,Office Supplies,Binders,Avery Durable Binder,2,59.02,0.15,100.33,18.23,19.66,First Class
+ORD-100654,2023-12-04,Donald Robinson,Consumer,West,Utah,Salt Lake City,Technology,Copiers,Xerox VersaLink,3,1347.41,0.15,3435.9,774.4,527.03,Second Class
+ORD-100655,2024-09-04,Patricia Hernandez,Corporate,West,California,San Diego,Furniture,Chairs,Herman Miller Aeron,3,914.6,0.3,1920.66,-336.1,46.8,Standard Class
+ORD-100656,2023-02-01,Thomas Miller,Consumer,West,California,San Francisco,Technology,Computers,HP Spectre x360,5,2339.74,0.3,8189.09,-429.86,1493.73,First Class
+ORD-100657,2023-05-28,Daniel Thompson,Home Office,South,Florida,Tampa,Office Supplies,Binders,Cardinal Economy Binder,3,75.49,0.15,192.5,36.2,11.14,Second Class
+ORD-100658,2024-05-18,Michelle Thomas,Corporate,North,Minnesota,Minneapolis,Technology,Phones,Apple iPhone 15,1,2498.65,0.4,1499.19,-295.64,166.74,Second Class
+ORD-100659,2025-08-13,Robert Johnson,Corporate,West,California,San Diego,Technology,Computers,Dell XPS 15,2,1979.29,0.1,3562.72,530.63,368.05,Standard Class
+ORD-100660,2024-11-28,Patricia Lewis,Consumer,West,Hawaii,Honolulu,Office Supplies,Art,Prismacolor Premier Set,4,68.8,0.15,233.92,42.82,18.39,Standard Class
+ORD-100661,2024-07-21,Mark Miller,Consumer,North,Ohio,Columbus,Office Supplies,Storage,Bankers Box,1,67.03,0.15,56.98,13.81,4.97,Standard Class
+ORD-100662,2025-10-14,Emily Smith,Consumer,East,New Jersey,Newark,Furniture,Furnishings,Rubbermaid Shelving,2,790.16,0.0,1580.32,222.55,167.8,Standard Class
+ORD-100663,2024-10-10,Anthony Anderson,Home Office,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Wilson Jones Binder,2,65.16,0.4,78.19,-9.77,4.24,Standard Class
+ORD-100664,2023-01-26,Christopher Garcia,Consumer,North,New York,Buffalo,Furniture,Bookcases,Walker Edison Bookshelf,6,671.34,0.15,3423.83,543.7,278.41,Second Class
+ORD-100665,2025-10-04,Christopher Miller,Corporate,West,Oregon,Portland,Office Supplies,Binders,Cardinal Economy Binder,2,11.69,0.0,23.38,6.64,1.53,Second Class
+ORD-100666,2024-05-03,Thomas Perez,Consumer,North,New York,New York,Office Supplies,Storage,Bankers Box,1,51.51,0.2,41.21,4.35,3.07,Standard Class
+ORD-100667,2024-08-19,Jennifer Lewis,Consumer,West,Colorado,Denver,Office Supplies,Storage,Bankers Box,3,29.17,0.0,87.51,23.3,7.02,Standard Class
+ORD-100668,2025-07-04,Robert Harris,Home Office,East,West Virginia,Charleston,Furniture,Chairs,Secretlab Titan,1,607.79,0.2,486.23,14.61,29.54,Standard Class
+ORD-100669,2023-10-22,Donna Jackson,Home Office,East,New Hampshire,Manchester,Office Supplies,Binders,Avery Durable Binder,1,45.69,0.4,27.41,-3.96,3.96,Second Class
+ORD-100670,2024-08-26,Patricia Wilson,Home Office,West,Hawaii,Honolulu,Technology,Accessories,Logitech MX Master 3,1,210.44,0.15,178.87,32.05,4.2,Standard Class
+ORD-100671,2024-06-16,Paul Miller,Consumer,East,Vermont,Burlington,Furniture,Chairs,Secretlab Titan,2,152.3,0.15,258.91,35.89,37.36,Second Class
+ORD-100672,2025-09-27,Barbara Ramirez,Home Office,West,Colorado,Denver,Furniture,Tables,Uplift V2 Standing Desk,2,1208.59,0.0,2417.18,312.27,159.41,Second Class
+ORD-100673,2025-12-21,Betty Harris,Consumer,West,California,San Diego,Office Supplies,Art,Crayola Colored Pencils,2,28.82,0.5,28.82,-7.74,3.04,Standard Class
+ORD-100674,2025-03-28,Robert Robinson,Corporate,West,California,San Francisco,Office Supplies,Storage,Bankers Box,4,75.2,0.1,270.72,71.53,27.31,Standard Class
+ORD-100675,2023-08-21,Anthony Jones,Corporate,North,New York,New York,Technology,Computers,MacBook Pro 14,9,891.27,0.0,8021.43,1989.67,1161.32,Second Class
+ORD-100676,2023-01-21,Mark Wilson,Home Office,North,Pennsylvania,Philadelphia,Technology,Copiers,Brother MFC-L8900CDW,5,478.13,0.4,1434.39,-225.65,53.83,Standard Class
+ORD-100677,2023-11-01,Patricia Wilson,Corporate,East,New Hampshire,Manchester,Office Supplies,Binders,Samsill View Binder,4,7.77,0.1,27.97,8.09,1.82,Standard Class
+ORD-100678,2024-08-25,James Jackson,Home Office,North,Ohio,Columbus,Office Supplies,Paper,Hammermill Copy Paper,3,29.37,0.0,88.11,23.39,3.82,Standard Class
+ORD-100679,2023-10-19,Mary Brown,Corporate,East,West Virginia,Charleston,Office Supplies,Storage,IRIS Stacking Bin,7,69.65,0.0,487.55,144.58,36.54,Second Class
+ORD-100680,2025-07-26,Steven Lee,Corporate,North,Michigan,Detroit,Technology,Copiers,Canon imageRUNNER,4,2055.2,0.15,6987.68,1738.9,682.89,Standard Class
+ORD-100681,2023-11-15,Paul Miller,Corporate,East,Vermont,Burlington,Technology,Accessories,Logitech MX Master 3,1,279.63,0.2,223.7,14.14,32.73,Second Class
+ORD-100682,2025-11-12,Donald Moore,Corporate,West,Washington,Seattle,Furniture,Bookcases,Sauder Select Bookcase,6,917.7,0.5,2753.1,-907.93,86.26,Standard Class
+ORD-100683,2025-06-14,Linda Smith,Consumer,North,Ohio,Columbus,Office Supplies,Storage,IRIS Stacking Bin,1,44.07,0.0,44.07,8.22,3.86,Standard Class
+ORD-100684,2024-09-20,Jennifer Thompson,Home Office,South,Texas,Austin,Technology,Phones,Apple iPhone 15,5,383.63,0.15,1630.43,265.69,87.39,First Class
+ORD-100685,2024-01-21,Sarah Rodriguez,Consumer,South,Texas,Dallas,Office Supplies,Storage,IRIS Stacking Bin,3,70.21,0.0,210.63,58.0,9.03,Standard Class
+ORD-100686,2025-03-14,Mark Miller,Consumer,West,Washington,Seattle,Office Supplies,Art,Prismacolor Premier Set,1,21.57,0.15,18.33,4.35,0.48,Standard Class
+ORD-100687,2023-10-10,Jessica Gonzalez,Home Office,South,Texas,Austin,Technology,Accessories,Logitech MX Master 3,1,285.92,0.0,285.92,53.06,33.95,First Class
+ORD-100688,2024-11-12,Betty Clark,Corporate,East,Maine,Portland,Technology,Accessories,Anker USB-C Hub,4,81.26,0.15,276.28,64.27,11.28,Standard Class
+ORD-100689,2023-10-01,Christopher Wilson,Consumer,West,California,San Francisco,Furniture,Furnishings,Safco Coat Rack,2,995.66,0.1,1792.19,182.62,103.23,Standard Class
+ORD-100690,2025-07-18,Nancy Clark,Consumer,West,California,San Francisco,Office Supplies,Paper,Georgia-Pacific Paper,2,77.32,0.1,139.18,36.56,11.44,Standard Class
+ORD-100691,2025-09-09,James Davis,Consumer,North,New York,Buffalo,Furniture,Chairs,Herman Miller Aeron,2,554.08,0.2,886.53,-26.53,38.14,Second Class
+ORD-100692,2023-12-26,Sandra Taylor,Consumer,North,Massachusetts,Boston,Technology,Accessories,Anker USB-C Hub,4,256.97,0.2,822.3,65.15,173.05,Same Day
+ORD-100693,2025-10-23,Paul Davis,Consumer,North,Pennsylvania,Pittsburgh,Technology,Computers,Dell XPS 15,2,1999.31,0.0,3998.62,986.73,509.17,Same Day
+ORD-100694,2023-02-07,Donna Johnson,Home Office,East,Connecticut,Hartford,Office Supplies,Art,Crayola Colored Pencils,1,63.9,0.0,63.9,16.73,9.65,Second Class
+ORD-100695,2025-04-18,Betty Hernandez,Consumer,South,Tennessee,Nashville,Office Supplies,Binders,Avery Durable Binder,3,41.3,0.5,61.95,-11.75,9.23,Second Class
+ORD-100696,2024-07-20,Andrew Hernandez,Consumer,South,Georgia,Atlanta,Technology,Computers,HP Spectre x360,4,1118.29,0.0,4473.16,992.1,120.97,Second Class
+ORD-100697,2023-10-18,Karen Garcia,Consumer,West,Nevada,Las Vegas,Technology,Accessories,Apple AirPods Pro,1,94.61,0.1,85.15,21.52,9.62,Standard Class
+ORD-100698,2025-12-15,Patricia Jones,Consumer,South,Florida,Orlando,Technology,Computers,Dell XPS 15,2,701.18,0.1,1262.12,168.67,92.08,Standard Class
+ORD-100699,2024-11-25,Sandra Johnson,Corporate,East,Delaware,Wilmington,Technology,Computers,Lenovo ThinkPad X1,4,2214.27,0.5,4428.54,-1234.37,98.86,Standard Class
+ORD-100700,2025-07-16,Patricia Lewis,Home Office,South,Tennessee,Nashville,Technology,Computers,Lenovo ThinkPad X1,1,863.16,0.2,690.53,50.76,40.93,Standard Class
+ORD-100701,2024-09-25,Jennifer Thomas,Corporate,South,Florida,Orlando,Furniture,Bookcases,Walker Edison Bookshelf,1,1364.29,0.1,1227.86,201.81,95.36,Standard Class
+ORD-100702,2025-07-01,Jessica Gonzalez,Consumer,South,Texas,Dallas,Office Supplies,Storage,Fellowes Storage Box,1,46.88,0.15,39.85,8.41,7.3,Same Day
+ORD-100703,2024-09-20,Nancy Clark,Consumer,South,Florida,Orlando,Technology,Copiers,Canon imageRUNNER,4,1557.41,0.1,5606.68,1566.96,269.61,Second Class
+ORD-100704,2024-06-12,Mark Robinson,Home Office,South,Texas,Austin,Furniture,Bookcases,Walker Edison Bookshelf,1,1235.27,0.15,1049.98,165.92,28.96,Standard Class
+ORD-100705,2023-07-26,Susan Jones,Consumer,West,Utah,Salt Lake City,Office Supplies,Paper,Hammermill Copy Paper,1,34.63,0.15,29.44,6.39,4.59,Second Class
+ORD-100706,2024-11-24,Susan Lewis,Corporate,West,Oregon,Portland,Furniture,Furnishings,Safco Coat Rack,2,832.88,0.0,1665.76,98.27,107.84,Standard Class
+ORD-100707,2023-10-25,Betty Gonzalez,Corporate,West,Washington,Seattle,Furniture,Furnishings,Rubbermaid Shelving,7,381.45,0.2,2136.12,34.82,102.79,Standard Class
+ORD-100708,2024-06-20,Emily Lee,Consumer,East,Connecticut,Hartford,Technology,Accessories,Anker USB-C Hub,2,114.6,0.0,229.2,39.5,26.93,First Class
+ORD-100709,2023-02-15,Donald Perez,Consumer,East,Maryland,Baltimore,Office Supplies,Paper,Staples Multipurpose,2,58.56,0.0,117.12,29.16,5.15,First Class
+ORD-100710,2025-12-27,Nancy Robinson,Consumer,North,Ohio,Columbus,Furniture,Furnishings,Flash Furniture Rug,9,1028.72,0.15,7869.71,1315.64,2245.32,Same Day
+ORD-100711,2023-09-14,Joshua Ramirez,Corporate,West,Arizona,Phoenix,Technology,Copiers,HP LaserJet Pro,1,814.55,0.3,570.18,-57.41,21.4,Standard Class
+ORD-100712,2024-10-07,Anthony Clark,Consumer,East,West Virginia,Charleston,Technology,Phones,OnePlus 12,9,773.73,0.0,6963.57,1042.33,602.94,Standard Class
+ORD-100713,2023-07-19,Jennifer Garcia,Home Office,North,Massachusetts,Boston,Technology,Phones,Apple iPhone 15,2,1278.49,0.0,2556.98,458.28,85.41,Standard Class
+ORD-100714,2025-06-04,Susan Sanchez,Home Office,West,Arizona,Phoenix,Furniture,Furnishings,Rubbermaid Shelving,2,562.79,0.0,1125.58,91.66,83.23,First Class
+ORD-100715,2025-11-02,Paul Williams,Corporate,North,Michigan,Detroit,Technology,Copiers,HP LaserJet Pro,5,2271.05,0.4,6813.15,-1382.78,137.63,Standard Class
+ORD-100716,2023-11-01,Donna Clark,Consumer,South,Florida,Orlando,Furniture,Tables,FlexiSpot E7,7,599.62,0.4,2518.4,-834.19,97.25,Standard Class
+ORD-100717,2025-03-28,Lisa Taylor,Consumer,East,New Jersey,Newark,Office Supplies,Storage,Bankers Box,2,41.94,0.15,71.3,12.2,7.85,Standard Class
+ORD-100718,2025-09-05,William Sanchez,Corporate,East,Connecticut,Hartford,Office Supplies,Binders,Cardinal Economy Binder,3,22.7,0.0,68.1,14.96,4.33,Standard Class
+ORD-100719,2023-11-04,Barbara Davis,Consumer,North,New York,Buffalo,Office Supplies,Storage,IRIS Stacking Bin,1,47.77,0.0,47.77,12.52,4.68,First Class
+ORD-100720,2024-11-26,Christopher Anderson,Consumer,North,Pennsylvania,Philadelphia,Furniture,Furnishings,Rubbermaid Shelving,5,93.19,0.0,465.95,51.69,34.06,Standard Class
+ORD-100721,2025-02-02,Paul Williams,Home Office,North,Wisconsin,Milwaukee,Furniture,Bookcases,Sauder Select Bookcase,6,136.27,0.15,694.98,63.32,153.7,Same Day
+ORD-100722,2023-11-27,Joseph Moore,Home Office,North,Pennsylvania,Pittsburgh,Office Supplies,Paper,Georgia-Pacific Paper,2,63.34,0.1,114.01,35.98,8.48,Second Class
+ORD-100723,2025-12-19,Susan Rodriguez,Consumer,South,Virginia,Richmond,Office Supplies,Binders,Samsill View Binder,2,23.44,0.15,39.85,8.09,2.59,Second Class
+ORD-100724,2025-12-12,David Clark,Corporate,West,California,San Diego,Furniture,Tables,Uplift V2 Standing Desk,5,1087.2,0.0,5436.0,594.26,377.53,Standard Class
+ORD-100725,2023-03-22,Susan Jones,Home Office,West,Oregon,Portland,Furniture,Furnishings,AmazonBasics Lamp,8,1258.94,0.1,9064.37,730.84,871.52,Second Class
+ORD-100726,2025-04-10,Mark White,Home Office,West,Washington,Seattle,Office Supplies,Art,Crayola Colored Pencils,2,26.95,0.1,48.51,15.15,8.64,First Class
+ORD-100727,2024-04-23,Nancy Garcia,Consumer,South,Virginia,Richmond,Furniture,Furnishings,Flash Furniture Rug,4,310.34,0.4,744.82,-166.91,74.77,Standard Class
+ORD-100728,2024-11-12,Barbara Rodriguez,Consumer,North,Pennsylvania,Pittsburgh,Furniture,Bookcases,IKEA KALLAX,4,461.19,0.1,1660.28,162.87,182.38,Second Class
+ORD-100729,2023-11-15,Mark Martin,Corporate,East,West Virginia,Charleston,Office Supplies,Storage,Fellowes Storage Box,9,13.18,0.1,106.76,21.54,20.3,Same Day
+ORD-100730,2025-06-20,Kimberly White,Consumer,North,Ohio,Columbus,Technology,Copiers,HP LaserJet Pro,8,1076.4,0.1,7750.08,1241.78,892.85,Standard Class
+ORD-100731,2025-08-13,Barbara Johnson,Consumer,West,Utah,Salt Lake City,Technology,Phones,Samsung Galaxy S24,2,2357.36,0.2,3771.78,358.22,247.33,Standard Class
+ORD-100732,2024-07-27,Anthony Anderson,Corporate,West,Hawaii,Honolulu,Furniture,Tables,Uplift V2 Standing Desk,1,1253.13,0.15,1065.16,143.36,126.43,Standard Class
+ORD-100733,2023-07-03,Jennifer Rodriguez,Consumer,North,New York,New York,Office Supplies,Paper,HP Printer Paper,3,63.36,0.0,190.08,35.96,23.02,First Class
+ORD-100734,2024-03-08,Kimberly White,Corporate,West,California,Los Angeles,Technology,Copiers,Canon imageRUNNER,3,2451.82,0.15,6252.14,1634.04,272.88,Second Class
+ORD-100735,2023-07-27,Daniel Ramirez,Home Office,West,Oregon,Portland,Furniture,Furnishings,Rubbermaid Shelving,1,80.56,0.3,56.39,-12.58,2.45,Standard Class
+ORD-100736,2025-06-26,Patricia Hernandez,Consumer,West,Arizona,Phoenix,Technology,Copiers,HP LaserJet Pro,4,1635.19,0.1,5886.68,1471.73,239.77,Standard Class
+ORD-100737,2024-04-05,Lisa Harris,Corporate,East,District of Columbia,Washington,Office Supplies,Art,Expo Dry Erase Kit,2,31.19,0.0,62.38,19.15,6.68,Standard Class
+ORD-100738,2023-07-03,Susan Rodriguez,Consumer,South,Virginia,Richmond,Technology,Copiers,Xerox VersaLink,1,901.25,0.15,766.06,189.13,153.59,First Class
+ORD-100739,2023-10-27,Joseph Wilson,Consumer,North,Minnesota,Minneapolis,Office Supplies,Storage,Sterilite Drawer Unit,2,3.6,0.0,7.2,1.47,0.77,Standard Class
+ORD-100740,2024-11-07,Lisa Harris,Consumer,East,New Hampshire,Manchester,Technology,Copiers,Brother MFC-L8900CDW,2,250.58,0.0,501.16,126.02,19.14,Standard Class
+ORD-100741,2024-11-03,David Lewis,Consumer,East,Maine,Portland,Furniture,Bookcases,IKEA KALLAX,1,1365.04,0.2,1092.03,-16.17,96.24,Standard Class
+ORD-100742,2024-03-12,Robert Harris,Consumer,West,California,San Francisco,Furniture,Chairs,HON Ignition 2.0,2,542.44,0.0,1084.88,52.46,113.33,First Class
+ORD-100743,2023-06-05,Donald Jackson,Consumer,North,Michigan,Detroit,Office Supplies,Binders,Cardinal Economy Binder,2,33.19,0.0,66.38,18.17,1.94,Standard Class
+ORD-100744,2025-02-22,Mark Wilson,Consumer,North,Pennsylvania,Philadelphia,Technology,Copiers,HP LaserJet Pro,3,1951.54,0.0,5854.62,1398.7,643.39,First Class
+ORD-100745,2025-09-25,Paul Davis,Consumer,South,Texas,Dallas,Technology,Copiers,Xerox VersaLink,6,516.38,0.1,2788.45,558.45,424.08,First Class
+ORD-100746,2025-12-18,Paul Rodriguez,Consumer,North,Pennsylvania,Philadelphia,Furniture,Tables,FlexiSpot E7,2,752.22,0.15,1278.77,39.17,38.69,Standard Class
+ORD-100747,2024-12-20,Barbara Ramirez,Home Office,South,Florida,Miami,Office Supplies,Binders,Wilson Jones Binder,2,77.89,0.0,155.78,38.62,3.54,Standard Class
+ORD-100748,2023-06-26,Karen Garcia,Home Office,East,Connecticut,Hartford,Furniture,Tables,Autonomous SmartDesk,2,1491.53,0.15,2535.6,131.51,73.24,Standard Class
+ORD-100749,2023-07-21,Joshua Ramirez,Corporate,North,Illinois,Chicago,Furniture,Furnishings,AmazonBasics Lamp,2,501.52,0.0,1003.04,62.68,22.91,Standard Class
+ORD-100750,2025-07-26,Joshua Ramirez,Consumer,South,Florida,Orlando,Office Supplies,Binders,Cardinal Economy Binder,3,5.69,0.15,14.51,2.81,2.07,Same Day
+ORD-100751,2023-10-06,Donna Clark,Home Office,North,Minnesota,Minneapolis,Technology,Phones,Samsung Galaxy S24,1,977.34,0.0,977.34,209.69,23.88,Standard Class
+ORD-100752,2024-09-15,Betty Harris,Consumer,South,North Carolina,Charlotte,Technology,Accessories,"Samsung Monitor 27""",6,296.72,0.2,1424.26,213.39,79.57,Standard Class
+ORD-100753,2023-03-20,Nancy Garcia,Consumer,North,Illinois,Chicago,Furniture,Tables,Uplift V2 Standing Desk,4,812.85,0.2,2601.12,-104.75,252.42,Second Class
+ORD-100754,2023-12-10,Emily Hernandez,Home Office,North,Minnesota,Minneapolis,Furniture,Tables,Autonomous SmartDesk,2,982.33,0.0,1964.66,69.94,69.29,Standard Class
+ORD-100755,2025-05-04,Daniel Ramirez,Home Office,West,Colorado,Denver,Furniture,Furnishings,AmazonBasics Lamp,1,1362.86,0.2,1090.29,12.34,103.29,Standard Class
+ORD-100756,2023-04-09,Nancy Williams,Corporate,North,Minnesota,Minneapolis,Office Supplies,Art,Crayola Colored Pencils,2,53.64,0.0,107.28,19.7,5.71,Standard Class
+ORD-100757,2024-11-01,Joseph Moore,Consumer,East,District of Columbia,Washington,Office Supplies,Paper,HP Printer Paper,1,12.04,0.15,10.23,2.78,0.27,Standard Class
+ORD-100758,2025-10-23,Nancy White,Consumer,West,Utah,Salt Lake City,Office Supplies,Storage,Sterilite Drawer Unit,1,79.2,0.1,71.28,19.71,6.43,Standard Class
+ORD-100759,2025-08-06,Patricia Wilson,Consumer,East,Maine,Portland,Furniture,Tables,FlexiSpot E7,2,517.94,0.0,1035.88,54.24,123.48,First Class
+ORD-100760,2023-10-09,Nancy Garcia,Corporate,West,Arizona,Phoenix,Furniture,Chairs,Secretlab Titan,2,119.07,0.15,202.42,16.65,24.32,First Class
+ORD-100761,2023-07-28,Matthew Garcia,Home Office,East,District of Columbia,Washington,Office Supplies,Storage,Sterilite Drawer Unit,1,49.55,0.0,49.55,12.75,3.55,First Class
+ORD-100762,2025-11-26,Kimberly Gonzalez,Corporate,East,West Virginia,Charleston,Furniture,Chairs,HON Ignition 2.0,7,607.31,0.5,2125.59,-739.61,63.84,Second Class
+ORD-100763,2024-02-03,Mark Johnson,Home Office,North,Pennsylvania,Pittsburgh,Technology,Accessories,Apple AirPods Pro,5,240.92,0.2,963.68,109.66,80.06,Standard Class
+ORD-100764,2024-05-16,Charles Wilson,Corporate,West,Washington,Seattle,Technology,Copiers,Xerox VersaLink,2,206.61,0.15,351.24,83.49,16.87,Second Class
+ORD-100765,2025-04-11,Ashley Williams,Consumer,West,Nevada,Las Vegas,Office Supplies,Paper,Georgia-Pacific Paper,1,55.81,0.1,50.23,9.89,9.05,Same Day
+ORD-100766,2025-12-05,David Lewis,Consumer,South,Texas,Austin,Office Supplies,Storage,Sterilite Drawer Unit,1,6.59,0.0,6.59,1.66,0.45,Standard Class
+ORD-100767,2024-02-13,Anthony Brown,Consumer,North,New York,New York,Technology,Computers,Lenovo ThinkPad X1,2,306.38,0.5,306.38,-62.28,10.88,Standard Class
+ORD-100768,2023-04-12,William Taylor,Consumer,East,New Hampshire,Manchester,Furniture,Bookcases,Sauder Select Bookcase,1,661.15,0.1,595.03,23.32,24.65,Second Class
+ORD-100769,2024-08-24,Joshua Harris,Consumer,North,Ohio,Columbus,Office Supplies,Storage,Fellowes Storage Box,4,8.9,0.1,32.04,6.89,3.5,Standard Class
+ORD-100770,2025-07-05,Karen Garcia,Corporate,North,Pennsylvania,Pittsburgh,Furniture,Furnishings,Safco Coat Rack,5,618.41,0.1,2782.84,243.82,286.58,Standard Class
+ORD-100771,2023-12-03,Matthew Hernandez,Consumer,West,Utah,Salt Lake City,Office Supplies,Paper,Staples Multipurpose,3,79.81,0.1,215.49,67.22,11.8,Standard Class
+ORD-100772,2023-10-20,Mary Brown,Home Office,South,Virginia,Richmond,Technology,Copiers,Canon imageRUNNER,1,2011.54,0.0,2011.54,504.6,310.27,First Class
+ORD-100773,2024-06-09,Mark Wilson,Consumer,West,Washington,Seattle,Furniture,Chairs,Steelcase Leap V2,4,1369.76,0.1,4931.14,151.44,450.23,Standard Class
+ORD-100774,2025-06-14,Nancy Williams,Consumer,North,Illinois,Chicago,Office Supplies,Storage,IRIS Stacking Bin,4,19.23,0.1,69.23,15.94,2.56,First Class
+ORD-100775,2025-12-26,Susan Robinson,Corporate,East,Maryland,Baltimore,Furniture,Furnishings,Safco Coat Rack,2,1266.18,0.0,2532.36,86.05,239.27,First Class
+ORD-100776,2023-08-17,Anthony Brown,Consumer,South,Florida,Miami,Furniture,Tables,FlexiSpot E7,3,722.08,0.0,2166.24,256.93,192.68,Standard Class
+ORD-100777,2024-09-03,Donna Clark,Corporate,North,New York,Buffalo,Furniture,Bookcases,Walker Edison Bookshelf,1,1234.53,0.0,1234.53,220.34,186.02,Same Day
+ORD-100778,2025-04-09,Barbara Johnson,Corporate,North,Minnesota,Minneapolis,Technology,Computers,Lenovo ThinkPad X1,5,516.21,0.5,1290.53,-264.47,140.62,Same Day
+ORD-100779,2023-09-20,Sarah Anderson,Consumer,East,Maryland,Baltimore,Office Supplies,Art,Prismacolor Premier Set,1,10.8,0.3,7.56,0.05,0.16,Standard Class
+ORD-100780,2025-11-09,Sandra Hernandez,Home Office,East,Maine,Portland,Office Supplies,Binders,Avery Durable Binder,4,13.75,0.0,55.0,14.69,3.95,Standard Class
+ORD-100781,2023-07-27,Jessica Jones,Consumer,North,Pennsylvania,Pittsburgh,Furniture,Bookcases,Walker Edison Bookshelf,1,1144.32,0.5,572.16,-221.48,49.75,Standard Class
+ORD-100782,2025-02-12,Donald Moore,Consumer,West,Oregon,Portland,Technology,Accessories,"Samsung Monitor 27""",2,154.92,0.1,278.86,76.13,20.05,Second Class
+ORD-100783,2023-01-19,Betty Gonzalez,Consumer,West,Hawaii,Honolulu,Furniture,Tables,Uplift V2 Standing Desk,4,447.72,0.1,1611.79,126.99,68.94,Standard Class
+ORD-100784,2023-09-18,Margaret Miller,Home Office,West,California,Los Angeles,Furniture,Tables,Uplift V2 Standing Desk,6,990.72,0.0,5944.32,855.27,286.49,First Class
+ORD-100785,2025-05-06,Patricia Hernandez,Home Office,East,Connecticut,Hartford,Technology,Computers,MacBook Pro 14,2,1982.1,0.0,3964.2,776.75,256.38,Standard Class
+ORD-100786,2024-03-19,David Jones,Home Office,West,Utah,Salt Lake City,Furniture,Chairs,Steelcase Leap V2,3,138.57,0.2,332.57,-13.68,12.92,Standard Class
+ORD-100787,2025-07-03,Richard Brown,Consumer,West,California,San Francisco,Furniture,Tables,Autonomous SmartDesk,6,1270.32,0.0,7621.92,1367.12,848.38,Second Class
+ORD-100788,2023-09-11,Susan Rodriguez,Home Office,East,District of Columbia,Washington,Furniture,Chairs,Herman Miller Aeron,5,83.14,0.0,415.7,32.66,27.26,Standard Class
+ORD-100789,2023-06-23,Thomas Garcia,Consumer,North,New York,New York,Office Supplies,Storage,IRIS Stacking Bin,6,68.89,0.15,351.34,97.74,22.93,Standard Class
+ORD-100790,2024-06-27,Joshua Harris,Consumer,West,Oregon,Portland,Furniture,Bookcases,Bush Furniture Cabot,3,170.29,0.2,408.7,-9.54,10.25,Standard Class
+ORD-100791,2024-03-05,Christopher Smith,Consumer,North,Illinois,Chicago,Technology,Computers,HP Spectre x360,1,213.92,0.0,213.92,50.7,25.61,Second Class
+ORD-100792,2025-09-12,Karen Garcia,Home Office,West,Arizona,Phoenix,Furniture,Tables,IKEA BEKANT Desk,6,999.47,0.5,2998.41,-937.12,347.25,Standard Class
+ORD-100793,2025-10-03,Daniel Ramirez,Consumer,North,Pennsylvania,Pittsburgh,Technology,Copiers,Brother MFC-L8900CDW,2,2208.12,0.0,4416.24,817.74,705.62,First Class
+ORD-100794,2024-11-15,Charles Miller,Corporate,West,Oregon,Portland,Technology,Computers,HP Spectre x360,2,2128.09,0.15,3617.75,707.65,200.27,Standard Class
+ORD-100795,2023-07-24,Richard Brown,Consumer,East,New Hampshire,Manchester,Furniture,Chairs,Herman Miller Aeron,1,125.58,0.5,62.79,-17.59,6.73,Standard Class
+ORD-100796,2023-06-16,Christopher Gonzalez,Corporate,East,Maryland,Baltimore,Office Supplies,Binders,Avery Durable Binder,1,7.36,0.15,6.26,1.59,0.17,Standard Class
+ORD-100797,2024-01-20,Jennifer Thomas,Consumer,East,District of Columbia,Washington,Furniture,Tables,FlexiSpot E7,4,577.58,0.1,2079.29,232.58,47.34,Standard Class
+ORD-100798,2024-05-28,James Gonzalez,Home Office,West,Nevada,Las Vegas,Furniture,Tables,FlexiSpot E7,2,921.29,0.1,1658.32,127.47,261.85,Same Day
+ORD-100799,2025-01-01,Paul Williams,Corporate,West,Hawaii,Honolulu,Furniture,Bookcases,Sauder Select Bookcase,2,392.2,0.0,784.4,118.99,91.86,Second Class
+ORD-100800,2024-12-16,Lisa Jones,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Samsill View Binder,3,60.04,0.15,153.1,28.07,13.51,Standard Class
+ORD-100801,2023-10-16,Mark Davis,Corporate,North,New York,New York,Technology,Computers,HP Spectre x360,6,858.78,0.0,5152.68,1442.33,108.61,Standard Class
+ORD-100802,2023-02-27,Robert Harris,Corporate,East,West Virginia,Charleston,Office Supplies,Art,Crayola Colored Pencils,6,17.9,0.0,107.4,31.66,6.79,Standard Class
+ORD-100803,2024-04-17,Jennifer Thomas,Consumer,West,Washington,Seattle,Office Supplies,Binders,Avery Durable Binder,3,6.34,0.0,19.02,5.62,1.52,Same Day
+ORD-100804,2024-11-11,Jessica Jones,Corporate,North,Michigan,Detroit,Office Supplies,Storage,Sterilite Drawer Unit,4,19.84,0.1,71.42,15.67,8.15,Standard Class
+ORD-100805,2025-04-03,Daniel Jones,Home Office,North,Wisconsin,Milwaukee,Technology,Accessories,"Samsung Monitor 27""",1,111.23,0.0,111.23,18.29,8.37,Standard Class
+ORD-100806,2025-08-10,Anthony Anderson,Corporate,South,Texas,Dallas,Office Supplies,Binders,Avery Durable Binder,1,57.28,0.1,51.55,12.89,2.89,Standard Class
+ORD-100807,2024-10-22,Ashley Lee,Consumer,East,Maryland,Baltimore,Office Supplies,Binders,Samsill View Binder,1,39.03,0.15,33.18,9.21,1.51,Standard Class
+ORD-100808,2025-07-25,Linda Jones,Consumer,East,Connecticut,Hartford,Technology,Accessories,Anker USB-C Hub,4,45.78,0.15,155.65,21.61,18.23,Standard Class
+ORD-100809,2024-10-18,Margaret Miller,Corporate,West,California,Los Angeles,Technology,Accessories,Logitech MX Master 3,4,220.78,0.0,883.12,191.66,35.18,Standard Class
+ORD-100810,2024-06-26,Ashley Garcia,Home Office,North,Pennsylvania,Pittsburgh,Technology,Computers,Dell XPS 15,2,1251.02,0.5,1251.02,-350.63,72.1,Standard Class
+ORD-100811,2024-01-17,Matthew Hernandez,Corporate,East,West Virginia,Charleston,Technology,Copiers,Xerox VersaLink,7,2251.63,0.0,15761.41,2845.85,903.07,Standard Class
+ORD-100812,2023-08-15,Sarah Rodriguez,Home Office,South,Texas,Austin,Technology,Accessories,"Samsung Monitor 27""",1,61.93,0.15,52.64,13.3,2.14,Standard Class
+ORD-100813,2025-02-23,Daniel Jones,Consumer,South,Tennessee,Nashville,Technology,Accessories,"Samsung Monitor 27""",4,130.23,0.15,442.78,61.46,28.8,Standard Class
+ORD-100814,2025-06-22,James Perez,Consumer,East,New Jersey,Newark,Technology,Accessories,Apple AirPods Pro,1,17.93,0.1,16.14,3.12,0.83,Standard Class
+ORD-100815,2024-11-24,Linda Jones,Home Office,South,North Carolina,Charlotte,Technology,Computers,HP Spectre x360,1,825.17,0.1,742.65,142.41,38.73,Same Day
+ORD-100816,2023-07-13,Ashley Lee,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Art,Expo Dry Erase Kit,1,69.01,0.1,62.11,19.38,3.15,First Class
+ORD-100817,2023-06-02,Sarah Anderson,Home Office,North,Michigan,Detroit,Furniture,Furnishings,Flash Furniture Rug,2,791.41,0.15,1345.4,142.0,236.88,First Class
+ORD-100818,2023-02-02,Susan Lewis,Home Office,West,Washington,Seattle,Technology,Phones,Google Pixel 8,4,2200.38,0.0,8801.52,2041.05,661.05,Standard Class
+ORD-100819,2024-11-12,Steven Lee,Consumer,North,Minnesota,Minneapolis,Office Supplies,Binders,Avery Durable Binder,2,3.87,0.0,7.74,1.45,0.37,Standard Class
+ORD-100820,2024-04-02,James Davis,Consumer,South,Texas,Houston,Furniture,Furnishings,Safco Coat Rack,2,786.05,0.0,1572.1,121.88,143.28,Standard Class
+ORD-100821,2025-07-05,Ashley Williams,Consumer,North,New York,New York,Office Supplies,Art,Expo Dry Erase Kit,9,35.02,0.1,283.66,59.73,13.96,Standard Class
+ORD-100822,2025-07-20,Barbara Ramirez,Home Office,East,Delaware,Wilmington,Technology,Copiers,Xerox VersaLink,2,1361.89,0.2,2179.02,281.8,243.41,Standard Class
+ORD-100823,2025-11-22,Jessica Jackson,Consumer,West,Oregon,Portland,Technology,Computers,Dell XPS 15,1,2131.65,0.0,2131.65,422.55,163.37,Standard Class
+ORD-100824,2025-11-09,Joseph Wilson,Consumer,North,Pennsylvania,Pittsburgh,Office Supplies,Storage,Fellowes Storage Box,1,66.29,0.3,46.4,-2.55,1.78,First Class
+ORD-100825,2024-05-08,David Lewis,Corporate,West,California,Los Angeles,Technology,Accessories,"Samsung Monitor 27""",2,278.22,0.0,556.44,99.84,20.97,Standard Class
+ORD-100826,2023-03-22,Christopher Miller,Home Office,South,Florida,Tampa,Office Supplies,Storage,Fellowes Storage Box,1,53.06,0.1,47.75,12.47,4.7,Standard Class
+ORD-100827,2023-08-25,William Sanchez,Consumer,West,Hawaii,Honolulu,Furniture,Tables,Uplift V2 Standing Desk,6,1352.38,0.0,8114.28,1137.78,460.23,Standard Class
+ORD-100828,2023-10-25,Steven Martinez,Consumer,East,Vermont,Burlington,Technology,Copiers,Xerox VersaLink,5,2043.81,0.0,10219.05,2406.94,210.25,Standard Class
+ORD-100829,2024-05-03,Sarah Anderson,Consumer,South,Georgia,Atlanta,Furniture,Tables,Uplift V2 Standing Desk,2,420.12,0.15,714.2,31.33,176.55,Same Day
+ORD-100830,2025-03-22,Margaret Lee,Corporate,East,District of Columbia,Washington,Technology,Accessories,Logitech MX Master 3,3,100.33,0.15,255.84,67.29,22.89,Standard Class
+ORD-100831,2025-12-06,Betty Harris,Corporate,West,Hawaii,Honolulu,Furniture,Tables,Autonomous SmartDesk,2,353.16,0.1,635.69,39.25,73.25,Standard Class
+ORD-100832,2025-08-16,Karen Lopez,Corporate,North,Illinois,Chicago,Technology,Computers,HP Spectre x360,1,853.91,0.0,853.91,205.07,79.04,Second Class
+ORD-100833,2024-09-28,Thomas Perez,Consumer,North,Massachusetts,Boston,Technology,Computers,HP Spectre x360,2,253.77,0.3,355.28,-14.8,8.39,Standard Class
+ORD-100834,2023-09-04,Barbara Garcia,Consumer,South,Texas,Austin,Furniture,Tables,IKEA BEKANT Desk,2,135.48,0.1,243.86,35.86,14.4,Standard Class
+ORD-100835,2024-09-10,Nancy Williams,Consumer,South,Tennessee,Nashville,Office Supplies,Art,Expo Dry Erase Kit,1,40.35,0.3,28.24,-1.15,2.31,Second Class
+ORD-100836,2024-06-24,Nancy Williams,Consumer,West,Utah,Salt Lake City,Technology,Accessories,Apple AirPods Pro,1,206.45,0.1,185.81,36.74,13.11,Standard Class
+ORD-100837,2025-05-10,Jennifer Thompson,Corporate,East,Delaware,Wilmington,Furniture,Furnishings,AmazonBasics Lamp,1,477.24,0.0,477.24,62.46,12.65,Standard Class
+ORD-100838,2024-10-19,Daniel Jones,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Binders,Avery Durable Binder,4,57.2,0.15,194.48,45.18,14.78,Standard Class
+ORD-100839,2024-12-24,Christopher Wilson,Home Office,North,Pennsylvania,Philadelphia,Furniture,Furnishings,Rubbermaid Shelving,5,620.76,0.15,2638.23,471.69,171.13,Standard Class
+ORD-100840,2023-09-09,Kimberly White,Corporate,West,Washington,Seattle,Office Supplies,Storage,Sterilite Drawer Unit,2,37.08,0.0,74.16,18.53,11.47,Same Day
+ORD-100841,2024-10-04,Margaret Lee,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Binders,Wilson Jones Binder,2,11.24,0.1,20.23,6.29,2.42,Standard Class
+ORD-100842,2023-06-25,Linda White,Consumer,West,Utah,Salt Lake City,Office Supplies,Storage,Sterilite Drawer Unit,3,43.6,0.0,130.8,37.42,12.45,Standard Class
+ORD-100843,2023-06-23,Donald Moore,Consumer,North,Massachusetts,Boston,Technology,Computers,MacBook Pro 14,1,1780.58,0.15,1513.49,334.61,177.1,Second Class
+ORD-100844,2025-09-04,Christopher Ramirez,Consumer,South,Florida,Miami,Technology,Computers,HP Spectre x360,3,1695.41,0.1,4577.61,1091.33,119.35,Standard Class
+ORD-100845,2024-10-01,Michael Brown,Home Office,West,Hawaii,Honolulu,Office Supplies,Storage,Fellowes Storage Box,3,4.22,0.15,10.76,2.53,0.78,Standard Class
+ORD-100846,2023-05-15,Christopher Ramirez,Consumer,North,Massachusetts,Boston,Technology,Computers,Lenovo ThinkPad X1,5,1886.67,0.1,8490.02,1845.78,1279.62,First Class
+ORD-100847,2025-10-03,James Taylor,Corporate,East,New Hampshire,Manchester,Furniture,Chairs,Herman Miller Aeron,1,1286.52,0.1,1157.87,201.37,79.78,Second Class
+ORD-100848,2025-03-06,Anthony Brown,Consumer,West,Utah,Salt Lake City,Furniture,Tables,IKEA BEKANT Desk,5,594.14,0.15,2525.09,313.71,630.08,Same Day
+ORD-100849,2024-02-06,Joseph Lee,Consumer,North,Pennsylvania,Philadelphia,Technology,Copiers,Brother MFC-L8900CDW,3,2390.8,0.1,6455.16,1766.52,285.1,Standard Class
+ORD-100850,2024-10-15,Ashley Williams,Home Office,West,California,San Francisco,Office Supplies,Paper,Staples Multipurpose,4,51.36,0.3,143.81,-15.71,12.43,Standard Class
+ORD-100851,2023-05-22,Margaret Miller,Consumer,West,Oregon,Portland,Office Supplies,Storage,Bankers Box,2,22.61,0.0,45.22,10.9,12.35,Same Day
+ORD-100852,2023-06-01,Thomas Williams,Home Office,East,New Jersey,Newark,Furniture,Furnishings,Rubbermaid Shelving,3,1079.62,0.15,2753.03,449.68,326.42,Standard Class
+ORD-100853,2024-06-23,Christopher Ramirez,Consumer,West,Hawaii,Honolulu,Technology,Computers,MacBook Pro 14,3,1475.45,0.1,3983.72,994.04,605.65,Same Day
+ORD-100854,2024-03-15,Thomas Brown,Corporate,South,Florida,Orlando,Furniture,Tables,Autonomous SmartDesk,2,1032.11,0.15,1754.59,115.88,246.47,First Class
+ORD-100855,2024-10-12,Jennifer Lewis,Home Office,West,Oregon,Portland,Office Supplies,Paper,Georgia-Pacific Paper,2,56.25,0.2,90.0,10.52,2.93,Standard Class
+ORD-100856,2025-03-10,William White,Home Office,South,Texas,Dallas,Office Supplies,Art,Sharpie Markers Set,2,64.39,0.15,109.46,33.73,13.09,First Class
+ORD-100857,2023-06-11,Anthony Clark,Corporate,East,District of Columbia,Washington,Furniture,Chairs,HON Ignition 2.0,1,1371.32,0.0,1371.32,151.35,69.37,Standard Class
+ORD-100858,2024-05-03,Susan Jones,Corporate,West,Hawaii,Honolulu,Technology,Copiers,Canon imageRUNNER,5,481.55,0.0,2407.75,580.62,183.39,Standard Class
+ORD-100859,2025-05-08,Paul Williams,Corporate,North,New York,Buffalo,Furniture,Furnishings,Flash Furniture Rug,1,1148.88,0.1,1033.99,89.32,42.27,Standard Class
+ORD-100860,2023-04-16,Susan Lewis,Consumer,East,Connecticut,Hartford,Technology,Phones,Google Pixel 8,5,2027.9,0.1,9125.55,1793.59,430.04,Standard Class
+ORD-100861,2025-11-10,Michael Sanchez,Consumer,West,Hawaii,Honolulu,Technology,Phones,OnePlus 12,5,970.09,0.0,4850.45,1132.22,421.96,Standard Class
+ORD-100862,2024-07-18,Nancy Robinson,Consumer,East,Vermont,Burlington,Office Supplies,Paper,Hammermill Copy Paper,1,26.96,0.15,22.92,6.52,1.32,Standard Class
+ORD-100863,2024-07-06,Karen Martin,Corporate,North,Pennsylvania,Philadelphia,Office Supplies,Art,Expo Dry Erase Kit,8,46.35,0.4,222.48,-22.51,26.17,Standard Class
+ORD-100864,2024-11-17,Patricia Wilson,Consumer,West,California,San Francisco,Office Supplies,Paper,HP Printer Paper,1,22.4,0.3,15.68,-0.69,3.08,First Class
+ORD-100865,2025-12-18,Michael Brown,Corporate,East,Delaware,Wilmington,Furniture,Bookcases,Bush Furniture Cabot,2,305.48,0.3,427.67,-58.49,13.91,Second Class
+ORD-100866,2025-06-12,Donna Jackson,Consumer,North,Massachusetts,Boston,Technology,Accessories,Apple AirPods Pro,2,294.23,0.0,588.46,80.87,29.91,Standard Class
+ORD-100867,2025-10-17,Mark Martin,Consumer,North,Minnesota,Minneapolis,Office Supplies,Binders,Samsill View Binder,3,12.93,0.5,19.39,-2.58,2.27,Second Class
+ORD-100868,2023-04-02,Donald Perez,Consumer,South,Tennessee,Nashville,Technology,Phones,Samsung Galaxy S24,2,1758.26,0.3,2461.56,-239.18,261.46,Standard Class
+ORD-100869,2024-12-09,Thomas Wilson,Corporate,North,Ohio,Columbus,Office Supplies,Paper,Hammermill Copy Paper,3,28.19,0.3,59.2,-5.94,11.27,Same Day
+ORD-100870,2023-11-10,Barbara Taylor,Consumer,East,Vermont,Burlington,Furniture,Tables,FlexiSpot E7,3,1393.22,0.0,4179.66,632.16,193.92,Second Class
+ORD-100871,2024-08-09,Mark Wilson,Corporate,West,California,San Diego,Furniture,Bookcases,Walker Edison Bookshelf,1,1196.38,0.0,1196.38,61.71,49.8,Standard Class
+ORD-100872,2025-05-03,Joseph Moore,Home Office,South,North Carolina,Charlotte,Technology,Copiers,Xerox VersaLink,3,1991.2,0.4,3584.16,-784.74,277.6,Standard Class
+ORD-100873,2024-06-17,Matthew Garcia,Consumer,South,Tennessee,Nashville,Furniture,Chairs,HON Ignition 2.0,4,1258.26,0.0,5033.04,381.37,418.47,Second Class
+ORD-100874,2023-03-26,Thomas Miller,Consumer,North,Michigan,Detroit,Technology,Accessories,Anker USB-C Hub,3,234.95,0.15,599.12,88.69,22.16,Standard Class
+ORD-100875,2024-11-02,Michelle Harris,Corporate,North,Pennsylvania,Pittsburgh,Office Supplies,Paper,Hammermill Copy Paper,6,60.71,0.3,254.98,-14.87,22.65,Standard Class
+ORD-100876,2025-11-18,Joshua Ramirez,Home Office,West,Arizona,Phoenix,Office Supplies,Binders,Cardinal Economy Binder,5,31.88,0.4,95.64,-4.99,10.09,Second Class
+ORD-100877,2024-10-23,Robert Robinson,Home Office,North,Illinois,Chicago,Technology,Phones,Samsung Galaxy S24,2,249.75,0.0,499.5,128.58,23.16,Standard Class
+ORD-100878,2023-04-09,Mark Davis,Consumer,North,New York,New York,Office Supplies,Art,Crayola Colored Pencils,6,64.06,0.15,326.71,104.28,20.1,Standard Class
+ORD-100879,2025-02-09,James Taylor,Home Office,South,North Carolina,Charlotte,Furniture,Chairs,Steelcase Leap V2,1,1022.24,0.0,1022.24,96.0,111.43,Standard Class
+ORD-100880,2025-11-25,Betty Gonzalez,Home Office,South,Georgia,Atlanta,Office Supplies,Paper,Georgia-Pacific Paper,1,32.23,0.0,32.23,6.02,3.86,Second Class
+ORD-100881,2024-05-07,Nancy Clark,Consumer,North,Pennsylvania,Philadelphia,Technology,Accessories,Apple AirPods Pro,2,144.06,0.0,288.12,60.76,27.27,Standard Class
+ORD-100882,2025-12-23,Kimberly White,Consumer,North,Ohio,Columbus,Technology,Copiers,Brother MFC-L8900CDW,2,2288.28,0.1,4118.9,661.44,124.37,Standard Class
+ORD-100883,2023-05-18,Barbara Taylor,Consumer,East,Maine,Portland,Technology,Phones,Google Pixel 8,1,530.51,0.0,530.51,78.68,64.22,First Class
+ORD-100884,2025-12-10,Sandra Perez,Corporate,West,California,Los Angeles,Office Supplies,Art,Crayola Colored Pencils,1,64.39,0.2,51.51,6.0,4.33,Standard Class
+ORD-100885,2023-06-20,Matthew Taylor,Home Office,East,Vermont,Burlington,Office Supplies,Storage,Bankers Box,3,61.31,0.4,110.36,-9.86,10.69,Standard Class
+ORD-100886,2023-03-08,David Robinson,Corporate,North,New York,Buffalo,Technology,Copiers,Brother MFC-L8900CDW,2,1330.99,0.15,2262.68,465.68,59.25,Standard Class
+ORD-100887,2024-09-14,Anthony Clark,Consumer,South,Texas,Austin,Furniture,Furnishings,Safco Coat Rack,2,859.56,0.4,1031.47,-236.19,27.16,Standard Class
+ORD-100888,2023-08-04,Andrew Ramirez,Consumer,East,District of Columbia,Washington,Technology,Accessories,Anker USB-C Hub,1,208.11,0.1,187.3,42.16,10.41,Standard Class
+ORD-100889,2023-11-18,Ashley Garcia,Consumer,North,Ohio,Columbus,Office Supplies,Binders,Wilson Jones Binder,9,74.33,0.2,535.18,96.74,41.26,Second Class
+ORD-100890,2025-09-19,Thomas Miller,Corporate,East,Maryland,Baltimore,Furniture,Furnishings,Flash Furniture Rug,2,572.96,0.3,802.14,-97.22,52.49,Standard Class
+ORD-100891,2024-01-27,Daniel Ramirez,Consumer,North,New York,New York,Technology,Phones,OnePlus 12,3,1126.61,0.0,3379.83,631.56,401.89,Standard Class
+ORD-100892,2023-12-15,Jessica Gonzalez,Corporate,South,Tennessee,Nashville,Office Supplies,Paper,Hammermill Copy Paper,3,5.61,0.0,16.83,4.22,2.05,First Class
+ORD-100893,2023-03-12,Margaret Miller,Consumer,North,Ohio,Columbus,Technology,Phones,OnePlus 12,8,685.64,0.0,5485.12,1016.87,229.55,Standard Class
+ORD-100894,2024-03-01,Elizabeth Martin,Consumer,West,California,San Francisco,Furniture,Chairs,Steelcase Leap V2,3,1374.42,0.0,4123.26,668.96,359.95,Standard Class
+ORD-100895,2023-07-01,Steven Martinez,Corporate,West,Hawaii,Honolulu,Office Supplies,Paper,Hammermill Copy Paper,9,24.38,0.5,109.71,-20.21,9.15,Standard Class
+ORD-100896,2024-12-07,Kimberly Perez,Consumer,South,Florida,Miami,Furniture,Bookcases,Bush Furniture Cabot,4,1126.22,0.0,4504.88,703.28,385.8,Standard Class
+ORD-100897,2023-10-15,David Robinson,Consumer,West,Oregon,Portland,Office Supplies,Art,Crayola Colored Pencils,8,14.4,0.0,115.2,20.98,7.16,Second Class
+ORD-100898,2024-08-28,Karen Perez,Corporate,South,Georgia,Atlanta,Furniture,Chairs,Secretlab Titan,2,196.18,0.3,274.65,-55.68,25.34,Standard Class
+ORD-100899,2023-07-12,Christopher Ramirez,Consumer,North,Illinois,Chicago,Technology,Computers,HP Spectre x360,2,1378.68,0.0,2757.36,732.74,321.85,Second Class
+ORD-100900,2025-07-28,Karen Brown,Corporate,North,Illinois,Chicago,Technology,Phones,Apple iPhone 15,1,411.4,0.3,287.98,-28.24,23.81,Standard Class
+ORD-100901,2024-05-17,Ashley Sanchez,Consumer,South,Texas,Houston,Furniture,Bookcases,Sauder Select Bookcase,3,1064.17,0.15,2713.63,149.78,122.11,Second Class
+ORD-100902,2025-08-15,Daniel Perez,Home Office,West,California,San Diego,Technology,Accessories,"Samsung Monitor 27""",2,275.45,0.15,468.26,92.49,57.05,Same Day
+ORD-100903,2024-04-23,Richard Brown,Corporate,South,Texas,Austin,Technology,Computers,MacBook Pro 14,5,711.04,0.0,3555.2,470.13,458.75,Same Day
+ORD-100904,2025-07-04,Richard Brown,Corporate,East,Rhode Island,Providence,Office Supplies,Storage,IRIS Stacking Bin,1,69.37,0.1,62.43,16.79,5.29,First Class
+ORD-100905,2025-06-17,Donna Jackson,Consumer,East,Maryland,Baltimore,Furniture,Bookcases,Sauder Select Bookcase,6,84.45,0.4,304.02,-94.66,22.72,Second Class
+ORD-100906,2023-05-04,Michelle Garcia,Corporate,West,Oregon,Portland,Furniture,Furnishings,Flash Furniture Rug,5,331.67,0.15,1409.6,199.79,271.82,First Class
+ORD-100907,2025-06-13,Ashley Sanchez,Corporate,South,Florida,Miami,Office Supplies,Paper,HP Printer Paper,3,71.23,0.15,181.64,32.99,10.58,Standard Class
+ORD-100908,2023-06-10,Lisa Jones,Corporate,South,Texas,Houston,Furniture,Chairs,Herman Miller Aeron,2,648.26,0.2,1037.22,21.49,81.65,Same Day
+ORD-100909,2024-06-26,Barbara Johnson,Home Office,East,District of Columbia,Washington,Office Supplies,Art,Prismacolor Premier Set,8,59.37,0.2,379.97,70.48,42.15,Standard Class
+ORD-100910,2024-06-01,Donald Perez,Consumer,East,Maryland,Baltimore,Technology,Phones,Samsung Galaxy S24,1,2356.19,0.4,1413.71,-234.58,123.48,Standard Class
+ORD-100911,2025-11-24,Barbara Garcia,Consumer,South,Texas,Austin,Office Supplies,Art,Sharpie Markers Set,4,52.28,0.0,209.12,46.4,21.21,Standard Class
+ORD-100912,2023-03-19,Andrew Hernandez,Corporate,North,Ohio,Columbus,Technology,Phones,Google Pixel 8,4,932.06,0.0,3728.24,947.02,678.96,First Class
+ORD-100913,2025-01-06,Joseph Martin,Corporate,West,Nevada,Las Vegas,Furniture,Bookcases,IKEA KALLAX,3,1356.97,0.1,3663.82,533.13,167.92,Standard Class
+ORD-100914,2023-07-06,Karen Williams,Corporate,South,Tennessee,Nashville,Technology,Computers,MacBook Pro 14,7,727.25,0.0,5090.75,1381.06,622.79,Second Class
+ORD-100915,2024-11-02,Joseph Wilson,Corporate,South,Florida,Miami,Furniture,Bookcases,Sauder Select Bookcase,5,1448.31,0.0,7241.55,590.15,552.17,Standard Class
+ORD-100916,2023-11-12,Thomas Williams,Consumer,East,New Jersey,Newark,Technology,Computers,MacBook Pro 14,1,1481.88,0.2,1185.5,132.55,147.1,Same Day
+ORD-100917,2024-08-22,Sandra Perez,Corporate,West,Colorado,Denver,Furniture,Bookcases,Bush Furniture Cabot,8,1197.68,0.2,7665.15,-328.87,1196.9,Same Day
+ORD-100918,2023-06-27,Joseph Wilson,Consumer,South,North Carolina,Charlotte,Furniture,Chairs,Herman Miller Aeron,5,1351.75,0.15,5744.94,245.95,572.75,Standard Class
+ORD-100919,2024-02-04,Elizabeth Martinez,Home Office,West,Nevada,Las Vegas,Office Supplies,Storage,Bankers Box,1,50.81,0.0,50.81,10.19,4.27,Standard Class
+ORD-100920,2025-11-23,Betty Gonzalez,Consumer,East,New Jersey,Newark,Technology,Accessories,Logitech MX Master 3,2,178.01,0.0,356.02,87.17,39.07,Standard Class
+ORD-100921,2024-06-08,Susan Jones,Consumer,West,Nevada,Las Vegas,Technology,Phones,OnePlus 12,1,1513.07,0.15,1286.11,262.96,125.98,Second Class
+ORD-100922,2023-08-27,Linda Smith,Consumer,South,Texas,Dallas,Technology,Phones,OnePlus 12,6,447.33,0.1,2415.58,543.22,421.08,Same Day
+ORD-100923,2024-07-20,Betty Gonzalez,Corporate,West,Washington,Seattle,Technology,Copiers,Canon imageRUNNER,1,1109.71,0.1,998.74,143.41,114.6,Second Class
+ORD-100924,2023-08-11,Christopher Smith,Consumer,East,Maryland,Baltimore,Furniture,Furnishings,Safco Coat Rack,2,1138.22,0.0,2276.44,190.82,293.83,First Class
+ORD-100925,2023-01-20,Thomas Miller,Corporate,East,Maryland,Baltimore,Office Supplies,Paper,Staples Multipurpose,5,45.28,0.4,135.84,-12.98,4.44,Standard Class
+ORD-100926,2025-01-28,Emily Smith,Consumer,West,Hawaii,Honolulu,Furniture,Bookcases,IKEA KALLAX,1,450.56,0.2,360.45,-13.94,68.69,First Class
+ORD-100927,2025-09-12,Sarah Rodriguez,Consumer,North,Minnesota,Minneapolis,Technology,Accessories,"Samsung Monitor 27""",4,249.96,0.3,699.89,-63.69,51.1,Same Day
+ORD-100928,2025-01-20,Patricia Lewis,Consumer,West,Oregon,Portland,Office Supplies,Storage,Sterilite Drawer Unit,4,30.96,0.0,123.84,36.16,3.11,Standard Class
+ORD-100929,2024-09-26,Michael Ramirez,Home Office,East,Vermont,Burlington,Technology,Accessories,"Samsung Monitor 27""",3,157.39,0.1,424.95,117.38,16.13,Second Class
+ORD-100930,2025-06-21,Barbara Ramirez,Consumer,East,Vermont,Burlington,Furniture,Chairs,Steelcase Leap V2,5,493.03,0.1,2218.63,114.28,78.26,Second Class
+ORD-100931,2024-06-01,Thomas Brown,Consumer,North,New York,New York,Technology,Copiers,Xerox VersaLink,4,2271.91,0.0,9087.64,2433.54,808.38,Standard Class
+ORD-100932,2025-03-15,Mark Robinson,Consumer,North,New York,Buffalo,Furniture,Bookcases,Walker Edison Bookshelf,3,360.4,0.0,1081.2,34.41,98.07,Standard Class
+ORD-100933,2023-08-12,Joseph Moore,Home Office,East,Delaware,Wilmington,Office Supplies,Paper,HP Printer Paper,1,11.52,0.5,5.76,-0.98,0.33,Standard Class
+ORD-100934,2025-07-26,Richard Brown,Consumer,North,Michigan,Detroit,Office Supplies,Storage,Fellowes Storage Box,1,15.85,0.1,14.27,3.84,1.02,Standard Class
+ORD-100935,2025-03-13,Anthony Brown,Home Office,South,North Carolina,Charlotte,Furniture,Tables,FlexiSpot E7,3,1379.53,0.1,3724.73,303.55,417.54,Standard Class
+ORD-100936,2023-06-24,Richard Harris,Corporate,South,Florida,Orlando,Furniture,Furnishings,AmazonBasics Lamp,3,644.25,0.0,1932.75,148.92,174.98,Second Class
+ORD-100937,2023-06-04,Paul Davis,Corporate,West,Hawaii,Honolulu,Office Supplies,Art,Sharpie Markers Set,2,36.61,0.0,73.22,14.46,4.52,Standard Class
+ORD-100938,2023-03-22,Emily Lee,Corporate,North,Wisconsin,Milwaukee,Office Supplies,Art,Crayola Colored Pencils,4,27.46,0.3,76.89,-0.44,10.04,First Class
+ORD-100939,2023-08-08,Robert Harris,Corporate,East,Connecticut,Hartford,Furniture,Tables,FlexiSpot E7,4,769.87,0.0,3079.48,483.87,97.52,Standard Class
+ORD-100940,2024-05-16,Joseph Wilson,Consumer,East,District of Columbia,Washington,Office Supplies,Paper,Georgia-Pacific Paper,3,15.2,0.0,45.6,8.94,2.87,Standard Class
+ORD-100941,2023-12-24,Paul Miller,Corporate,South,Florida,Miami,Furniture,Furnishings,AmazonBasics Lamp,6,812.69,0.2,3900.91,-189.02,228.05,Same Day
+ORD-100942,2023-11-22,Michelle Thomas,Consumer,West,Oregon,Portland,Office Supplies,Paper,HP Printer Paper,1,32.98,0.1,29.68,6.27,3.13,Standard Class
+ORD-100943,2025-11-17,Charles Miller,Consumer,West,California,San Francisco,Technology,Computers,Dell XPS 15,1,2443.68,0.0,2443.68,493.35,68.36,Standard Class
+ORD-100944,2024-12-01,Anthony Anderson,Home Office,South,Georgia,Atlanta,Office Supplies,Storage,Fellowes Storage Box,2,76.61,0.0,153.22,41.31,19.64,Second Class
+ORD-100945,2024-04-17,Betty Gonzalez,Consumer,South,Florida,Orlando,Office Supplies,Storage,Sterilite Drawer Unit,1,33.45,0.2,26.76,4.92,1.16,Standard Class
+ORD-100946,2025-11-26,Sarah Rodriguez,Corporate,North,Wisconsin,Milwaukee,Furniture,Furnishings,Flash Furniture Rug,1,733.73,0.15,623.67,23.73,59.83,Standard Class
+ORD-100947,2023-04-19,Robert Robinson,Consumer,North,Ohio,Columbus,Technology,Copiers,Brother MFC-L8900CDW,8,1260.19,0.3,7057.06,-1072.3,504.19,Second Class
+ORD-100948,2025-07-02,Thomas Garcia,Corporate,East,New Hampshire,Manchester,Technology,Accessories,Apple AirPods Pro,1,104.96,0.5,52.48,-13.51,8.14,Second Class
+ORD-100949,2025-10-19,Jennifer Thompson,Consumer,East,Maine,Portland,Office Supplies,Paper,Hammermill Copy Paper,1,42.07,0.3,29.45,-2.97,1.3,Standard Class
+ORD-100950,2023-02-06,Michael Ramirez,Corporate,West,California,San Francisco,Furniture,Tables,Autonomous SmartDesk,2,970.96,0.0,1941.92,227.24,159.09,Standard Class
+ORD-100951,2023-12-02,David Robinson,Consumer,North,Wisconsin,Milwaukee,Furniture,Chairs,HON Ignition 2.0,2,240.34,0.0,480.68,63.52,58.47,Second Class
+ORD-100952,2024-02-06,Richard Lewis,Consumer,West,California,Los Angeles,Furniture,Tables,IKEA BEKANT Desk,4,541.66,0.0,2166.64,247.97,281.21,First Class
+ORD-100953,2024-05-08,Mark Robinson,Consumer,West,Oregon,Portland,Technology,Accessories,Anker USB-C Hub,2,280.18,0.0,560.36,81.85,33.46,Standard Class
+ORD-100954,2024-02-01,Karen Brown,Home Office,North,New York,New York,Office Supplies,Art,Expo Dry Erase Kit,1,54.87,0.0,54.87,14.22,3.37,Standard Class
+ORD-100955,2025-06-20,Patricia Lewis,Consumer,South,Texas,Dallas,Furniture,Chairs,Secretlab Titan,4,255.33,0.3,714.92,-139.61,14.8,Standard Class
+ORD-100956,2023-10-05,Emily Lee,Home Office,South,Texas,Austin,Technology,Copiers,HP LaserJet Pro,9,777.28,0.0,6995.52,1340.43,667.1,Standard Class
+ORD-100957,2023-04-19,Linda Smith,Home Office,North,Pennsylvania,Pittsburgh,Furniture,Chairs,Steelcase Leap V2,2,1429.34,0.0,2858.68,198.54,280.64,Standard Class
+ORD-100958,2023-12-12,Christopher Anderson,Consumer,West,Washington,Seattle,Furniture,Chairs,Steelcase Leap V2,3,1330.63,0.4,2395.13,-778.82,131.97,Same Day
+ORD-100959,2024-12-03,Christopher Gonzalez,Consumer,North,Ohio,Columbus,Technology,Accessories,Logitech MX Master 3,2,61.6,0.5,61.6,-16.15,5.18,Standard Class
+ORD-100960,2025-11-21,Joseph Moore,Consumer,South,Florida,Tampa,Furniture,Bookcases,Walker Edison Bookshelf,3,857.86,0.0,2573.58,128.08,136.63,Standard Class
+ORD-100961,2025-02-21,Sandra Taylor,Consumer,South,Georgia,Atlanta,Technology,Accessories,Anker USB-C Hub,1,179.36,0.1,161.42,21.0,11.95,Second Class
+ORD-100962,2025-11-02,Matthew Hernandez,Corporate,West,Hawaii,Honolulu,Technology,Copiers,Xerox VersaLink,1,2434.42,0.0,2434.42,567.34,156.29,Standard Class
+ORD-100963,2023-02-19,Barbara Lopez,Home Office,North,New York,New York,Office Supplies,Storage,Fellowes Storage Box,5,37.07,0.0,185.35,31.99,6.66,Standard Class
+ORD-100964,2023-09-10,Sandra Hernandez,Consumer,South,Florida,Miami,Office Supplies,Binders,Cardinal Economy Binder,5,10.39,0.2,41.56,5.02,11.07,Same Day
+ORD-100965,2024-08-04,Matthew Garcia,Consumer,East,New Hampshire,Manchester,Furniture,Tables,FlexiSpot E7,4,139.84,0.4,335.62,-108.01,39.58,Standard Class
+ORD-100966,2024-07-26,Michelle Jackson,Corporate,West,California,San Diego,Technology,Phones,OnePlus 12,2,2368.35,0.3,3315.69,-502.2,377.74,Standard Class
+ORD-100967,2024-07-03,Paul Williams,Consumer,North,Pennsylvania,Philadelphia,Technology,Computers,Lenovo ThinkPad X1,2,489.11,0.1,880.4,153.79,56.21,First Class
+ORD-100968,2023-03-20,Mark Robinson,Consumer,West,California,Los Angeles,Technology,Phones,OnePlus 12,2,684.44,0.1,1231.99,223.62,130.97,First Class
+ORD-100969,2024-11-26,Lisa Harris,Consumer,North,New York,New York,Office Supplies,Binders,Samsill View Binder,3,5.86,0.15,14.94,3.13,1.7,Standard Class
+ORD-100970,2024-10-15,Nancy Williams,Consumer,East,Connecticut,Hartford,Office Supplies,Art,Sharpie Markers Set,3,28.44,0.0,85.32,23.47,13.36,First Class
+ORD-100971,2025-12-28,James Gonzalez,Corporate,West,Utah,Salt Lake City,Office Supplies,Paper,Georgia-Pacific Paper,5,16.08,0.2,64.32,12.17,5.44,Standard Class
+ORD-100972,2024-01-28,James Gonzalez,Consumer,North,Michigan,Detroit,Office Supplies,Art,Prismacolor Premier Set,5,13.28,0.0,66.4,11.4,4.33,Standard Class
+ORD-100973,2025-07-15,Jennifer Lewis,Consumer,South,Florida,Miami,Furniture,Bookcases,Walker Edison Bookshelf,4,898.54,0.15,3055.04,279.65,122.99,Standard Class
+ORD-100974,2023-06-28,Richard Lewis,Corporate,East,Delaware,Wilmington,Office Supplies,Art,Prismacolor Premier Set,4,41.29,0.0,165.16,32.37,25.72,Same Day
+ORD-100975,2025-11-05,Christopher Ramirez,Home Office,West,California,San Diego,Office Supplies,Paper,Hammermill Copy Paper,3,72.09,0.3,151.39,-14.31,6.47,Standard Class
+ORD-100976,2024-01-12,Patricia Lewis,Home Office,West,Nevada,Las Vegas,Furniture,Chairs,Herman Miller Aeron,5,595.76,0.4,1787.28,-493.94,57.55,Standard Class
+ORD-100977,2024-11-19,Sandra Taylor,Consumer,North,Wisconsin,Milwaukee,Office Supplies,Art,Expo Dry Erase Kit,2,25.81,0.5,25.81,-4.1,2.93,Standard Class
+ORD-100978,2024-09-08,Daniel Ramirez,Corporate,North,New York,New York,Office Supplies,Art,Expo Dry Erase Kit,4,28.73,0.0,114.92,35.9,4.57,First Class
+ORD-100979,2025-05-20,Andrew Ramirez,Consumer,East,Vermont,Burlington,Office Supplies,Art,Expo Dry Erase Kit,2,43.37,0.5,43.37,-10.67,6.1,Same Day
+ORD-100980,2024-11-12,Jennifer Garcia,Home Office,South,Florida,Miami,Furniture,Furnishings,Rubbermaid Shelving,2,1264.9,0.1,2276.82,334.61,412.99,First Class
+ORD-100981,2025-04-14,Mark Johnson,Consumer,South,Georgia,Atlanta,Furniture,Tables,Uplift V2 Standing Desk,2,1380.61,0.1,2485.1,285.21,293.8,First Class
+ORD-100982,2025-07-15,Donna Clark,Consumer,West,Arizona,Phoenix,Technology,Accessories,Anker USB-C Hub,3,262.78,0.2,630.67,58.87,58.48,Standard Class
+ORD-100983,2023-12-22,Patricia Jones,Corporate,North,Pennsylvania,Pittsburgh,Technology,Phones,Apple iPhone 15,1,1084.26,0.5,542.13,-134.22,44.59,Standard Class
+ORD-100984,2023-07-15,Emily Smith,Corporate,North,Massachusetts,Boston,Office Supplies,Storage,Sterilite Drawer Unit,9,18.36,0.0,165.24,32.94,6.67,Standard Class
+ORD-100985,2024-09-26,David Jackson,Consumer,North,Pennsylvania,Philadelphia,Office Supplies,Storage,Bankers Box,9,64.32,0.0,578.88,119.26,58.22,Standard Class
+ORD-100986,2024-08-03,Susan Lewis,Consumer,West,Oregon,Portland,Technology,Phones,Apple iPhone 15,1,232.11,0.2,185.69,22.58,19.68,Second Class
+ORD-100987,2023-02-05,Michelle Garcia,Consumer,West,Washington,Seattle,Technology,Copiers,Canon imageRUNNER,5,2123.98,0.0,10619.9,2367.96,526.16,Standard Class
+ORD-100988,2024-07-06,Matthew Hernandez,Home Office,East,West Virginia,Charleston,Office Supplies,Paper,Hammermill Copy Paper,2,63.31,0.15,107.63,25.34,11.0,Same Day
+ORD-100989,2023-08-20,David Lewis,Corporate,North,New York,New York,Technology,Phones,Samsung Galaxy S24,2,2184.45,0.1,3932.01,672.34,366.57,Standard Class
+ORD-100990,2024-06-05,Linda Jones,Corporate,West,Nevada,Las Vegas,Office Supplies,Binders,Avery Durable Binder,8,64.31,0.0,514.48,119.43,49.98,Standard Class
+ORD-100991,2024-03-13,David Lopez,Corporate,North,Illinois,Chicago,Office Supplies,Art,Expo Dry Erase Kit,1,28.71,0.0,28.71,9.01,1.98,Standard Class
+ORD-100992,2024-03-20,Sandra Johnson,Consumer,North,Wisconsin,Milwaukee,Technology,Phones,Samsung Galaxy S24,1,1013.73,0.0,1013.73,228.42,63.27,First Class
+ORD-100993,2025-03-04,Donald Perez,Corporate,West,California,San Diego,Office Supplies,Binders,Samsill View Binder,3,14.54,0.0,43.62,10.54,3.49,Standard Class
+ORD-100994,2024-10-20,Linda Taylor,Home Office,West,Arizona,Phoenix,Technology,Computers,HP Spectre x360,4,2034.27,0.2,6509.66,391.73,1275.9,Same Day
+ORD-100995,2025-02-13,Betty Smith,Home Office,West,Arizona,Phoenix,Technology,Phones,Samsung Galaxy S24,7,1453.99,0.2,8142.34,491.29,827.89,Standard Class
+ORD-100996,2025-02-16,David Jackson,Corporate,South,Texas,Dallas,Office Supplies,Binders,Avery Durable Binder,1,44.16,0.3,30.91,0.67,3.18,Standard Class
+ORD-100997,2024-10-16,Richard Lewis,Consumer,West,California,Los Angeles,Office Supplies,Paper,Staples Multipurpose,9,74.72,0.0,672.48,141.24,78.05,Standard Class
+ORD-100998,2023-04-08,Anthony Clark,Corporate,East,Rhode Island,Providence,Technology,Computers,Lenovo ThinkPad X1,4,663.98,0.15,2257.53,491.14,117.01,Second Class
+ORD-100999,2025-09-28,Linda Taylor,Consumer,North,Pennsylvania,Pittsburgh,Furniture,Chairs,Secretlab Titan,1,102.71,0.1,92.44,3.35,10.83,Standard Class
+ORD-101000,2023-07-07,Emily Taylor,Consumer,East,West Virginia,Charleston,Office Supplies,Storage,Sterilite Drawer Unit,3,9.0,0.15,22.95,4.12,3.28,Same Day

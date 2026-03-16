@@ -1,0 +1,101 @@
+contract_id,renewal_status,assigned_to,last_action_date,notes
+CTR-2024001,Escalated,Sarah Mitchell,2026-02-23,Stakeholder approval pending
+CTR-2024002,Escalated,Emily Watson,2026-02-10,Cross-referencing with M&A integration plan
+CTR-2024003,Not Started,Michael Torres,2026-02-08,Stakeholder approval pending
+CTR-2024004,Escalated,Robert Singh,2026-02-18,Exploring alternative vendors
+CTR-2024005,Not Started,James Chen,2026-03-09,Escalated to VP for approval
+CTR-2024006,Escalated,Michael Torres,2026-02-02,Exploring alternative vendors
+CTR-2024007,In Progress,Emily Watson,2026-01-25,Awaiting vendor response
+CTR-2024008,In Progress,James Chen,2026-02-16,Stakeholder approval pending
+CTR-2024009,In Progress,Emily Watson,2026-02-21,Exploring alternative vendors
+CTR-2024010,Escalated,Emily Watson,2026-02-25,Terms under legal review
+CTR-2024011,Not Started,Sarah Mitchell,2026-01-30,Final terms agreed
+CTR-2024012,Escalated,Michael Torres,2026-01-25,Terms under legal review
+CTR-2024013,Not Started,Robert Singh,2026-02-19,Stakeholder approval pending
+CTR-2024014,In Progress,Jennifer Kim,2026-02-13,Budget approval required
+CTR-2024015,In Progress,David Park,2026-02-16,Budget approval required
+CTR-2024016,Escalated,David Park,2026-01-25,Escalated to VP for approval
+CTR-2024017,Completed,Michael Torres,2026-02-05,Stakeholder approval pending
+CTR-2024018,Not Started,Maria Rodriguez,2026-02-19,Awaiting vendor response
+CTR-2024019,Completed,Maria Rodriguez,2026-02-21,Budget approval required
+CTR-2024020,Not Started,Michael Torres,2026-01-27,Awaiting vendor response
+CTR-2024021,Not Started,Michael Torres,2026-02-23,Budget approval required
+CTR-2024022,In Progress,Jennifer Kim,2026-02-16,Counter-offer submitted
+CTR-2024023,In Progress,Emily Watson,2026-02-08,Discount renegotiation requested
+CTR-2024024,Not Started,Robert Singh,2026-03-06,Discount renegotiation requested
+CTR-2024025,Not Started,Robert Singh,2026-02-25,Escalated to VP for approval
+CTR-2024026,Not Started,Jennifer Kim,2026-02-04,Stakeholder approval pending
+CTR-2024027,Escalated,Sarah Mitchell,2026-02-28,Terms under legal review
+CTR-2024028,Not Started,Michael Torres,2026-02-11,Vendor non-responsive - follow up needed
+CTR-2024029,Completed,Maria Rodriguez,2026-02-17,Discount renegotiation requested
+CTR-2024030,Not Started,James Chen,2026-02-06,Counter-offer submitted
+CTR-2024031,Not Started,Michael Torres,2026-01-28,Initial review scheduled
+CTR-2024032,Not Started,Robert Singh,2026-02-20,Pricing negotiation in progress
+CTR-2024033,Not Started,Maria Rodriguez,2026-02-06,Auto-renewal clause flagged for review
+CTR-2024034,Not Started,Maria Rodriguez,2026-01-29,Final terms agreed
+CTR-2024035,Completed,Jennifer Kim,2026-02-10,Signed and filed
+CTR-2024036,Completed,Sarah Mitchell,2026-03-07,Escalated to VP for approval
+CTR-2024037,Not Started,Michael Torres,2026-03-09,Cross-referencing with M&A integration plan
+CTR-2024038,In Progress,David Park,2026-03-08,Exploring alternative vendors
+CTR-2024039,Not Started,David Park,2026-02-23,Budget approval required
+CTR-2024040,In Progress,Emily Watson,2026-03-01,Awaiting vendor response
+CTR-2024041,Not Started,Emily Watson,2026-02-27,Awaiting vendor response
+CTR-2024042,Not Started,Emily Watson,2026-02-19,Signed and filed
+CTR-2024043,In Progress,Jennifer Kim,2026-01-25,Terms under legal review
+CTR-2024044,In Progress,Robert Singh,2026-02-15,Auto-renewal clause flagged for review
+CTR-2024045,Not Started,Maria Rodriguez,2026-02-12,Initial review scheduled
+CTR-2024046,Not Started,David Park,2026-03-01,Pricing negotiation in progress
+CTR-2024047,Not Started,Maria Rodriguez,2026-03-02,Counter-offer submitted
+CTR-2024048,Not Started,Jennifer Kim,2026-01-28,Stakeholder approval pending
+CTR-2024049,Not Started,Sarah Mitchell,2026-01-26,Awaiting vendor response
+CTR-2024050,Not Started,Sarah Mitchell,2026-01-24,Awaiting vendor response
+CTR-2024051,Completed,Robert Singh,2026-02-13,Awaiting vendor response
+CTR-2024052,Completed,Emily Watson,2026-02-07,Budget approval required
+CTR-2024053,In Progress,David Park,2026-01-24,Exploring alternative vendors
+CTR-2024054,Not Started,Emily Watson,2026-02-11,Exploring alternative vendors
+CTR-2024055,Not Started,Emily Watson,2026-01-29,Vendor non-responsive - follow up needed
+CTR-2024056,Not Started,Jennifer Kim,2026-03-03,Escalated to VP for approval
+CTR-2024057,Completed,James Chen,2026-02-19,Awaiting vendor response
+CTR-2024058,Not Started,Robert Singh,2026-02-25,Vendor non-responsive - follow up needed
+CTR-2024059,Not Started,Emily Watson,2026-02-04,Pricing negotiation in progress
+CTR-2024060,Escalated,Jennifer Kim,2026-02-19,Terms under legal review
+CTR-2024061,Not Started,Robert Singh,2026-02-24,Budget approval required
+CTR-2024062,Completed,Michael Torres,2026-02-22,Initial review scheduled
+CTR-2024063,Not Started,James Chen,2026-03-02,Discount renegotiation requested
+CTR-2024064,Completed,Maria Rodriguez,2026-03-04,Auto-renewal clause flagged for review
+CTR-2024065,Not Started,James Chen,2026-02-21,Exploring alternative vendors
+CTR-2024066,Not Started,Robert Singh,2026-02-19,Stakeholder approval pending
+CTR-2024067,Completed,Sarah Mitchell,2026-03-03,Discount renegotiation requested
+CTR-2024068,Not Started,Sarah Mitchell,2026-02-19,Counter-offer submitted
+CTR-2024069,In Progress,Jennifer Kim,2026-03-02,Awaiting vendor response
+CTR-2024070,Not Started,Sarah Mitchell,2026-03-01,Exploring alternative vendors
+CTR-2024071,Completed,Maria Rodriguez,2026-02-16,Counter-offer submitted
+CTR-2024072,Escalated,Emily Watson,2026-03-04,Counter-offer submitted
+CTR-2024073,Escalated,Maria Rodriguez,2026-03-02,Final terms agreed
+CTR-2024074,Completed,Robert Singh,2026-02-20,Discount renegotiation requested
+CTR-2024075,Completed,Robert Singh,2026-02-11,Exploring alternative vendors
+CTR-2024076,Not Started,James Chen,2026-03-01,Budget approval required
+CTR-2024077,Not Started,Maria Rodriguez,2026-03-03,Final terms agreed
+CTR-2024078,Completed,Robert Singh,2026-02-26,Vendor non-responsive - follow up needed
+CTR-2024079,Completed,Michael Torres,2026-01-29,Initial review scheduled
+CTR-2024080,Not Started,Robert Singh,2026-02-06,Awaiting vendor response
+CTR-2024081,Escalated,Robert Singh,2026-03-07,Awaiting vendor response
+CTR-2024082,In Progress,Michael Torres,2026-03-09,Budget approval required
+CTR-2024083,Not Started,Michael Torres,2026-02-04,Escalated to VP for approval
+CTR-2024084,Not Started,Jennifer Kim,2026-01-26,Budget approval required
+CTR-2024085,Escalated,Robert Singh,2026-02-15,Exploring alternative vendors
+CTR-2024086,Completed,Jennifer Kim,2026-02-28,Discount renegotiation requested
+CTR-2024087,Completed,Sarah Mitchell,2026-03-09,Exploring alternative vendors
+CTR-2024088,Not Started,Robert Singh,2026-02-06,Discount renegotiation requested
+CTR-2024089,Not Started,James Chen,2026-02-06,Counter-offer submitted
+CTR-2024090,Not Started,Michael Torres,2026-02-20,Initial review scheduled
+CTR-2024091,Not Started,Jennifer Kim,2026-02-12,Discount renegotiation requested
+CTR-2024092,Not Started,James Chen,2026-02-08,Signed and filed
+CTR-2024093,Completed,James Chen,2026-02-06,Signed and filed
+CTR-2024094,In Progress,James Chen,2026-02-06,Budget approval required
+CTR-2024095,Not Started,James Chen,2026-02-12,Final terms agreed
+CTR-2024096,Not Started,Sarah Mitchell,2026-03-04,Auto-renewal clause flagged for review
+CTR-2024097,In Progress,David Park,2026-01-27,Exploring alternative vendors
+CTR-2024098,Completed,Michael Torres,2026-02-14,Discount renegotiation requested
+CTR-2024099,Not Started,David Park,2026-02-08,Counter-offer submitted
+CTR-2024100,Completed,Michael Torres,2026-01-23,Signed and filed

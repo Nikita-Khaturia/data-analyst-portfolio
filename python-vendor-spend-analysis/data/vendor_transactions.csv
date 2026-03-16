@@ -1,0 +1,501 @@
+transaction_id,vendor_id,vendor_name,product_category,product_name,unit_price,quantity,total_amount,transaction_date,business_unit,payment_terms,contract_status
+TXN-10322,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.29,1249,1611.21,2023-01-06,R&D Unit,Net-60,Active
+TXN-10128,V015,TransGlobal Freight,Logistics,Hazmat Transport,1298.6,11,14284.6,2023-01-10,R&D Unit,Net-90,Active
+TXN-10081,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1250.75,3,3752.25,2023-01-13,R&D Unit,Net-30,Active
+TXN-10246,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,53.9,467,25171.3,2023-01-18,Pharma Division A,Net-30,Active
+TXN-10171,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.62,3818,10003.16,2023-01-22,Pharma Division B,Net-60,Under Review
+TXN-10380,V020,National Freight Co,Logistics,Hazmat Transport,1233.48,12,14801.76,2023-01-28,Legacy MedCo,Net-30,Active
+TXN-10085,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,96.6,3,289.8,2023-01-30,Legacy MedCo,Net-30,Active
+TXN-10409,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,91.73,139,12750.47,2023-02-01,R&D Unit,Net-60,Under Review
+TXN-10446,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,19.25,192,3696.0,2023-02-05,Manufacturing,Net-30,Under Review
+TXN-10188,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,67.18,144,9673.92,2023-02-08,Manufacturing,Net-45,Active
+TXN-10034,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,73.1,162,11842.2,2023-02-10,R&D Unit,Net-90,Expiring Soon
+TXN-10295,V009,GlobalFreight Partners,Logistics,Express Delivery,483.25,10,4832.5,2023-02-10,Pharma Division B,Net-30,Under Review
+TXN-10497,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,898.44,3,2695.32,2023-02-10,Legacy MedCo,Net-90,Expiring Soon
+TXN-10080,V020,National Freight Co,Logistics,Cold Chain Shipment,875.18,10,8751.8,2023-02-12,R&D Unit,Net-30,Expiring Soon
+TXN-10119,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,110.04,4,440.16,2023-02-14,R&D Unit,Net-60,Expiring Soon
+TXN-10343,V015,TransGlobal Freight,Logistics,Express Delivery,509.35,5,2546.75,2023-02-15,Pharma Division A,Net-90,Active
+TXN-10489,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2227.09,10,22270.9,2023-02-19,Pharma Division A,Net-30,Active
+TXN-10132,V001,PharmaCorp Inc,Raw Materials,Gelatin Capsules,57.01,448,25540.48,2023-02-20,R&D Unit,Net-30,Active
+TXN-10072,V014,RawChem Distributors,Raw Materials,Lactose Monohydrate,33.69,143,4817.67,2023-02-21,Legacy MedCo,Net-30,Active
+TXN-10074,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,17.61,148,2606.28,2023-02-23,Legacy MedCo,Net-30,Active
+TXN-10193,V007,LabTech Instruments,Lab Equipment,Glass Beakers Set,91.56,3,274.68,2023-02-23,Legacy MedCo,Net-30,Under Review
+TXN-10392,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,18.42,102,1878.84,2023-02-26,Manufacturing,Net-30,Active
+TXN-10311,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.64,4399,11613.36,2023-02-27,Pharma Division B,Net-60,Active
+TXN-10363,V004,Chemical Source Labs,Chemical Compounds,Ibuprofen API,340.94,115,39208.1,2023-03-02,Pharma Division B,Net-90,Expiring Soon
+TXN-10098,V019,Quantum Lab Systems,Lab Equipment,Analytical Balances,2745.51,5,13727.55,2023-03-03,Pharma Division A,Net-30,Active
+TXN-10274,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1302.16,1,1302.16,2023-03-05,Manufacturing,Net-30,Active
+TXN-10022,V017,ApexChem Solutions,Chemical Compounds,Sodium Hydroxide,17.8,67,1192.6,2023-03-07,Manufacturing,Net-45,Under Review
+TXN-10469,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1222.13,8,9777.04,2023-03-07,Legacy MedCo,Net-30,Expiring Soon
+TXN-10305,V014,RawChem Distributors,Raw Materials,Lactose Monohydrate,33.61,168,5646.48,2023-03-11,Pharma Division A,Net-30,Active
+TXN-10431,V001,PharmaCorp Inc,Raw Materials,Magnesium Stearate,75.74,404,30598.96,2023-03-11,Pharma Division A,Net-30,Expiring Soon
+TXN-10033,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,63.69,145,9235.05,2023-03-12,Pharma Division B,Net-60,Active
+TXN-10279,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1255.15,1,1255.15,2023-03-12,R&D Unit,Net-30,Active
+TXN-10037,V015,TransGlobal Freight,Logistics,Warehouse Storage (monthly),2463.76,2,4927.52,2023-03-17,Manufacturing,Net-90,Active
+TXN-10225,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,298.46,174,51932.04,2023-03-17,Manufacturing,Net-30,Active
+TXN-10122,V005,MedPack Solutions,Packaging,Carton Boxes (printed),2.54,1764,4480.56,2023-03-18,Legacy MedCo,Net-30,Active
+TXN-10304,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,63.44,483,30641.52,2023-03-18,Pharma Division A,Net-60,Active
+TXN-10405,V011,BioReagent Supply Co,Chemical Compounds,Citric Acid Anhydrous,41.8,69,2884.2,2023-03-18,Pharma Division B,Net-30,Under Review
+TXN-10028,V009,GlobalFreight Partners,Logistics,Express Delivery,463.12,15,6946.8,2023-03-19,Manufacturing,Net-30,Active
+TXN-10480,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.24,1977,2451.48,2023-03-24,Pharma Division B,Net-30,Active
+TXN-10273,V007,LabTech Instruments,Lab Equipment,Dissolution Apparatus,4581.15,5,22905.75,2023-03-25,Manufacturing,Net-30,Expiring Soon
+TXN-10385,V017,ApexChem Solutions,Chemical Compounds,Sodium Hydroxide,18.36,112,2056.32,2023-03-26,Manufacturing,Net-45,Under Review
+TXN-10194,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,77.03,82,6316.46,2023-03-27,Legacy MedCo,Net-90,Active
+TXN-10019,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,40.23,90,3620.7,2023-03-29,Pharma Division A,Net-60,Under Review
+TXN-10320,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.6,3613,9393.8,2023-03-29,Legacy MedCo,Net-60,Active
+TXN-10359,V002,Pharma Corp International,Raw Materials,Starch Powder,32.94,491,16173.54,2023-03-31,Pharma Division A,Net-60,Active
+TXN-10088,V016,NovaSynth Materials,Raw Materials,Starch Powder,27.85,58,1615.3,2023-04-06,R&D Unit,Net-30,Expiring Soon
+TXN-10371,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.16,2744,3183.04,2023-04-06,Legacy MedCo,Net-30,Active
+TXN-10435,V013,EcoPack Industries,Packaging,HDPE Bottles 500ml,4.18,4981,20820.58,2023-04-06,Manufacturing,Net-60,Active
+TXN-10004,V007,LabTech Instruments,Lab Equipment,pH Meter Probes,177.64,4,710.56,2023-04-10,Legacy MedCo,Net-30,Under Review
+TXN-10456,V009,GlobalFreight Partners,Logistics,Express Delivery,492.02,11,5412.22,2023-04-11,Pharma Division B,Net-30,Active
+TXN-10121,V019,Quantum Lab Systems,Lab Equipment,pH Meter Probes,191.84,4,767.36,2023-04-13,R&D Unit,Net-30,Active
+TXN-10259,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,20.96,130,2724.8,2023-04-13,Pharma Division B,Net-90,Active
+TXN-10079,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1261.51,2,2523.02,2023-04-15,Legacy MedCo,Net-30,Expiring Soon
+TXN-10159,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,94.38,230,21707.4,2023-04-17,Pharma Division B,Net-60,Active
+TXN-10308,V017,ApexChem Solutions,Chemical Compounds,Sodium Hydroxide,19.07,55,1048.85,2023-04-20,Manufacturing,Net-45,Active
+TXN-10167,V007,LabTech Instruments,Lab Equipment,Glass Beakers Set,91.33,4,365.32,2023-04-24,Manufacturing,Net-30,Active
+TXN-10424,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,32.78,122,3999.16,2023-04-24,Legacy MedCo,Net-30,Active
+TXN-10095,V006,MedPack Global,Packaging,Blister Pack Foil,13.82,4413,60987.66,2023-04-27,R&D Unit,Net-45,Active
+TXN-10113,V014,RawChem Distributors,Raw Materials,Microcrystalline Cellulose,43.76,480,21004.8,2023-04-27,Pharma Division A,Net-30,Expiring Soon
+TXN-10357,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,55.06,343,18885.58,2023-04-27,Manufacturing,Net-30,Active
+TXN-10077,V009,GlobalFreight Partners,Logistics,Hazmat Transport,1160.13,10,11601.3,2023-04-28,Pharma Division B,Net-30,Active
+TXN-10477,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2154.69,14,30165.66,2023-05-01,Manufacturing,Net-30,Under Review
+TXN-10062,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,64.62,484,31276.08,2023-05-05,R&D Unit,Net-60,Expiring Soon
+TXN-10005,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,869.53,9,7825.77,2023-05-08,R&D Unit,Net-30,Active
+TXN-10152,V003,ChemSource LLC,Chemical Compounds,Citric Acid Anhydrous,42.45,26,1103.7,2023-05-10,Manufacturing,Net-30,Under Review
+TXN-10226,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.87,1990,17651.3,2023-05-13,Pharma Division A,Net-30,Active
+TXN-10147,V001,PharmaCorp Inc,Raw Materials,Magnesium Stearate,80.8,124,10019.2,2023-05-14,Pharma Division B,Net-30,Active
+TXN-10239,V018,PharmaGrade Packaging,Packaging,Blister Pack Foil,12.93,4030,52107.9,2023-05-18,Legacy MedCo,Net-30,Active
+TXN-10375,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,362.03,86,31134.58,2023-05-21,Pharma Division B,Net-90,Expiring Soon
+TXN-10415,V016,NovaSynth Materials,Raw Materials,Microcrystalline Cellulose,43.14,246,10612.44,2023-05-21,Manufacturing,Net-30,Active
+TXN-10326,V017,ApexChem Solutions,Chemical Compounds,Ibuprofen API,290.28,53,15384.84,2023-05-23,Legacy MedCo,Net-45,Active
+TXN-10244,V015,TransGlobal Freight,Logistics,Standard Freight,349.58,9,3146.22,2023-05-24,Manufacturing,Net-90,Active
+TXN-10315,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,334.77,160,53563.2,2023-05-28,R&D Unit,Net-30,Active
+TXN-10043,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,382.24,186,71096.64,2023-06-02,Legacy MedCo,Net-90,Under Review
+TXN-10156,V014,RawChem Distributors,Raw Materials,Magnesium Stearate,79.29,241,19108.89,2023-06-06,R&D Unit,Net-30,Active
+TXN-10112,V001,PharmaCorp Inc,Raw Materials,Gelatin Capsules,56.65,413,23396.45,2023-06-12,Pharma Division A,Net-30,Under Review
+TXN-10464,V003,ChemSource LLC,Chemical Compounds,Citric Acid Anhydrous,40.02,22,880.44,2023-06-16,Pharma Division B,Net-30,Active
+TXN-10463,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,55.28,226,12493.28,2023-06-17,Legacy MedCo,Net-30,Expiring Soon
+TXN-10356,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,91.45,197,18015.65,2023-06-22,Manufacturing,Net-60,Expiring Soon
+TXN-10481,V002,Pharma Corp International,Raw Materials,Microcrystalline Cellulose,53.78,157,8443.46,2023-06-22,Pharma Division B,Net-60,Active
+TXN-10453,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,55.6,69,3836.4,2023-06-26,Pharma Division B,Net-30,Under Review
+TXN-10289,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,854.82,10,8548.2,2023-06-29,R&D Unit,Net-30,Under Review
+TXN-10061,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,46.25,162,7492.5,2023-06-30,Manufacturing,Net-30,Active
+TXN-10262,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,38.73,478,18512.94,2023-06-30,Pharma Division A,Net-60,Active
+TXN-10050,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,46.7,183,8546.1,2023-07-02,Legacy MedCo,Net-30,Active
+TXN-10212,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,17.72,164,2906.08,2023-07-04,Legacy MedCo,Net-30,Active
+TXN-10291,V014,RawChem Distributors,Raw Materials,Starch Powder,27.02,242,6538.84,2023-07-08,R&D Unit,Net-30,Active
+TXN-10352,V020,National Freight Co,Logistics,Standard Freight,322.39,7,2256.73,2023-07-10,Manufacturing,Net-30,Expiring Soon
+TXN-10421,V012,PrecisionLab Corp,Lab Equipment,Glass Beakers Set,95.6,5,478.0,2023-07-12,R&D Unit,Net-30,Under Review
+TXN-10092,V020,National Freight Co,Logistics,Hazmat Transport,1257.66,14,17607.24,2023-07-18,Legacy MedCo,Net-30,Active
+TXN-10228,V017,ApexChem Solutions,Chemical Compounds,Citric Acid Anhydrous,43.45,74,3215.3,2023-07-21,Manufacturing,Net-45,Active
+TXN-10348,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,72.72,93,6762.96,2023-07-21,Legacy MedCo,Net-90,Expiring Soon
+TXN-10346,V014,RawChem Distributors,Raw Materials,Starch Powder,26.68,364,9711.52,2023-07-22,R&D Unit,Net-30,Active
+TXN-10461,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,947.12,12,11365.44,2023-07-23,R&D Unit,Net-90,Under Review
+TXN-10075,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,328.14,73,23954.22,2023-07-24,Manufacturing,Net-30,Active
+TXN-10493,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,367.93,165,60708.45,2023-07-24,Manufacturing,Net-90,Active
+TXN-10222,V006,MedPack Global,Packaging,Child-Resistant Caps,1.36,1494,2031.84,2023-07-25,Pharma Division B,Net-45,Active
+TXN-10398,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,64.72,104,6730.88,2023-07-25,Legacy MedCo,Net-30,Expiring Soon
+TXN-10460,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,31.5,476,14994.0,2023-07-25,Pharma Division B,Net-30,Active
+TXN-10035,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,95.22,3,285.66,2023-07-29,Legacy MedCo,Net-30,Active
+TXN-10368,V018,PharmaGrade Packaging,Packaging,Carton Boxes (printed),2.38,4019,9565.22,2023-08-05,Legacy MedCo,Net-30,Active
+TXN-10286,V002,Pharma Corp International,Raw Materials,Starch Powder,33.43,326,10898.18,2023-08-11,Pharma Division A,Net-60,Active
+TXN-10278,V001,PharmaCorp Inc,Raw Materials,Starch Powder,27.31,51,1392.81,2023-08-12,Pharma Division A,Net-30,Active
+TXN-10271,V004,Chemical Source Labs,Chemical Compounds,Citric Acid Anhydrous,47.74,66,3150.84,2023-08-13,R&D Unit,Net-90,Active
+TXN-10419,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,217.07,1,217.07,2023-08-13,R&D Unit,Net-60,Active
+TXN-10300,V012,PrecisionLab Corp,Lab Equipment,pH Meter Probes,183.41,5,917.05,2023-08-15,Pharma Division A,Net-30,Active
+TXN-10340,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,65.52,157,10286.64,2023-08-15,R&D Unit,Net-45,Active
+TXN-10195,V017,ApexChem Solutions,Chemical Compounds,Ibuprofen API,294.43,33,9716.19,2023-08-16,Legacy MedCo,Net-45,Active
+TXN-10282,V006,MedPack Global,Packaging,Shrink Wrap Film,9.79,1543,15105.97,2023-08-17,Pharma Division A,Net-45,Active
+TXN-10484,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1272.09,2,2544.18,2023-08-20,Legacy MedCo,Net-30,Active
+TXN-10444,V012,PrecisionLab Corp,Lab Equipment,Glass Beakers Set,94.18,5,470.9,2023-08-21,R&D Unit,Net-30,Under Review
+TXN-10496,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,332.95,174,57933.3,2023-08-25,Legacy MedCo,Net-30,Active
+TXN-10345,V011,BioReagent Supply Co,Chemical Compounds,Ethanol Pharmaceutical Grade,64.52,128,8258.56,2023-08-26,Pharma Division B,Net-30,Active
+TXN-10418,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,54.22,349,18922.78,2023-08-27,Pharma Division A,Net-30,Active
+TXN-10196,V014,RawChem Distributors,Raw Materials,Microcrystalline Cellulose,44.53,241,10731.73,2023-08-30,Pharma Division A,Net-30,Active
+TXN-10268,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,270.94,108,29261.52,2023-08-30,Legacy MedCo,Net-30,Active
+TXN-10404,V019,Quantum Lab Systems,Lab Equipment,HPLC Columns,1241.87,2,2483.74,2023-08-31,Legacy MedCo,Net-30,Active
+TXN-10148,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,30.92,454,14037.68,2023-09-01,Pharma Division A,Net-30,Active
+TXN-10190,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,916.95,11,10086.45,2023-09-01,Manufacturing,Net-90,Active
+TXN-10401,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.27,4840,6146.8,2023-09-01,Pharma Division A,Net-60,Active
+TXN-10202,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.19,3390,4034.1,2023-09-04,Pharma Division B,Net-30,Expiring Soon
+TXN-10205,V001,PharmaCorp Inc,Raw Materials,Magnesium Stearate,80.25,226,18136.5,2023-09-04,Pharma Division A,Net-30,Under Review
+TXN-10293,V014,RawChem Distributors,Raw Materials,Gelatin Capsules,55.16,248,13679.68,2023-09-06,Legacy MedCo,Net-30,Expiring Soon
+TXN-10297,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1280.86,4,5123.44,2023-09-06,Pharma Division B,Net-30,Active
+TXN-10332,V010,SwiftShip Logistics,Logistics,Express Delivery,497.22,13,6463.86,2023-09-06,Legacy MedCo,Net-30,Active
+TXN-10344,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,325.67,52,16934.84,2023-09-07,Manufacturing,Net-30,Active
+TXN-10181,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,65.95,20,1319.0,2023-09-11,R&D Unit,Net-30,Under Review
+TXN-10364,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.67,3138,11516.46,2023-09-11,R&D Unit,Net-30,Active
+TXN-10379,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.72,1190,4426.8,2023-09-12,Manufacturing,Net-30,Expiring Soon
+TXN-10335,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,32.93,173,5696.89,2023-09-16,R&D Unit,Net-30,Active
+TXN-10466,V006,MedPack Global,Packaging,Shrink Wrap Film,10.15,2333,23679.95,2023-09-16,Legacy MedCo,Net-45,Expiring Soon
+TXN-10269,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2249.03,1,2249.03,2023-09-25,Pharma Division B,Net-30,Active
+TXN-10219,V006,MedPack Global,Packaging,Carton Boxes (printed),2.77,1464,4055.28,2023-09-26,R&D Unit,Net-45,Active
+TXN-10016,V010,SwiftShip Logistics,Logistics,Express Delivery,458.76,1,458.76,2023-09-27,Pharma Division B,Net-30,Under Review
+TXN-10391,V011,BioReagent Supply Co,Chemical Compounds,Sodium Hydroxide,18.08,26,470.08,2023-09-27,Manufacturing,Net-30,Expiring Soon
+TXN-10138,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1286.34,1,1286.34,2023-09-28,R&D Unit,Net-30,Active
+TXN-10020,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.86,1852,7148.72,2023-09-29,Manufacturing,Net-30,Active
+TXN-10030,V006,MedPack Global,Packaging,Carton Boxes (printed),2.65,3698,9799.7,2023-09-29,R&D Unit,Net-45,Active
+TXN-10407,V012,PrecisionLab Corp,Lab Equipment,Dissolution Apparatus,4478.36,4,17913.44,2023-09-29,Pharma Division A,Net-30,Active
+TXN-10102,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,72.96,48,3502.08,2023-09-30,Pharma Division A,Net-90,Active
+TXN-10015,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,45.82,324,14845.68,2023-10-01,Legacy MedCo,Net-30,Active
+TXN-10099,V007,LabTech Instruments,Lab Equipment,pH Meter Probes,187.97,2,375.94,2023-10-01,R&D Unit,Net-30,Active
+TXN-10116,V014,RawChem Distributors,Raw Materials,Magnesium Stearate,81.39,309,25149.51,2023-10-01,Legacy MedCo,Net-30,Expiring Soon
+TXN-10145,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.28,1500,1920.0,2023-10-02,Legacy MedCo,Net-60,Active
+TXN-10230,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.86,3265,12602.9,2023-10-02,Manufacturing,Net-30,Active
+TXN-10187,V006,MedPack Global,Packaging,HDPE Bottles 500ml,4.23,4483,18963.09,2023-10-03,Legacy MedCo,Net-45,Active
+TXN-10390,V009,GlobalFreight Partners,Logistics,Standard Freight,315.9,12,3790.8,2023-10-03,Pharma Division A,Net-30,Active
+TXN-10457,V010,SwiftShip Logistics,Logistics,Express Delivery,488.02,6,2928.12,2023-10-03,Manufacturing,Net-30,Expiring Soon
+TXN-10090,V018,PharmaGrade Packaging,Packaging,Child-Resistant Caps,1.18,4217,4976.06,2023-10-05,Pharma Division B,Net-30,Active
+TXN-10257,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,31.53,325,10247.25,2023-10-05,Legacy MedCo,Net-30,Active
+TXN-10410,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.65,1334,4869.1,2023-10-05,Pharma Division B,Net-30,Active
+TXN-10165,V012,PrecisionLab Corp,Lab Equipment,pH Meter Probes,189.1,5,945.5,2023-10-06,Manufacturing,Net-30,Active
+TXN-10065,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2196.61,4,8786.44,2023-10-09,Legacy MedCo,Net-30,Active
+TXN-10498,V011,BioReagent Supply Co,Chemical Compounds,Sodium Hydroxide,18.94,34,643.96,2023-10-11,Legacy MedCo,Net-30,Active
+TXN-10007,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,295.44,107,31612.08,2023-10-12,Legacy MedCo,Net-30,Active
+TXN-10024,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,90.25,171,15432.75,2023-10-13,Pharma Division B,Net-60,Under Review
+TXN-10084,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,294.43,32,9421.76,2023-10-13,Pharma Division B,Net-30,Active
+TXN-10374,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,335.62,118,39603.16,2023-10-13,Pharma Division A,Net-30,Expiring Soon
+TXN-10182,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,62.78,105,6591.9,2023-10-17,Legacy MedCo,Net-45,Expiring Soon
+TXN-10422,V010,SwiftShip Logistics,Logistics,Standard Freight,319.69,2,639.38,2023-10-17,R&D Unit,Net-30,Active
+TXN-10001,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,375.73,72,27052.56,2023-10-19,R&D Unit,Net-90,Active
+TXN-10031,V014,RawChem Distributors,Raw Materials,Gelatin Capsules,55.89,299,16711.11,2023-10-19,Manufacturing,Net-30,Active
+TXN-10094,V016,NovaSynth Materials,Raw Materials,Microcrystalline Cellulose,46.68,343,16011.24,2023-10-19,R&D Unit,Net-30,Active
+TXN-10264,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,91.27,3,273.81,2023-10-19,Manufacturing,Net-30,Under Review
+TXN-10209,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,871.53,4,3486.12,2023-10-20,Pharma Division A,Net-30,Expiring Soon
+TXN-10411,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1260.29,3,3780.87,2023-10-21,R&D Unit,Net-30,Active
+TXN-10006,V018,PharmaGrade Packaging,Packaging,Child-Resistant Caps,1.24,3462,4292.88,2023-10-22,Pharma Division B,Net-30,Active
+TXN-10100,V020,National Freight Co,Logistics,Express Delivery,465.08,4,1860.32,2023-10-23,R&D Unit,Net-30,Active
+TXN-10263,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,33.92,496,16824.32,2023-10-24,Pharma Division A,Net-30,Active
+TXN-10362,V006,MedPack Global,Packaging,Child-Resistant Caps,1.41,2897,4084.77,2023-10-24,Manufacturing,Net-45,Expiring Soon
+TXN-10447,V020,National Freight Co,Logistics,Standard Freight,307.85,13,4002.05,2023-10-26,Pharma Division B,Net-30,Active
+TXN-10153,V011,BioReagent Supply Co,Chemical Compounds,Sodium Hydroxide,19.42,145,2815.9,2023-10-29,Manufacturing,Net-30,Active
+TXN-10439,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,89.73,94,8434.62,2023-10-29,Manufacturing,Net-60,Active
+TXN-10136,V006,MedPack Global,Packaging,Child-Resistant Caps,1.41,4447,6270.27,2023-10-30,Legacy MedCo,Net-45,Active
+TXN-10266,V009,GlobalFreight Partners,Logistics,Standard Freight,304.45,6,1826.7,2023-10-30,Pharma Division B,Net-30,Active
+TXN-10381,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,65.06,110,7156.6,2023-10-30,Pharma Division B,Net-45,Active
+TXN-10125,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,366.2,187,68479.4,2023-11-03,Pharma Division A,Net-90,Active
+TXN-10434,V008,Lab Technologies Inc,Lab Equipment,Dissolution Apparatus,5243.08,1,5243.08,2023-11-03,Legacy MedCo,Net-60,Active
+TXN-10036,V009,GlobalFreight Partners,Logistics,Express Delivery,457.47,11,5032.17,2023-11-04,Pharma Division A,Net-30,Active
+TXN-10341,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,91.68,1,91.68,2023-11-04,Pharma Division B,Net-30,Active
+TXN-10126,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,92.5,270,24975.0,2023-11-06,Pharma Division B,Net-60,Active
+TXN-10174,V012,PrecisionLab Corp,Lab Equipment,pH Meter Probes,189.21,2,378.42,2023-11-06,Manufacturing,Net-30,Active
+TXN-10425,V012,PrecisionLab Corp,Lab Equipment,Analytical Balances,2824.08,3,8472.24,2023-11-06,Pharma Division B,Net-30,Expiring Soon
+TXN-10177,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,920.4,11,10124.4,2023-11-07,Manufacturing,Net-90,Active
+TXN-10296,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.79,3227,12230.33,2023-11-07,Pharma Division A,Net-30,Active
+TXN-10056,V019,Quantum Lab Systems,Lab Equipment,pH Meter Probes,183.26,1,183.26,2023-11-08,R&D Unit,Net-30,Under Review
+TXN-10141,V014,RawChem Distributors,Raw Materials,Microcrystalline Cellulose,43.38,69,2993.22,2023-11-08,Pharma Division A,Net-30,Active
+TXN-10283,V015,TransGlobal Freight,Logistics,Warehouse Storage (monthly),2375.32,7,16627.24,2023-11-09,Pharma Division B,Net-90,Expiring Soon
+TXN-10207,V015,TransGlobal Freight,Logistics,Express Delivery,519.76,13,6756.88,2023-11-10,Pharma Division B,Net-90,Active
+TXN-10400,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.67,3859,14162.53,2023-11-11,Pharma Division A,Net-30,Expiring Soon
+TXN-10427,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,114.14,4,456.56,2023-11-11,Legacy MedCo,Net-60,Active
+TXN-10476,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,311.11,67,20844.37,2023-11-11,Legacy MedCo,Net-30,Active
+TXN-10044,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.77,842,3174.34,2023-11-12,Pharma Division A,Net-30,Active
+TXN-10301,V018,PharmaGrade Packaging,Packaging,Shrink Wrap Film,8.82,3920,34574.4,2023-11-13,Manufacturing,Net-30,Active
+TXN-10169,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1154.4,8,9235.2,2023-11-17,Manufacturing,Net-30,Expiring Soon
+TXN-10017,V004,Chemical Source Labs,Chemical Compounds,Citric Acid Anhydrous,49.74,139,6913.86,2023-11-18,Manufacturing,Net-90,Active
+TXN-10051,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,74.32,196,14566.72,2023-11-18,Manufacturing,Net-90,Active
+TXN-10010,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,311.33,18,5603.94,2023-11-20,Pharma Division A,Net-30,Active
+TXN-10133,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,114.02,2,228.04,2023-11-21,Pharma Division A,Net-60,Expiring Soon
+TXN-10057,V020,National Freight Co,Logistics,Hazmat Transport,1195.8,8,9566.4,2023-11-22,Pharma Division A,Net-30,Active
+TXN-10109,V002,Pharma Corp International,Raw Materials,Starch Powder,32.45,179,5808.55,2023-11-22,Manufacturing,Net-60,Active
+TXN-10040,V004,Chemical Source Labs,Chemical Compounds,Ibuprofen API,321.04,37,11878.48,2023-11-23,Legacy MedCo,Net-90,Active
+TXN-10358,V018,PharmaGrade Packaging,Packaging,Blister Pack Foil,12.83,4115,52795.45,2023-11-24,Pharma Division B,Net-30,Active
+TXN-10176,V015,TransGlobal Freight,Logistics,Warehouse Storage (monthly),2409.02,10,24090.2,2023-11-27,Legacy MedCo,Net-90,Active
+TXN-10227,V017,ApexChem Solutions,Chemical Compounds,Ibuprofen API,279.42,51,14250.42,2023-11-27,Pharma Division B,Net-45,Active
+TXN-10334,V018,PharmaGrade Packaging,Packaging,Blister Pack Foil,13.07,4281,55952.67,2023-11-27,R&D Unit,Net-30,Expiring Soon
+TXN-10353,V006,MedPack Global,Packaging,Shrink Wrap Film,9.6,2866,27513.6,2023-11-28,Legacy MedCo,Net-45,Active
+TXN-10054,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2158.04,7,15106.28,2023-12-01,Legacy MedCo,Net-30,Under Review
+TXN-10417,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,93.31,3,279.93,2023-12-01,Legacy MedCo,Net-30,Active
+TXN-10123,V020,National Freight Co,Logistics,Express Delivery,482.12,14,6749.68,2023-12-03,Manufacturing,Net-30,Active
+TXN-10267,V020,National Freight Co,Logistics,Express Delivery,490.53,9,4414.77,2023-12-06,Pharma Division B,Net-30,Active
+TXN-10429,V019,Quantum Lab Systems,Lab Equipment,HPLC Columns,1304.59,2,2609.18,2023-12-06,Pharma Division B,Net-30,Active
+TXN-10454,V020,National Freight Co,Logistics,Express Delivery,453.09,15,6796.35,2023-12-06,Pharma Division A,Net-30,Expiring Soon
+TXN-10329,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.14,3741,4264.74,2023-12-07,R&D Unit,Net-30,Active
+TXN-10487,V012,PrecisionLab Corp,Lab Equipment,Dissolution Apparatus,4349.2,4,17396.8,2023-12-07,Pharma Division A,Net-30,Under Review
+TXN-10388,V014,RawChem Distributors,Raw Materials,Lactose Monohydrate,31.06,94,2919.64,2023-12-10,Pharma Division B,Net-30,Active
+TXN-10233,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,38.8,297,11523.6,2023-12-11,Legacy MedCo,Net-60,Expiring Soon
+TXN-10302,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,55.85,400,22340.0,2023-12-12,R&D Unit,Net-30,Expiring Soon
+TXN-10408,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2098.87,14,29384.18,2023-12-12,R&D Unit,Net-30,Under Review
+TXN-10455,V016,NovaSynth Materials,Raw Materials,Magnesium Stearate,81.1,60,4866.0,2023-12-12,Legacy MedCo,Net-30,Active
+TXN-10206,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,272.01,149,40529.49,2023-12-13,Pharma Division B,Net-30,Expiring Soon
+TXN-10086,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,32.03,182,5829.46,2023-12-15,Manufacturing,Net-30,Expiring Soon
+TXN-10318,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,20.78,29,602.62,2023-12-15,Manufacturing,Net-90,Under Review
+TXN-10423,V011,BioReagent Supply Co,Chemical Compounds,Ethanol Pharmaceutical Grade,63.06,43,2711.58,2023-12-15,Legacy MedCo,Net-30,Active
+TXN-10465,V008,Lab Technologies Inc,Lab Equipment,Dissolution Apparatus,5161.09,4,20644.36,2023-12-16,Pharma Division B,Net-60,Expiring Soon
+TXN-10173,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1166.59,13,15165.67,2023-12-17,Manufacturing,Net-30,Active
+TXN-10351,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.15,3001,3451.15,2023-12-17,R&D Unit,Net-30,Active
+TXN-10479,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,37.82,152,5748.64,2023-12-17,Manufacturing,Net-60,Active
+TXN-10452,V019,Quantum Lab Systems,Lab Equipment,HPLC Columns,1285.72,5,6428.6,2023-12-19,Legacy MedCo,Net-30,Active
+TXN-10256,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,97.15,90,8743.5,2023-12-21,Legacy MedCo,Net-60,Expiring Soon
+TXN-10258,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,76.32,71,5418.72,2023-12-21,Pharma Division B,Net-90,Active
+TXN-10281,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.72,3592,9770.24,2023-12-21,Legacy MedCo,Net-60,Active
+TXN-10310,V012,PrecisionLab Corp,Lab Equipment,Analytical Balances,2788.52,2,5577.04,2023-12-21,Pharma Division A,Net-30,Active
+TXN-10107,V014,RawChem Distributors,Raw Materials,Starch Powder,29.31,290,8499.9,2023-12-23,Legacy MedCo,Net-30,Expiring Soon
+TXN-10467,V009,GlobalFreight Partners,Logistics,Express Delivery,493.79,14,6913.06,2023-12-24,Pharma Division B,Net-30,Active
+TXN-10355,V016,NovaSynth Materials,Raw Materials,Starch Powder,28.59,277,7919.43,2023-12-26,Pharma Division B,Net-30,Active
+TXN-10361,V007,LabTech Instruments,Lab Equipment,Dissolution Apparatus,4637.45,5,23187.25,2023-12-26,Manufacturing,Net-30,Under Review
+TXN-10448,V002,Pharma Corp International,Raw Materials,Starch Powder,32.42,399,12935.58,2023-12-27,Manufacturing,Net-60,Active
+TXN-10115,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,32.36,124,4012.64,2023-12-28,Pharma Division A,Net-30,Active
+TXN-10214,V015,TransGlobal Freight,Logistics,Hazmat Transport,1297.56,12,15570.72,2023-12-28,R&D Unit,Net-90,Active
+TXN-10309,V008,Lab Technologies Inc,Lab Equipment,Dissolution Apparatus,5318.9,3,15956.7,2023-12-29,R&D Unit,Net-60,Active
+TXN-10018,V020,National Freight Co,Logistics,Hazmat Transport,1198.63,2,2397.26,2024-01-07,Legacy MedCo,Net-30,Active
+TXN-10215,V002,Pharma Corp International,Raw Materials,Microcrystalline Cellulose,54.77,257,14075.89,2024-01-08,Pharma Division B,Net-60,Active
+TXN-10211,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,284.89,137,39029.93,2024-01-12,Manufacturing,Net-30,Active
+TXN-10038,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.25,2501,3126.25,2024-01-14,R&D Unit,Net-30,Under Review
+TXN-10142,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,107.69,4,430.76,2024-01-15,Manufacturing,Net-60,Active
+TXN-10217,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,64.09,280,17945.2,2024-01-15,Pharma Division A,Net-60,Under Review
+TXN-10157,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,306.98,34,10437.32,2024-01-17,Manufacturing,Net-30,Active
+TXN-10462,V013,EcoPack Industries,Packaging,Blister Pack Foil,13.72,2481,34039.32,2024-01-17,R&D Unit,Net-60,Active
+TXN-10499,V020,National Freight Co,Logistics,Hazmat Transport,1245.42,2,2490.84,2024-01-17,Pharma Division B,Net-30,Active
+TXN-10483,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,45.15,424,19143.6,2024-01-18,Legacy MedCo,Net-30,Under Review
+TXN-10365,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.87,3893,34530.91,2024-01-20,Pharma Division A,Net-30,Active
+TXN-10164,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,46.11,160,7377.6,2024-01-21,Legacy MedCo,Net-30,Active
+TXN-10073,V015,TransGlobal Freight,Logistics,Hazmat Transport,1288.35,15,19325.25,2024-01-24,R&D Unit,Net-90,Active
+TXN-10298,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,109.46,3,328.38,2024-01-25,Legacy MedCo,Net-60,Active
+TXN-10047,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,210.15,1,210.15,2024-01-27,R&D Unit,Net-60,Active
+TXN-10192,V019,Quantum Lab Systems,Lab Equipment,Analytical Balances,2789.27,3,8367.81,2024-01-27,R&D Unit,Net-30,Active
+TXN-10060,V014,RawChem Distributors,Raw Materials,Gelatin Capsules,53.32,406,21647.92,2024-01-29,Pharma Division B,Net-30,Active
+TXN-10130,V009,GlobalFreight Partners,Logistics,Express Delivery,491.4,4,1965.6,2024-01-29,Pharma Division A,Net-30,Active
+TXN-10378,V004,Chemical Source Labs,Chemical Compounds,Ibuprofen API,334.94,160,53590.4,2024-01-29,R&D Unit,Net-90,Active
+TXN-10500,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.74,2726,7469.24,2024-01-30,R&D Unit,Net-60,Active
+TXN-10316,V010,SwiftShip Logistics,Logistics,Standard Freight,322.05,10,3220.5,2024-02-03,Manufacturing,Net-30,Active
+TXN-10438,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1168.51,1,1168.51,2024-02-07,R&D Unit,Net-30,Active
+TXN-10255,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,75.9,107,8121.3,2024-02-09,Pharma Division B,Net-90,Active
+TXN-10011,V019,Quantum Lab Systems,Lab Equipment,pH Meter Probes,179.68,4,718.72,2024-02-10,R&D Unit,Net-30,Active
+TXN-10449,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,306.78,152,46630.56,2024-02-11,Legacy MedCo,Net-30,Under Review
+TXN-10471,V008,Lab Technologies Inc,Lab Equipment,HPLC Columns,1500.68,5,7503.4,2024-02-18,Pharma Division B,Net-60,Expiring Soon
+TXN-10437,V004,Chemical Source Labs,Chemical Compounds,Citric Acid Anhydrous,47.06,58,2729.48,2024-02-24,Manufacturing,Net-90,Active
+TXN-10158,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,95.59,1,95.59,2024-02-25,R&D Unit,Net-30,Expiring Soon
+TXN-10395,V018,PharmaGrade Packaging,Packaging,Carton Boxes (printed),2.38,2533,6028.54,2024-03-02,Legacy MedCo,Net-30,Active
+TXN-10472,V001,PharmaCorp Inc,Raw Materials,Starch Powder,29.39,182,5348.98,2024-03-04,Pharma Division A,Net-30,Under Review
+TXN-10069,V010,SwiftShip Logistics,Logistics,Express Delivery,491.79,14,6885.06,2024-03-05,Manufacturing,Net-30,Under Review
+TXN-10432,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,44.49,425,18908.25,2024-03-05,R&D Unit,Net-30,Active
+TXN-10383,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,281.77,155,43674.35,2024-03-06,Pharma Division B,Net-30,Active
+TXN-10327,V005,MedPack Solutions,Packaging,Blister Pack Foil,12.08,2760,33340.8,2024-03-07,Pharma Division A,Net-30,Active
+TXN-10482,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,288.26,172,49580.72,2024-03-15,R&D Unit,Net-30,Active
+TXN-10323,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,818.76,3,2456.28,2024-03-17,Manufacturing,Net-30,Under Review
+TXN-10210,V011,BioReagent Supply Co,Chemical Compounds,Citric Acid Anhydrous,40.42,104,4203.68,2024-03-23,R&D Unit,Net-30,Active
+TXN-10111,V007,LabTech Instruments,Lab Equipment,pH Meter Probes,185.91,3,557.73,2024-03-24,R&D Unit,Net-30,Active
+TXN-10370,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,20.38,50,1019.0,2024-03-27,R&D Unit,Net-90,Active
+TXN-10106,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,38.9,383,14898.7,2024-03-28,Pharma Division B,Net-60,Under Review
+TXN-10213,V003,ChemSource LLC,Chemical Compounds,Citric Acid Anhydrous,42.68,88,3755.84,2024-04-01,R&D Unit,Net-30,Active
+TXN-10276,V019,Quantum Lab Systems,Lab Equipment,Analytical Balances,2685.46,5,13427.3,2024-04-01,R&D Unit,Net-30,Active
+TXN-10285,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1200.11,1,1200.11,2024-04-02,Pharma Division A,Net-30,Active
+TXN-10064,V018,PharmaGrade Packaging,Packaging,Carton Boxes (printed),2.55,4388,11189.4,2024-04-05,Pharma Division B,Net-30,Expiring Soon
+TXN-10319,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.26,2739,3451.14,2024-04-06,Legacy MedCo,Net-60,Under Review
+TXN-10155,V015,TransGlobal Freight,Logistics,Standard Freight,345.27,14,4833.78,2024-04-09,Pharma Division A,Net-90,Active
+TXN-10366,V017,ApexChem Solutions,Chemical Compounds,Citric Acid Anhydrous,42.82,104,4453.28,2024-04-10,Legacy MedCo,Net-45,Under Review
+TXN-10082,V014,RawChem Distributors,Raw Materials,Magnesium Stearate,79.06,474,37474.44,2024-04-15,R&D Unit,Net-30,Active
+TXN-10009,V006,MedPack Global,Packaging,Shrink Wrap Film,10.09,1838,18545.42,2024-04-18,Manufacturing,Net-45,Active
+TXN-10292,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,223.06,2,446.12,2024-04-19,Manufacturing,Net-60,Active
+TXN-10397,V017,ApexChem Solutions,Chemical Compounds,Acetaminophen API,334.53,27,9032.31,2024-04-21,Legacy MedCo,Net-45,Active
+TXN-10406,V004,Chemical Source Labs,Chemical Compounds,Ibuprofen API,316.51,125,39563.75,2024-04-22,Pharma Division A,Net-90,Under Review
+TXN-10026,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,21.01,115,2416.15,2024-04-23,Pharma Division A,Net-90,Expiring Soon
+TXN-10223,V001,PharmaCorp Inc,Raw Materials,Magnesium Stearate,78.42,238,18663.96,2024-04-23,Manufacturing,Net-30,Active
+TXN-10191,V015,TransGlobal Freight,Logistics,Standard Freight,347.96,5,1739.8,2024-04-25,Pharma Division B,Net-90,Active
+TXN-10250,V007,LabTech Instruments,Lab Equipment,Analytical Balances,2800.51,5,14002.55,2024-04-27,Pharma Division A,Net-30,Expiring Soon
+TXN-10025,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.82,2490,21961.8,2024-04-29,Pharma Division B,Net-30,Active
+TXN-10089,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,219.48,3,658.44,2024-04-29,Legacy MedCo,Net-60,Active
+TXN-10260,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.76,4396,16528.96,2024-05-03,Legacy MedCo,Net-30,Active
+TXN-10224,V020,National Freight Co,Logistics,Cold Chain Shipment,813.09,7,5691.63,2024-05-05,R&D Unit,Net-30,Under Review
+TXN-10331,V011,BioReagent Supply Co,Chemical Compounds,Ethanol Pharmaceutical Grade,67.91,61,4142.51,2024-05-05,R&D Unit,Net-30,Active
+TXN-10433,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.31,1330,1742.3,2024-05-05,Manufacturing,Net-60,Expiring Soon
+TXN-10416,V018,PharmaGrade Packaging,Packaging,Blister Pack Foil,13.11,3441,45111.51,2024-05-06,R&D Unit,Net-30,Active
+TXN-10083,V017,ApexChem Solutions,Chemical Compounds,Citric Acid Anhydrous,42.49,147,6246.03,2024-05-10,Manufacturing,Net-45,Active
+TXN-10369,V011,BioReagent Supply Co,Chemical Compounds,Ethanol Pharmaceutical Grade,65.51,154,10088.54,2024-05-11,Pharma Division A,Net-30,Active
+TXN-10458,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,283.34,114,32300.76,2024-05-11,Legacy MedCo,Net-30,Active
+TXN-10166,V003,ChemSource LLC,Chemical Compounds,Citric Acid Anhydrous,41.76,118,4927.68,2024-05-12,R&D Unit,Net-30,Active
+TXN-10441,V004,Chemical Source Labs,Chemical Compounds,Citric Acid Anhydrous,49.5,130,6435.0,2024-05-15,Legacy MedCo,Net-90,Active
+TXN-10117,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2217.58,11,24393.38,2024-05-16,R&D Unit,Net-30,Under Review
+TXN-10143,V019,Quantum Lab Systems,Lab Equipment,Dissolution Apparatus,4673.44,1,4673.44,2024-05-16,Legacy MedCo,Net-30,Active
+TXN-10151,V016,NovaSynth Materials,Raw Materials,Starch Powder,27.79,105,2917.95,2024-05-17,R&D Unit,Net-30,Active
+TXN-10175,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,297.86,170,50636.2,2024-05-20,Manufacturing,Net-30,Under Review
+TXN-10399,V020,National Freight Co,Logistics,Standard Freight,318.85,10,3188.5,2024-05-20,Pharma Division B,Net-30,Expiring Soon
+TXN-10238,V019,Quantum Lab Systems,Lab Equipment,pH Meter Probes,176.65,3,529.95,2024-05-21,R&D Unit,Net-30,Active
+TXN-10108,V004,Chemical Source Labs,Chemical Compounds,Ibuprofen API,322.9,187,60382.3,2024-05-22,R&D Unit,Net-90,Under Review
+TXN-10120,V013,EcoPack Industries,Packaging,Carton Boxes (printed),2.74,1746,4784.04,2024-05-22,Pharma Division B,Net-60,Under Review
+TXN-10389,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,33.15,133,4408.95,2024-05-23,Manufacturing,Net-30,Under Review
+TXN-10127,V020,National Freight Co,Logistics,Express Delivery,480.69,4,1922.76,2024-05-24,Pharma Division B,Net-30,Active
+TXN-10231,V007,LabTech Instruments,Lab Equipment,Glass Beakers Set,94.21,1,94.21,2024-05-24,Manufacturing,Net-30,Active
+TXN-10317,V013,EcoPack Industries,Packaging,HDPE Bottles 500ml,4.2,1142,4796.4,2024-05-27,Legacy MedCo,Net-60,Active
+TXN-10032,V011,BioReagent Supply Co,Chemical Compounds,Acetaminophen API,305.6,132,40339.2,2024-05-29,Manufacturing,Net-30,Active
+TXN-10229,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.21,1265,1530.65,2024-05-29,Manufacturing,Net-30,Under Review
+TXN-10237,V010,SwiftShip Logistics,Logistics,Express Delivery,452.35,7,3166.45,2024-06-01,Pharma Division B,Net-30,Active
+TXN-10459,V017,ApexChem Solutions,Chemical Compounds,Ibuprofen API,272.62,191,52070.42,2024-06-02,Manufacturing,Net-45,Under Review
+TXN-10186,V017,ApexChem Solutions,Chemical Compounds,Acetaminophen API,324.67,118,38311.06,2024-06-04,Legacy MedCo,Net-45,Active
+TXN-10013,V019,Quantum Lab Systems,Lab Equipment,Analytical Balances,2761.36,2,5522.72,2024-06-05,Pharma Division A,Net-30,Active
+TXN-10114,V005,MedPack Solutions,Packaging,Carton Boxes (printed),2.56,2890,7398.4,2024-06-05,R&D Unit,Net-30,Active
+TXN-10386,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.15,1147,1319.05,2024-06-07,Pharma Division B,Net-30,Under Review
+TXN-10492,V005,MedPack Solutions,Packaging,Carton Boxes (printed),2.53,1359,3438.27,2024-06-07,Pharma Division A,Net-30,Active
+TXN-10208,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1226.95,3,3680.85,2024-06-11,Manufacturing,Net-30,Active
+TXN-10234,V012,PrecisionLab Corp,Lab Equipment,Analytical Balances,2696.61,3,8089.83,2024-06-11,Legacy MedCo,Net-30,Active
+TXN-10275,V019,Quantum Lab Systems,Lab Equipment,Glass Beakers Set,91.67,3,275.01,2024-06-16,Pharma Division B,Net-30,Expiring Soon
+TXN-10402,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,811.23,4,3244.92,2024-06-16,Legacy MedCo,Net-30,Active
+TXN-10342,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1194.64,4,4778.56,2024-06-17,R&D Unit,Net-30,Active
+TXN-10097,V018,PharmaGrade Packaging,Packaging,Carton Boxes (printed),2.48,2348,5823.04,2024-06-19,R&D Unit,Net-30,Active
+TXN-10248,V008,Lab Technologies Inc,Lab Equipment,HPLC Columns,1472.94,2,2945.88,2024-06-20,Manufacturing,Net-60,Active
+TXN-10203,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,68.09,27,1838.43,2024-06-22,Manufacturing,Net-30,Under Review
+TXN-10382,V013,EcoPack Industries,Packaging,Blister Pack Foil,13.34,1081,14420.54,2024-06-24,Pharma Division A,Net-60,Active
+TXN-10294,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,19.14,33,631.62,2024-07-02,Pharma Division B,Net-30,Active
+TXN-10012,V009,GlobalFreight Partners,Logistics,Standard Freight,311.89,9,2807.01,2024-07-05,Manufacturing,Net-30,Active
+TXN-10067,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1239.36,3,3718.08,2024-07-09,Pharma Division A,Net-30,Active
+TXN-10221,V011,BioReagent Supply Co,Chemical Compounds,Citric Acid Anhydrous,42.88,150,6432.0,2024-07-09,Legacy MedCo,Net-30,Active
+TXN-10118,V016,NovaSynth Materials,Raw Materials,Magnesium Stearate,76.69,440,33743.6,2024-07-10,Legacy MedCo,Net-30,Active
+TXN-10314,V002,Pharma Corp International,Raw Materials,Microcrystalline Cellulose,54.83,193,10582.19,2024-07-10,Pharma Division A,Net-60,Active
+TXN-10252,V006,MedPack Global,Packaging,Carton Boxes (printed),2.87,3304,9482.48,2024-07-13,Legacy MedCo,Net-45,Under Review
+TXN-10490,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,21.17,41,867.97,2024-07-14,Pharma Division B,Net-90,Active
+TXN-10494,V012,PrecisionLab Corp,Lab Equipment,Analytical Balances,2742.7,1,2742.7,2024-07-15,Pharma Division B,Net-30,Expiring Soon
+TXN-10272,V015,TransGlobal Freight,Logistics,Warehouse Storage (monthly),2367.54,12,28410.48,2024-07-16,Manufacturing,Net-90,Expiring Soon
+TXN-10042,V005,MedPack Solutions,Packaging,Child-Resistant Caps,1.16,4119,4778.04,2024-07-18,Manufacturing,Net-30,Active
+TXN-10154,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,379.29,176,66755.04,2024-07-18,Pharma Division B,Net-90,Active
+TXN-10179,V020,National Freight Co,Logistics,Warehouse Storage (monthly),2174.59,10,21745.9,2024-07-21,Pharma Division A,Net-30,Active
+TXN-10160,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,33.63,229,7701.27,2024-07-23,Legacy MedCo,Net-30,Under Review
+TXN-10242,V013,EcoPack Industries,Packaging,Child-Resistant Caps,1.33,3277,4358.41,2024-07-25,Pharma Division B,Net-60,Active
+TXN-10253,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,33.99,192,6526.08,2024-07-25,Legacy MedCo,Net-30,Active
+TXN-10277,V017,ApexChem Solutions,Chemical Compounds,Sodium Hydroxide,18.42,24,442.08,2024-07-26,Legacy MedCo,Net-45,Expiring Soon
+TXN-10325,V010,SwiftShip Logistics,Logistics,Express Delivery,469.67,2,939.34,2024-07-26,Pharma Division B,Net-30,Under Review
+TXN-10475,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,20.59,76,1564.84,2024-07-26,Pharma Division B,Net-90,Expiring Soon
+TXN-10045,V007,LabTech Instruments,Lab Equipment,Dissolution Apparatus,4575.12,3,13725.36,2024-07-27,R&D Unit,Net-30,Under Review
+TXN-10254,V007,LabTech Instruments,Lab Equipment,Analytical Balances,2748.77,3,8246.31,2024-07-27,Legacy MedCo,Net-30,Active
+TXN-10354,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,31.51,246,7751.46,2024-07-29,R&D Unit,Net-30,Active
+TXN-10076,V008,Lab Technologies Inc,Lab Equipment,Dissolution Apparatus,5253.1,1,5253.1,2024-07-31,R&D Unit,Net-60,Expiring Soon
+TXN-10312,V016,NovaSynth Materials,Raw Materials,Starch Powder,28.41,219,6221.79,2024-08-02,Pharma Division A,Net-30,Under Review
+TXN-10445,V014,RawChem Distributors,Raw Materials,Gelatin Capsules,56.03,293,16416.79,2024-08-09,R&D Unit,Net-30,Active
+TXN-10393,V012,PrecisionLab Corp,Lab Equipment,Dissolution Apparatus,4389.8,1,4389.8,2024-08-10,Pharma Division A,Net-30,Active
+TXN-10078,V004,Chemical Source Labs,Chemical Compounds,Ethanol Pharmaceutical Grade,71.67,89,6378.63,2024-08-12,R&D Unit,Net-90,Active
+TXN-10287,V017,ApexChem Solutions,Chemical Compounds,Citric Acid Anhydrous,40.88,197,8053.36,2024-08-12,Manufacturing,Net-45,Expiring Soon
+TXN-10134,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,95.85,67,6421.95,2024-08-16,Pharma Division B,Net-60,Active
+TXN-10336,V003,ChemSource LLC,Chemical Compounds,Sodium Hydroxide,19.41,132,2562.12,2024-08-19,Manufacturing,Net-30,Expiring Soon
+TXN-10451,V014,RawChem Distributors,Raw Materials,Lactose Monohydrate,31.36,351,11007.36,2024-08-19,Pharma Division A,Net-30,Active
+TXN-10105,V003,ChemSource LLC,Chemical Compounds,Ibuprofen API,298.16,157,46811.12,2024-08-24,Legacy MedCo,Net-30,Under Review
+TXN-10129,V018,PharmaGrade Packaging,Packaging,HDPE Bottles 500ml,3.64,3330,12121.2,2024-08-24,R&D Unit,Net-30,Expiring Soon
+TXN-10450,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,939.3,10,9393.0,2024-08-24,R&D Unit,Net-90,Active
+TXN-10071,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.78,3727,32723.06,2024-08-29,Pharma Division A,Net-30,Active
+TXN-10333,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1304.01,2,2608.02,2024-08-29,Pharma Division B,Net-30,Expiring Soon
+TXN-10245,V006,MedPack Global,Packaging,Carton Boxes (printed),2.89,2951,8528.39,2024-08-30,Manufacturing,Net-45,Under Review
+TXN-10328,V009,GlobalFreight Partners,Logistics,Standard Freight,327.07,8,2616.56,2024-08-31,R&D Unit,Net-30,Active
+TXN-10247,V019,Quantum Lab Systems,Lab Equipment,pH Meter Probes,190.49,1,190.49,2024-09-03,Manufacturing,Net-30,Under Review
+TXN-10349,V016,NovaSynth Materials,Raw Materials,Gelatin Capsules,57.56,210,12087.6,2024-09-03,R&D Unit,Net-30,Under Review
+TXN-10436,V001,PharmaCorp Inc,Raw Materials,Starch Powder,29.24,134,3918.16,2024-09-13,Pharma Division B,Net-30,Active
+TXN-10376,V005,MedPack Solutions,Packaging,Blister Pack Foil,12.54,569,7135.26,2024-09-16,R&D Unit,Net-30,Active
+TXN-10059,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,43.85,293,12848.05,2024-09-17,Pharma Division A,Net-30,Active
+TXN-10063,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,65.62,123,8071.26,2024-09-19,Manufacturing,Net-45,Active
+TXN-10161,V008,Lab Technologies Inc,Lab Equipment,Analytical Balances,3372.64,5,16863.2,2024-09-20,Manufacturing,Net-60,Active
+TXN-10284,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,377.9,117,44214.3,2024-09-21,Pharma Division A,Net-90,Active
+TXN-10110,V014,RawChem Distributors,Raw Materials,Microcrystalline Cellulose,43.59,235,10243.65,2024-09-29,R&D Unit,Net-30,Active
+TXN-10053,V007,LabTech Instruments,Lab Equipment,pH Meter Probes,183.73,3,551.19,2024-09-30,Pharma Division A,Net-30,Expiring Soon
+TXN-10139,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2173.83,11,23912.13,2024-10-01,Manufacturing,Net-30,Under Review
+TXN-10373,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,304.03,132,40131.96,2024-10-01,Pharma Division A,Net-30,Expiring Soon
+TXN-10180,V019,Quantum Lab Systems,Lab Equipment,Dissolution Apparatus,4419.69,4,17678.76,2024-10-04,Legacy MedCo,Net-30,Expiring Soon
+TXN-10199,V020,National Freight Co,Logistics,Cold Chain Shipment,884.5,1,884.5,2024-10-04,Legacy MedCo,Net-30,Active
+TXN-10027,V004,Chemical Source Labs,Chemical Compounds,Acetaminophen API,364.88,96,35028.48,2024-10-05,R&D Unit,Net-90,Active
+TXN-10495,V016,NovaSynth Materials,Raw Materials,Magnesium Stearate,75.93,56,4252.08,2024-10-05,Pharma Division A,Net-30,Under Review
+TXN-10220,V020,National Freight Co,Logistics,Hazmat Transport,1223.28,8,9786.24,2024-10-06,R&D Unit,Net-30,Active
+TXN-10265,V016,NovaSynth Materials,Raw Materials,Lactose Monohydrate,33.64,289,9721.96,2024-10-06,R&D Unit,Net-30,Expiring Soon
+TXN-10168,V017,ApexChem Solutions,Chemical Compounds,Citric Acid Anhydrous,40.09,111,4449.99,2024-10-07,Pharma Division B,Net-45,Active
+TXN-10002,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,43.73,308,13468.84,2024-10-08,R&D Unit,Net-30,Under Review
+TXN-10339,V019,Quantum Lab Systems,Lab Equipment,Analytical Balances,2930.71,3,8792.13,2024-10-08,Manufacturing,Net-30,Expiring Soon
+TXN-10091,V007,LabTech Instruments,Lab Equipment,pH Meter Probes,177.96,5,889.8,2024-10-09,Manufacturing,Net-30,Under Review
+TXN-10201,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,21.45,14,300.3,2024-10-09,Pharma Division B,Net-90,Expiring Soon
+TXN-10360,V007,LabTech Instruments,Lab Equipment,Glass Beakers Set,96.8,5,484.0,2024-10-09,Manufacturing,Net-30,Active
+TXN-10413,V001,PharmaCorp Inc,Raw Materials,Starch Powder,28.51,138,3934.38,2024-10-09,R&D Unit,Net-30,Active
+TXN-10183,V020,National Freight Co,Logistics,Cold Chain Shipment,874.58,11,9620.38,2024-10-10,Legacy MedCo,Net-30,Expiring Soon
+TXN-10485,V005,MedPack Solutions,Packaging,Blister Pack Foil,12.35,3007,37136.45,2024-10-10,R&D Unit,Net-30,Expiring Soon
+TXN-10048,V007,LabTech Instruments,Lab Equipment,Analytical Balances,2757.9,2,5515.8,2024-10-11,Legacy MedCo,Net-30,Active
+TXN-10140,V011,BioReagent Supply Co,Chemical Compounds,Ethanol Pharmaceutical Grade,63.19,26,1642.94,2024-10-12,Legacy MedCo,Net-30,Expiring Soon
+TXN-10204,V001,PharmaCorp Inc,Raw Materials,Starch Powder,29.05,72,2091.6,2024-10-12,Legacy MedCo,Net-30,Active
+TXN-10216,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.91,4089,36432.99,2024-10-12,R&D Unit,Net-30,Under Review
+TXN-10367,V001,PharmaCorp Inc,Raw Materials,Microcrystalline Cellulose,46.04,284,13075.36,2024-10-12,Legacy MedCo,Net-30,Active
+TXN-10403,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,62.37,44,2744.28,2024-10-14,Pharma Division A,Net-30,Under Review
+TXN-10149,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,818.27,7,5727.89,2024-10-15,Legacy MedCo,Net-30,Under Review
+TXN-10306,V017,ApexChem Solutions,Chemical Compounds,Sodium Hydroxide,18.27,168,3069.36,2024-10-15,Manufacturing,Net-45,Active
+TXN-10440,V007,LabTech Instruments,Lab Equipment,HPLC Columns,1190.72,2,2381.44,2024-10-15,Pharma Division A,Net-30,Active
+TXN-10442,V018,PharmaGrade Packaging,Packaging,Carton Boxes (printed),2.37,3624,8588.88,2024-10-15,R&D Unit,Net-30,Active
+TXN-10200,V010,SwiftShip Logistics,Logistics,Cold Chain Shipment,811.56,7,5680.92,2024-10-16,R&D Unit,Net-30,Active
+TXN-10236,V008,Lab Technologies Inc,Lab Equipment,Dissolution Apparatus,5406.07,5,27030.35,2024-10-17,R&D Unit,Net-60,Active
+TXN-10384,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,322.8,13,4196.4,2024-10-17,Legacy MedCo,Net-30,Expiring Soon
+TXN-10280,V010,SwiftShip Logistics,Logistics,Express Delivery,459.8,3,1379.4,2024-10-18,R&D Unit,Net-30,Active
+TXN-10170,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1237.13,1,1237.13,2024-10-19,R&D Unit,Net-30,Under Review
+TXN-10185,V020,National Freight Co,Logistics,Cold Chain Shipment,833.81,7,5836.67,2024-10-20,Pharma Division B,Net-30,Expiring Soon
+TXN-10066,V009,GlobalFreight Partners,Logistics,Hazmat Transport,1178.37,9,10605.33,2024-10-23,Pharma Division B,Net-30,Expiring Soon
+TXN-10093,V010,SwiftShip Logistics,Logistics,Cold Chain Shipment,867.68,3,2603.04,2024-10-23,Pharma Division B,Net-30,Expiring Soon
+TXN-10414,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,66.66,175,11665.5,2024-10-24,R&D Unit,Net-60,Under Review
+TXN-10146,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.49,2197,18652.53,2024-10-25,Pharma Division B,Net-30,Under Review
+TXN-10197,V008,Lab Technologies Inc,Lab Equipment,HPLC Columns,1439.84,1,1439.84,2024-10-27,Pharma Division B,Net-60,Active
+TXN-10218,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.63,3075,26537.25,2024-10-27,Pharma Division A,Net-30,Active
+TXN-10330,V015,TransGlobal Freight,Logistics,Hazmat Transport,1296.17,14,18146.38,2024-10-28,Pharma Division B,Net-90,Active
+TXN-10488,V017,ApexChem Solutions,Chemical Compounds,Ibuprofen API,274.26,192,52657.92,2024-10-28,R&D Unit,Net-45,Expiring Soon
+TXN-10261,V010,SwiftShip Logistics,Logistics,Cold Chain Shipment,884.67,2,1769.34,2024-10-29,Manufacturing,Net-30,Expiring Soon
+TXN-10470,V011,BioReagent Supply Co,Chemical Compounds,Citric Acid Anhydrous,41.0,192,7872.0,2024-10-29,Pharma Division B,Net-30,Under Review
+TXN-10039,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2306.45,13,29983.85,2024-10-31,Manufacturing,Net-30,Active
+TXN-10041,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2197.48,15,32962.2,2024-11-02,Pharma Division A,Net-30,Active
+TXN-10178,V012,PrecisionLab Corp,Lab Equipment,Glass Beakers Set,90.95,4,363.8,2024-11-03,Pharma Division A,Net-30,Under Review
+TXN-10163,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,33.7,339,11424.3,2024-11-04,Pharma Division B,Net-30,Expiring Soon
+TXN-10474,V012,PrecisionLab Corp,Lab Equipment,Glass Beakers Set,93.1,2,186.2,2024-11-04,Pharma Division B,Net-30,Active
+TXN-10249,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.62,1400,5068.0,2024-11-05,R&D Unit,Net-30,Expiring Soon
+TXN-10394,V017,ApexChem Solutions,Chemical Compounds,Acetaminophen API,305.41,13,3970.33,2024-11-05,Pharma Division B,Net-45,Active
+TXN-10029,V002,Pharma Corp International,Raw Materials,Gelatin Capsules,67.85,97,6581.45,2024-11-07,R&D Unit,Net-60,Active
+TXN-10288,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,279.35,46,12850.1,2024-11-07,R&D Unit,Net-30,Active
+TXN-10101,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,221.77,5,1108.85,2024-11-08,Pharma Division B,Net-60,Active
+TXN-10251,V005,MedPack Solutions,Packaging,Shrink Wrap Film,8.49,3162,26845.38,2024-11-09,R&D Unit,Net-30,Active
+TXN-10491,V001,PharmaCorp Inc,Raw Materials,Magnesium Stearate,77.38,101,7815.38,2024-11-09,Manufacturing,Net-30,Under Review
+TXN-10338,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,328.61,178,58492.58,2024-11-11,Manufacturing,Net-30,Active
+TXN-10014,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.91,3958,15475.78,2024-11-17,Legacy MedCo,Net-30,Under Review
+TXN-10087,V009,GlobalFreight Partners,Logistics,Warehouse Storage (monthly),2092.23,4,8368.92,2024-11-18,Pharma Division B,Net-30,Expiring Soon
+TXN-10290,V016,NovaSynth Materials,Raw Materials,Microcrystalline Cellulose,47.13,379,17862.27,2024-11-18,Manufacturing,Net-30,Active
+TXN-10058,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,63.93,70,4475.1,2024-11-19,Pharma Division B,Net-45,Active
+TXN-10104,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,64.96,30,1948.8,2024-11-20,Legacy MedCo,Net-45,Active
+TXN-10396,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,64.17,138,8855.46,2024-11-20,Pharma Division B,Net-30,Active
+TXN-10184,V020,National Freight Co,Logistics,Standard Freight,314.67,10,3146.7,2024-11-21,R&D Unit,Net-30,Active
+TXN-10137,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,900.88,4,3603.52,2024-11-23,R&D Unit,Net-90,Under Review
+TXN-10055,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.77,3605,13590.85,2024-11-24,Pharma Division B,Net-30,Under Review
+TXN-10070,V008,Lab Technologies Inc,Lab Equipment,Analytical Balances,3197.44,4,12789.76,2024-11-24,Pharma Division B,Net-60,Active
+TXN-10049,V009,GlobalFreight Partners,Logistics,Hazmat Transport,1216.98,7,8518.86,2024-11-26,Manufacturing,Net-30,Active
+TXN-10241,V015,TransGlobal Freight,Logistics,Warehouse Storage (monthly),2353.08,10,23530.8,2024-11-27,Pharma Division B,Net-90,Active
+TXN-10235,V015,TransGlobal Freight,Logistics,Cold Chain Shipment,908.41,4,3633.64,2024-11-28,Manufacturing,Net-90,Active
+TXN-10387,V011,BioReagent Supply Co,Chemical Compounds,Sodium Hydroxide,18.66,176,3284.16,2024-11-28,Legacy MedCo,Net-30,Expiring Soon
+TXN-10232,V010,SwiftShip Logistics,Logistics,Express Delivery,462.88,13,6017.44,2024-12-02,R&D Unit,Net-30,Active
+TXN-10096,V003,ChemSource LLC,Chemical Compounds,Ethanol Pharmaceutical Grade,65.84,23,1514.32,2024-12-03,Pharma Division B,Net-30,Active
+TXN-10240,V012,PrecisionLab Corp,Lab Equipment,HPLC Columns,1237.57,5,6187.85,2024-12-03,R&D Unit,Net-30,Under Review
+TXN-10270,V004,Chemical Source Labs,Chemical Compounds,Sodium Hydroxide,20.92,113,2363.96,2024-12-03,Legacy MedCo,Net-90,Expiring Soon
+TXN-10473,V019,Quantum Lab Systems,Lab Equipment,Dissolution Apparatus,4429.43,2,8858.86,2024-12-03,R&D Unit,Net-30,Expiring Soon
+TXN-10377,V007,LabTech Instruments,Lab Equipment,Dissolution Apparatus,4688.95,5,23444.75,2024-12-04,Pharma Division B,Net-30,Active
+TXN-10486,V017,ApexChem Solutions,Chemical Compounds,Ethanol Pharmaceutical Grade,65.16,121,7884.36,2024-12-04,Legacy MedCo,Net-45,Active
+TXN-10303,V016,NovaSynth Materials,Raw Materials,Starch Powder,27.07,457,12370.99,2024-12-06,Manufacturing,Net-30,Expiring Soon
+TXN-10124,V011,BioReagent Supply Co,Chemical Compounds,Sodium Hydroxide,19.19,19,364.61,2024-12-08,Pharma Division A,Net-30,Active
+TXN-10313,V002,Pharma Corp International,Raw Materials,Lactose Monohydrate,38.06,494,18801.64,2024-12-09,R&D Unit,Net-60,Active
+TXN-10189,V020,National Freight Co,Logistics,Express Delivery,458.58,3,1375.74,2024-12-10,Pharma Division B,Net-30,Expiring Soon
+TXN-10198,V002,Pharma Corp International,Raw Materials,Magnesium Stearate,96.86,291,28186.26,2024-12-13,R&D Unit,Net-60,Active
+TXN-10443,V008,Lab Technologies Inc,Lab Equipment,pH Meter Probes,217.64,2,435.28,2024-12-14,Pharma Division A,Net-60,Expiring Soon
+TXN-10003,V009,GlobalFreight Partners,Logistics,Cold Chain Shipment,872.0,3,2616.0,2024-12-15,Legacy MedCo,Net-30,Active
+TXN-10150,V019,Quantum Lab Systems,Lab Equipment,HPLC Columns,1244.0,2,2488.0,2024-12-15,Pharma Division A,Net-30,Active
+TXN-10420,V006,MedPack Global,Packaging,HDPE Bottles 500ml,4.19,3105,13009.95,2024-12-15,Manufacturing,Net-45,Active
+TXN-10068,V014,RawChem Distributors,Raw Materials,Starch Powder,29.13,349,10166.37,2024-12-16,Pharma Division A,Net-30,Active
+TXN-10131,V013,EcoPack Industries,Packaging,Shrink Wrap Film,9.41,2923,27505.43,2024-12-17,R&D Unit,Net-60,Active
+TXN-10135,V010,SwiftShip Logistics,Logistics,Hazmat Transport,1229.7,3,3689.1,2024-12-17,Manufacturing,Net-30,Active
+TXN-10172,V015,TransGlobal Freight,Logistics,Hazmat Transport,1267.4,14,17743.6,2024-12-17,Pharma Division A,Net-90,Active
+TXN-10372,V012,PrecisionLab Corp,Lab Equipment,Dissolution Apparatus,4298.3,3,12894.9,2024-12-17,R&D Unit,Net-30,Expiring Soon
+TXN-10478,V020,National Freight Co,Logistics,Cold Chain Shipment,847.64,4,3390.56,2024-12-17,Legacy MedCo,Net-30,Active
+TXN-10144,V012,PrecisionLab Corp,Lab Equipment,Dissolution Apparatus,4474.52,2,8949.04,2024-12-18,Legacy MedCo,Net-30,Active
+TXN-10307,V016,NovaSynth Materials,Raw Materials,Microcrystalline Cellulose,42.78,332,14202.96,2024-12-18,Legacy MedCo,Net-30,Active
+TXN-10468,V010,SwiftShip Logistics,Logistics,Warehouse Storage (monthly),2271.35,7,15899.45,2024-12-18,Manufacturing,Net-30,Under Review
+TXN-10008,V012,PrecisionLab Corp,Lab Equipment,pH Meter Probes,179.63,3,538.89,2024-12-19,Pharma Division A,Net-30,Under Review
+TXN-10337,V014,RawChem Distributors,Raw Materials,Gelatin Capsules,52.45,234,12273.3,2024-12-19,Manufacturing,Net-30,Under Review
+TXN-10162,V020,National Freight Co,Logistics,Hazmat Transport,1143.47,5,5717.35,2024-12-20,Legacy MedCo,Net-30,Active
+TXN-10350,V004,Chemical Source Labs,Chemical Compounds,Citric Acid Anhydrous,47.68,127,6055.36,2024-12-20,Manufacturing,Net-90,Active
+TXN-10347,V001,PharmaCorp Inc,Raw Materials,Lactose Monohydrate,31.54,435,13719.9,2024-12-21,Pharma Division A,Net-30,Under Review
+TXN-10103,V006,MedPack Global,Packaging,Child-Resistant Caps,1.37,2864,3923.68,2024-12-23,R&D Unit,Net-45,Active
+TXN-10023,V008,Lab Technologies Inc,Lab Equipment,Glass Beakers Set,108.49,1,108.49,2024-12-25,Pharma Division B,Net-60,Active
+TXN-10299,V009,GlobalFreight Partners,Logistics,Hazmat Transport,1201.54,8,9612.32,2024-12-25,Legacy MedCo,Net-30,Active
+TXN-10426,V014,RawChem Distributors,Raw Materials,Starch Powder,28.42,139,3950.38,2024-12-25,Manufacturing,Net-30,Active
+TXN-10046,V005,MedPack Solutions,Packaging,HDPE Bottles 500ml,3.94,1950,7683.0,2024-12-26,R&D Unit,Net-30,Expiring Soon
+TXN-10052,V013,EcoPack Industries,Packaging,Shrink Wrap Film,9.3,863,8025.9,2024-12-26,Manufacturing,Net-60,Under Review
+TXN-10243,V020,National Freight Co,Logistics,Warehouse Storage (monthly),2178.31,1,2178.31,2024-12-26,R&D Unit,Net-30,Under Review
+TXN-10428,V006,MedPack Global,Packaging,Blister Pack Foil,14.69,3707,54455.83,2024-12-26,Manufacturing,Net-45,Active
+TXN-10430,V011,BioReagent Supply Co,Chemical Compounds,Ibuprofen API,288.88,32,9244.16,2024-12-26,Legacy MedCo,Net-30,Active
+TXN-10412,V003,ChemSource LLC,Chemical Compounds,Citric Acid Anhydrous,40.41,128,5172.48,2024-12-27,R&D Unit,Net-30,Active
+TXN-10324,V014,RawChem Distributors,Raw Materials,Microcrystalline Cellulose,42.87,231,9902.97,2024-12-28,R&D Unit,Net-30,Active
+TXN-10321,V003,ChemSource LLC,Chemical Compounds,Acetaminophen API,312.58,107,33446.06,2024-12-29,Pharma Division B,Net-30,Expiring Soon
+TXN-10021,V007,LabTech Instruments,Lab Equipment,Glass Beakers Set,97.43,2,194.86,2024-12-31,Legacy MedCo,Net-30,Active

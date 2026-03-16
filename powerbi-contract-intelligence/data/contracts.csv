@@ -1,0 +1,101 @@
+contract_id,business_unit,vendor_name,contract_type,category,start_date,end_date,annual_value,total_contract_value,status,auto_renewal,renewal_notice_days,discount_pct,owner,priority
+CTR-2024001,Corporate Services,Wipro,Service,Maintenance,2023-10-13,2026-03-28,39626.71,158506.84,At Risk,Y,30,5.8,David Park,Medium
+CTR-2024002,Supply Chain Operations,Infosys,License,Data License,2024-07-23,2026-03-23,4035229.47,20176147.35,At Risk,Y,30,19.1,Robert Singh,High
+CTR-2024003,Financial Services,Palantir,Service,Maintenance,2024-06-25,2026-04-08,28377.0,141885.0,At Risk,Y,90,15.7,Christopher Lee,Low
+CTR-2024004,Healthcare Division,IBM,License,Software License,2024-04-11,2026-03-13,13191.68,65958.4,At Risk,Y,60,0.0,Lisa Patel,Medium
+CTR-2024005,Healthcare Division,Capgemini,Subscription,Cloud Infrastructure,2023-05-27,2026-03-15,627311.9,1881935.7,At Risk,N,60,0.0,Daniel Murphy,Medium
+CTR-2024006,Supply Chain Operations,Microsoft,License,Technology License,2023-03-07,2026-03-28,90161.13,450805.65,Pending Renewal,Y,30,0.0,David Park,Medium
+CTR-2024007,Financial Services,Google Cloud,License,Technology License,2024-06-22,2026-03-17,184673.43,738693.72,Active,Y,60,1.2,David Park,High
+CTR-2024008,Technology Solutions,CrowdStrike,Lease,Office Space,2025-08-16,2026-03-31,32129.04,96387.12,Pending Renewal,Y,90,0.0,Jennifer Kim,Low
+CTR-2024009,Healthcare Division,VMware,Service,Maintenance,2025-07-18,2026-04-25,4503411.76,4503411.76,Active,Y,30,0.0,Maria Rodriguez,High
+CTR-2024010,Supply Chain Operations,Splunk,License,IP License,2023-11-27,2026-04-28,4689736.32,14069208.96,Pending Renewal,N,30,9.1,Rachel Green,Low
+CTR-2024011,Healthcare Division,Wipro,License,Software License,2023-06-11,2026-04-26,852818.6,852818.6,Active,N,90,13.7,Stephanie Chang,High
+CTR-2024012,Supply Chain Operations,Iron Mountain,Lease,Equipment Lease,2024-02-16,2026-04-23,199272.4,797089.6,Pending Renewal,Y,30,8.5,Rachel Green,Medium
+CTR-2024013,Technology Solutions,Oracle,License,Software License,2023-05-01,2026-04-25,11256.52,11256.52,Active,Y,90,13.5,Daniel Murphy,Medium
+CTR-2024014,Supply Chain Operations,Zoom Communications,Lease,Equipment Lease,2025-04-13,2026-04-22,36359.31,36359.31,Pending Renewal,N,120,0.0,Rachel Green,Medium
+CTR-2024015,Corporate Services,Databricks,Service,Staffing,2023-08-12,2026-04-14,31451.43,31451.43,Pending Renewal,N,30,0.0,Rachel Green,High
+CTR-2024016,Supply Chain Operations,Iron Mountain,Service,IT Support,2023-01-31,2026-04-24,4394782.94,4394782.94,Pending Renewal,N,120,1.5,Kevin O'Brien,Medium
+CTR-2024017,Financial Services,TCS,Subscription,Communication Suite,2025-09-23,2026-06-01,18708.04,18708.04,Active,Y,30,0.0,Jennifer Kim,High
+CTR-2024018,Supply Chain Operations,Microsoft,Lease,Equipment Lease,2023-06-14,2026-05-16,33801.4,169007.0,Active,N,30,0.0,Amanda Foster,Medium
+CTR-2024019,Supply Chain Operations,SAP,Service,Facilities Management,2025-12-06,2026-05-16,1817036.8,3634073.6,Active,Y,60,16.1,Jennifer Kim,Medium
+CTR-2024020,Corporate Services,Cushman Wakefield,Service,Staffing,2023-07-24,2026-05-20,125882.7,125882.7,Active,Y,30,3.9,Christopher Lee,Low
+CTR-2024021,Healthcare Division,Adobe,Service,Facilities Management,2023-08-01,2026-05-13,45588.51,45588.51,Active,Y,60,0.0,Stephanie Chang,Medium
+CTR-2024022,Technology Solutions,Slack Technologies,Subscription,Security Service,2023-04-15,2026-05-19,863478.47,863478.47,Active,N,90,0.0,Emily Watson,High
+CTR-2024023,Financial Services,AWS,Lease,Office Space,2023-11-02,2026-11-01,24768.64,74305.92,Active,N,30,9.1,James Chen,Low
+CTR-2024024,Corporate Services,Wipro,Subscription,Cloud Infrastructure,2023-07-30,2025-07-29,907307.76,1814615.52,Expired,Y,90,23.2,Lisa Patel,Low
+CTR-2024025,Technology Solutions,Cisco,Lease,Office Space,2024-11-11,2029-11-10,4208940.56,21044702.8,Active,N,60,17.5,Daniel Murphy,Medium
+CTR-2024026,Corporate Services,Dell Technologies,Lease,Equipment Lease,2025-07-31,2027-07-31,169301.82,338603.64,Active,Y,90,8.2,Kevin O'Brien,Low
+CTR-2024027,Healthcare Division,Palo Alto Networks,Subscription,Security Service,2024-11-09,2025-11-09,48816.02,48816.02,Expired,Y,30,10.9,Lisa Patel,Medium
+CTR-2024028,Healthcare Division,CrowdStrike,Lease,Office Space,2024-01-25,2026-01-24,27442.3,54884.6,Expired,Y,90,0.0,Stephanie Chang,Medium
+CTR-2024029,Technology Solutions,Oracle,Subscription,Communication Suite,2024-11-07,2027-11-07,177202.29,531606.87,Active,Y,90,10.2,Lisa Patel,Medium
+CTR-2024030,Healthcare Division,Fortinet,License,IP License,2025-02-15,2029-02-14,339221.87,1356887.48,Active,N,90,0.0,Lisa Patel,Medium
+CTR-2024031,Technology Solutions,NetSuite,Lease,Vehicle Fleet,2025-06-24,2029-06-23,28927.45,115709.8,Active,N,90,12.9,Robert Singh,Medium
+CTR-2024032,Healthcare Division,Adobe,Service,Consulting,2024-02-12,2025-02-11,19793.7,19793.7,Expired,Y,60,15.7,David Park,High
+CTR-2024033,Financial Services,Wipro,Lease,Data Center Space,2023-01-12,2028-01-11,4541860.82,22709304.1,Active,N,30,0.0,Maria Rodriguez,Medium
+CTR-2024034,Financial Services,Wipro,Service,Facilities Management,2023-09-06,2025-09-05,28585.73,57171.46,Expired,Y,90,18.9,Stephanie Chang,Medium
+CTR-2024035,Supply Chain Operations,Workday,Lease,Data Center Space,2025-08-30,2027-08-30,19889.59,39779.18,Active,Y,60,0.0,Daniel Murphy,High
+CTR-2024036,Corporate Services,Capgemini,Subscription,Cloud Infrastructure,2024-10-16,2027-10-16,16033.23,48099.69,Active,N,90,10.4,Michael Torres,Medium
+CTR-2024037,Financial Services,HP Enterprise,Lease,Office Space,2025-05-10,2027-05-10,3336317.66,6672635.32,Active,Y,60,23.6,Kevin O'Brien,High
+CTR-2024038,Financial Services,Slack Technologies,Lease,Equipment Lease,2024-07-12,2026-07-12,108328.58,216657.16,Active,N,90,11.7,David Park,High
+CTR-2024039,Supply Chain Operations,Regus,Service,Staffing,2023-02-25,2024-02-25,308559.59,308559.59,Expired,Y,60,5.3,Christopher Lee,Medium
+CTR-2024040,Financial Services,Cognizant,Subscription,Communication Suite,2023-06-17,2025-06-16,31576.76,63153.52,Active,Y,30,0.0,Kevin O'Brien,Low
+CTR-2024041,Corporate Services,Dell Technologies,Service,Consulting,2023-02-11,2026-02-10,15048.84,45146.52,At Risk,Y,90,0.0,Kevin O'Brien,Medium
+CTR-2024042,Healthcare Division,WeWork,Subscription,Cloud Infrastructure,2023-08-23,2028-08-21,971776.62,4858883.1,Active,Y,60,22.7,Christopher Lee,Medium
+CTR-2024043,Technology Solutions,Wipro,Service,Facilities Management,2024-09-09,2029-09-08,844422.37,4222111.85,Active,Y,120,13.3,James Chen,Medium
+CTR-2024044,Corporate Services,Fortinet,Subscription,SaaS Platform,2025-09-30,2026-09-30,104328.21,104328.21,Active,N,90,4.4,Kevin O'Brien,Medium
+CTR-2024045,Healthcare Division,VMware,Lease,Data Center Space,2024-07-03,2026-07-03,4322924.08,8645848.16,Active,N,30,0.0,Kevin O'Brien,Medium
+CTR-2024046,Financial Services,Slack Technologies,Subscription,SaaS Platform,2024-10-27,2025-10-27,103223.74,103223.74,Expired,Y,90,0.0,Kevin O'Brien,High
+CTR-2024047,Corporate Services,Wipro,License,Software License,2025-04-12,2027-04-12,86048.59,172097.18,Active,N,60,0.0,Daniel Murphy,High
+CTR-2024048,Technology Solutions,Adobe,Lease,Equipment Lease,2025-01-25,2027-01-25,101563.61,203127.22,Active,Y,60,11.3,Lisa Patel,Medium
+CTR-2024049,Technology Solutions,Snowflake,Service,Consulting,2024-01-15,2025-01-14,29367.94,29367.94,Active,Y,90,2.5,James Chen,High
+CTR-2024050,Technology Solutions,Adobe,Subscription,Cloud Infrastructure,2025-12-29,2026-12-29,48971.8,48971.8,Active,N,90,0.0,Sarah Mitchell,Medium
+CTR-2024051,Corporate Services,Zoom Communications,Subscription,Communication Suite,2024-11-28,2025-11-28,2009913.56,2009913.56,Active,Y,120,12.3,Robert Singh,Medium
+CTR-2024052,Corporate Services,JLL,License,IP License,2023-06-24,2024-06-23,40577.74,40577.74,Expired,Y,30,0.0,Emily Watson,Medium
+CTR-2024053,Financial Services,VMware,Subscription,Security Service,2023-05-04,2026-05-03,1396934.3,4190802.9,Pending Renewal,N,60,0.0,Emily Watson,High
+CTR-2024054,Technology Solutions,Accenture,Service,Consulting,2025-07-11,2029-07-10,93688.89,374755.56,Active,Y,90,0.0,Jennifer Kim,High
+CTR-2024055,Technology Solutions,Dell Technologies,Subscription,Security Service,2023-08-24,2026-08-23,15959.58,47878.74,Active,N,30,19.8,Jennifer Kim,Medium
+CTR-2024056,Supply Chain Operations,AWS,Subscription,Communication Suite,2024-09-14,2028-09-13,90836.93,363347.72,Active,N,30,22.2,Robert Singh,Medium
+CTR-2024057,Supply Chain Operations,SAP,Subscription,SaaS Platform,2023-02-12,2028-02-11,415608.82,2078044.1,Cancelled,N,60,11.1,David Park,High
+CTR-2024058,Supply Chain Operations,SAP,Lease,Data Center Space,2024-12-13,2026-12-13,150520.03,301040.06,Active,Y,60,0.0,Robert Singh,High
+CTR-2024059,Financial Services,SAP,Service,Staffing,2024-05-31,2026-05-31,40901.92,81803.84,Active,Y,60,4.7,Michael Torres,Medium
+CTR-2024060,Financial Services,HP Enterprise,Lease,Office Space,2023-09-26,2025-09-25,154737.5,309475.0,Expired,Y,120,4.0,Emily Watson,Medium
+CTR-2024061,Supply Chain Operations,Infosys,Lease,Office Space,2023-08-21,2025-08-20,3590838.76,7181677.52,Expired,Y,90,0.0,Kevin O'Brien,Medium
+CTR-2024062,Financial Services,NetSuite,Lease,Equipment Lease,2023-10-24,2025-10-23,33975.1,67950.2,Active,N,120,19.3,Amanda Foster,Low
+CTR-2024063,Healthcare Division,TCS,Subscription,SaaS Platform,2024-09-03,2029-09-02,199835.35,999176.75,Active,N,60,8.6,Daniel Murphy,Medium
+CTR-2024064,Supply Chain Operations,Snowflake,Lease,Data Center Space,2024-01-22,2028-01-21,25318.83,101275.32,Active,N,30,11.8,Kevin O'Brien,Low
+CTR-2024065,Financial Services,Slack Technologies,Lease,Equipment Lease,2023-09-16,2026-09-15,2327978.82,6983936.46,Active,N,30,11.4,Sarah Mitchell,Medium
+CTR-2024066,Financial Services,Zoom Communications,License,Software License,2024-06-26,2026-06-26,517986.66,1035973.32,Active,Y,120,0.0,Rachel Green,Medium
+CTR-2024067,Healthcare Division,Cushman Wakefield,Lease,Office Space,2024-04-25,2028-04-24,429903.2,1719612.8,Active,Y,60,0.0,James Chen,Low
+CTR-2024068,Corporate Services,Adobe,Lease,Equipment Lease,2023-03-01,2024-02-29,58417.88,58417.88,Expired,N,30,10.3,Stephanie Chang,Medium
+CTR-2024069,Technology Solutions,SAP,License,IP License,2025-02-22,2028-02-22,598133.8,1794401.4,Active,N,60,0.0,Christopher Lee,Medium
+CTR-2024070,Corporate Services,Iron Mountain,Lease,Vehicle Fleet,2023-06-01,2025-05-31,4950606.78,9901213.56,Expired,N,90,21.1,Maria Rodriguez,High
+CTR-2024071,Financial Services,Wipro,Lease,Office Space,2025-01-05,2028-01-05,37971.16,113913.48,Cancelled,N,60,21.6,Jennifer Kim,Low
+CTR-2024072,Corporate Services,Infosys,Lease,Vehicle Fleet,2024-12-22,2025-12-22,696712.93,696712.93,Expired,N,90,15.7,Christopher Lee,High
+CTR-2024073,Financial Services,Splunk,Service,Facilities Management,2023-09-27,2024-09-26,2306876.5,2306876.5,Expired,N,30,0.0,Daniel Murphy,Low
+CTR-2024074,Healthcare Division,Cognizant,Subscription,Cloud Infrastructure,2025-09-13,2030-09-12,44815.88,224079.4,Active,N,30,24.2,Stephanie Chang,Low
+CTR-2024075,Financial Services,Palo Alto Networks,Subscription,SaaS Platform,2024-06-25,2027-06-25,24743.43,74230.29,Active,Y,90,16.0,Sarah Mitchell,Medium
+CTR-2024076,Technology Solutions,Cushman Wakefield,Lease,Office Space,2024-11-02,2027-11-02,12528.68,37586.04,Active,Y,90,3.5,Stephanie Chang,Low
+CTR-2024077,Healthcare Division,Salesforce,Lease,Office Space,2023-10-05,2025-10-04,150572.93,301145.86,Active,Y,60,18.2,David Park,Low
+CTR-2024078,Corporate Services,Capgemini,Lease,Data Center Space,2025-01-28,2026-01-28,192583.28,192583.28,Active,Y,90,22.5,Sarah Mitchell,Medium
+CTR-2024079,Corporate Services,Dell Technologies,Lease,Vehicle Fleet,2025-07-20,2026-07-20,713363.57,713363.57,Active,Y,30,0.0,James Chen,High
+CTR-2024080,Technology Solutions,CBRE Group,License,Software License,2024-03-18,2029-03-17,2314238.21,11571191.05,Active,Y,30,24.6,David Park,Low
+CTR-2024081,Supply Chain Operations,AWS,Subscription,Cloud Infrastructure,2023-02-22,2024-02-22,41599.39,41599.39,Expired,Y,30,1.3,Lisa Patel,Medium
+CTR-2024082,Supply Chain Operations,Zoom Communications,Service,IT Support,2025-01-11,2028-01-11,117800.81,353402.43,Active,Y,30,0.0,Robert Singh,Low
+CTR-2024083,Supply Chain Operations,Deloitte,Subscription,Communication Suite,2025-09-07,2030-09-06,152914.62,764573.1,Active,N,30,0.0,Sarah Mitchell,Medium
+CTR-2024084,Technology Solutions,Capgemini,Service,Consulting,2024-10-27,2026-10-27,3122227.35,6244454.7,Active,Y,60,17.5,Christopher Lee,Low
+CTR-2024085,Supply Chain Operations,Nutanix,License,Data License,2024-04-12,2026-04-12,118024.84,236049.68,At Risk,Y,60,16.6,Stephanie Chang,Medium
+CTR-2024086,Technology Solutions,SAP,Lease,Office Space,2023-06-24,2024-06-23,161688.35,161688.35,Expired,N,90,23.9,Kevin O'Brien,Medium
+CTR-2024087,Corporate Services,VMware,Lease,Vehicle Fleet,2023-04-16,2025-04-15,481316.95,962633.9,Expired,N,30,0.0,Kevin O'Brien,High
+CTR-2024088,Corporate Services,Splunk,Subscription,Security Service,2024-07-24,2027-07-24,27164.5,81493.5,Active,Y,90,0.0,James Chen,Medium
+CTR-2024089,Supply Chain Operations,Cisco,Subscription,SaaS Platform,2024-09-24,2026-09-24,77210.83,154421.66,Active,N,30,15.8,Emily Watson,High
+CTR-2024090,Supply Chain Operations,Fortinet,License,Data License,2024-11-29,2025-11-29,158239.4,158239.4,Active,Y,90,1.3,Robert Singh,High
+CTR-2024091,Supply Chain Operations,Capgemini,Service,IT Support,2025-05-18,2027-05-18,531346.99,1062693.98,Active,Y,30,2.8,Robert Singh,Medium
+CTR-2024092,Supply Chain Operations,IBM,Lease,Vehicle Fleet,2025-03-20,2028-03-19,18176.92,54530.76,Active,N,120,8.2,David Park,High
+CTR-2024093,Financial Services,CrowdStrike,License,IP License,2024-04-16,2027-04-16,150207.23,450621.69,Active,N,120,0.0,Amanda Foster,Medium
+CTR-2024094,Financial Services,JLL,Service,Maintenance,2025-04-08,2029-04-07,431612.16,1726448.64,Active,Y,30,0.0,Jennifer Kim,Medium
+CTR-2024095,Healthcare Division,Salesforce,Service,Staffing,2025-06-11,2028-06-10,61797.06,185391.18,Active,Y,30,4.2,David Park,Medium
+CTR-2024096,Corporate Services,Palantir,License,Technology License,2023-10-30,2024-10-29,20238.73,20238.73,Expired,N,120,0.0,Daniel Murphy,High
+CTR-2024097,Financial Services,JLL,Lease,Data Center Space,2024-10-23,2029-10-22,2264555.58,11322777.9,Active,N,60,0.0,Lisa Patel,Low
+CTR-2024098,Supply Chain Operations,DocuSign,Service,Maintenance,2024-09-27,2026-09-27,58533.51,117067.02,Active,Y,90,0.0,James Chen,Low
+CTR-2024099,Supply Chain Operations,Regus,Lease,Data Center Space,2023-03-26,2025-03-25,3286626.75,6573253.5,Expired,Y,60,23.9,Amanda Foster,Medium
+CTR-2024100,Healthcare Division,Cisco,Service,Facilities Management,2024-05-22,2028-05-21,115913.27,463653.08,Active,N,60,7.1,Sarah Mitchell,Medium
